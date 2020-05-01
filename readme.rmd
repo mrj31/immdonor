@@ -1,10 +1,11 @@
 ---
 title: "immdonor"
-output: html_document
+output: rmarkdown::github_document
+
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+
 
 library(flowWorkspace)
 library(ImmPortR)
@@ -26,13 +27,6 @@ df<- tcell
 
 
 ```{r }
-p <- plot_ly(data = df, x = df$maxSubjectAge,y = df$biosampleType, 
-             color = ~biosampleType, 
-             type = "scatter",
-             mode = "markers",
-             showlegend = F,
-             text = ~paste("Donor:", subjectAccession,"Age:",maxSubjectAge,"Panel:", panel_id),
-             colors = "RdYlGn") 
 
 panels<- tcell %>% group_by(panel_id,parameters)  %>% count(marker_id)
 samples<-  tcell %>% group_by(biosampleType) %>% count(biosampleType)
@@ -40,6 +34,6 @@ samples<-  tcell %>% group_by(biosampleType) %>% count(biosampleType)
 
 
 ```{r  ,echo=FALSE}
-p
+samples
 ```
 
