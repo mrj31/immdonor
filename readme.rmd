@@ -1,0 +1,44 @@
+---
+title: "readme"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(flowWorkspace)
+library(ImmPortR)
+library(dplyr)
+library(ggcyto)
+library(openCyto)
+library(immdonor)
+
+
+SDY702<- donor_search(study = "SDY702")
+SDY1097<- donor_search(study = "SDY1097")
+meta<- rbind(SDY702,SDY1097)
+
+tcell<- panel_parser(donorMeta = meta)
+df<- tcell
+
+```
+
+
+```{r }
+p <- plot_ly(data = df, x = df$maxSubjectAge,y = df$biosampleType, 
+             color = ~biosampleType, 
+             type = "scatter",
+             mode = "markers",
+             showlegend = F,
+             text = ~paste("Donor:", subjectAccession,"Age:",maxSubjectAge,"Panel:", panel_id),
+             colors = "RdYlGn") 
+
+panels<- tcell %>% group_by(panel_id,parameters)  %>% count(marker_id)
+samples<-  tcell %>% group_by(biosampleType) %>% count(biosampleType)
+```
+
+
+```{r  ,echo=FALSE}
+
+```
+
