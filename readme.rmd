@@ -1,10 +1,10 @@
 ---
-title: "readme"
+title: "immdonor"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 
 library(flowWorkspace)
 library(ImmPortR)
@@ -12,6 +12,7 @@ library(dplyr)
 library(ggcyto)
 library(openCyto)
 library(immdonor)
+library(plotly)
 
 
 SDY702<- donor_search(study = "SDY702")
@@ -39,6 +40,6 @@ samples<-  tcell %>% group_by(biosampleType) %>% count(biosampleType)
 
 
 ```{r  ,echo=FALSE}
-
+p
 ```
 
