@@ -1,0 +1,6 @@
+CRIT7443~@~HIV positive~@~Exclusion~@~SDY1041~@~3670~@@~
+CRIT7444~@~Hepatitis B positive~@~Exclusion~@~SDY1041~@~3670~@@~
+CRIT7445~@~Hepatitis C positive~@~Exclusion~@~SDY1041~@~3670~@@~
+CRIT7442~@~cancer~@~Exclusion~@~SDY1041~@~3670~@@~
+CRIT7440~@~previously healthy~@~Inclusion~@~SDY1041~@~3670~@@~
+CRIT7441~@~Any chronic disease~@~Exclusion~@~SDY1041~@~3670~@@~

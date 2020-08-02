@@ -1,0 +1,19 @@
+ESR16765~@~ANA809~@~CD3~@~CD3~@~\N~@~317323~@~OKT3~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD3-BV650~@~BV650~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16766~@~ANA41~@~CD4~@~CD4~@~\N~@~344612~@~SK3~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD4-PeCy7~@~PeCy7~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16767~@~ANA810~@~CD8~@~CD8~@~\N~@~557834~@~SK1~@~\N~@~\N~@~N~@~\N~@~BD~@~CD8-APC-Cy7~@~APC-Cy7~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16769~@~ANA863~@~CD28~@~CD28~@~\N~@~12-0289-41~@~CD28.2~@~\N~@~\N~@~N~@~\N~@~ebioscience~@~CD28-PE~@~PE~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16770~@~ANA1044~@~CD31~@~CD31~@~\N~@~17-0319-42~@~WM-59~@~\N~@~\N~@~N~@~\N~@~ebioscience~@~CD31-APC~@~APC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16771~@~ANA816~@~CD45RA~@~CD45RA~@~\N~@~304133~@~HI100~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD45RA-BV605~@~BV605~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16772~@~ANA822~@~CD45RO~@~CD45RO~@~\N~@~46-0457-42~@~UCHL1~@~\N~@~\N~@~N~@~\N~@~ebioscience~@~CD45RO-PerCP-eF710~@~PerCP-eFluor 710~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16773~@~ANA865~@~CD69~@~CD69~@~\N~@~310929~@~FN50~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD69-BV421~@~BV421~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16774~@~ANA182~@~CD127~@~CD127~@~\N~@~351327~@~A019D5~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD127-BV711~@~BV711~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16775~@~ANA37~@~CCR7~@~CCR7~@~\N~@~335601~@~TG8/CCR7~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CCR7-AF488~@~AF488~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR16778~@~ANA877~@~CD103~@~CD103~@~\N~@~350210~@~Ber-ACT8~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~CD103-AF647~@~AF647~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19103~@~ANA805~@~CD19~@~CD19~@~\N~@~302211~@~HIB19~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~\N~@~APC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19104~@~ANA163~@~IL2RA~@~IL2RA~@~\N~@~555431~@~M-A251~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~\N~@~FITC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19105~@~ANA805~@~CD19~@~CD19~@~\N~@~MHCD1917~@~SJ25-C1~@~\N~@~\N~@~N~@~\N~@~Invitrogen~@~\N~@~PE-Texas-Red~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19106~@~ANA874~@~FOXP3~@~FOXP3~@~\N~@~12-4777-41~@~236A/E7~@~\N~@~\N~@~N~@~\N~@~eBioscience~@~\N~@~PE~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19107~@~ANA889~@~Ki67~@~Ki67~@~\N~@~652419~@~16A8~@~\N~@~\N~@~N~@~\N~@~BioLegend~@~\N~@~Alexa Fluor 700~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19108~@~ANA871~@~CD152~@~CD152~@~\N~@~not specified~@~not specified~@~\N~@~\N~@~N~@~\N~@~not specified~@~\N~@~PE-Cy5~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19109~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~Characterize T cell surface markers through flow cytometry.  Thome Nature Med 2015~@~Y~@~\N~@~\N~@~T cell surface staining panel for early life study~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR19110~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~Characterize Treg markers through intracellular staining and flow cytometry.  Thome Nature Med 2015.  Not all reagents used in every run.~@~Y~@~\N~@~\N~@~Treg staining panel for early life study~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~

@@ -1,0 +1,546 @@
+622660~@~Flow cytometry result~@~21935181~@~D100 - Treg D100  7-1-2013--Specimen_001_Blood.622660.fcs~@~D100 - Treg D100  7-1-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622661~@~Flow cytometry result~@~339615~@~D100 - Treg D100  7-1-2013--20141030.622661.wsp~@~D100 - Treg D100  7-1-2013--20141030.wsp~@~3670~@@~
+622662~@~Flow cytometry result~@~1257927~@~D100 - Treg D100  7-1-2013--Treg D100.622662.jo~@~D100 - Treg D100  7-1-2013--Treg D100.jo~@~3670~@@~
+622663~@~Flow cytometry result~@~211543~@~D100 - Treg D100  7-1-2013--treg mfi.622663.wsp~@~D100 - Treg D100  7-1-2013--treg mfi.wsp~@~3670~@@~
+622664~@~Flow cytometry compensation or control~@~262779~@~D104 - Treg D104 6-26-2013--Compensation Controls_FITC Stained Control.622664.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622665~@~Flow cytometry compensation or control~@~262783~@~D104 - Treg D104 6-26-2013--Compensation Controls_PE-Cy7 Stained Control.622665.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622666~@~Flow cytometry compensation or control~@~262775~@~D104 - Treg D104 6-26-2013--Compensation Controls_PE Stained Control.622666.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622667~@~Flow cytometry compensation or control~@~262788~@~D104 - Treg D104 6-26-2013--Compensation Controls_Qdot 605 Stained Control.622667.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622668~@~Flow cytometry compensation or control~@~262787~@~D104 - Treg D104 6-26-2013--Compensation Controls_Qdot 655 Stained Control.622668.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622669~@~Flow cytometry compensation or control~@~262788~@~D104 - Treg D104 6-26-2013--Compensation Controls_QDot 705 Stained Control.622669.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622670~@~Flow cytometry compensation or control~@~262773~@~D104 - Treg D104 6-26-2013--Compensation Controls_Unstained Control.622670.fcs~@~D104 - Treg D104 6-26-2013--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622671~@~Flow cytometry result~@~17613669~@~D100 - Treg D100  7-1-2013--Specimen_001_Colon.622671.fcs~@~D100 - Treg D100  7-1-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622672~@~Flow cytometry result~@~20084709~@~D100 - Treg D100  7-1-2013--Specimen_001_Ileum.622672.fcs~@~D100 - Treg D100  7-1-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622673~@~Flow cytometry result~@~28119799~@~D100 - Treg D100  7-1-2013--Specimen_001_MLN.622673.fcs~@~D100 - Treg D100  7-1-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622674~@~Flow cytometry result~@~26475718~@~D100 - Treg D100  7-1-2013--Specimen_001_Spleen.622674.fcs~@~D100 - Treg D100  7-1-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622675~@~Flow cytometry result~@~13261639~@~D104 - Treg D104 6-26-2013--Specimen_001_Blood.622675.fcs~@~D104 - Treg D104 6-26-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622676~@~Flow cytometry result~@~600722~@~D104 - Treg D104 6-26-2013--20140131 Workspace.622676.wsp~@~D104 - Treg D104 6-26-2013--20140131 Workspace.wsp~@~3670~@@~
+622677~@~Flow cytometry result~@~27379272~@~D104 - Treg D104 6-26-2013--Specimen_001_Colon.622677.fcs~@~D104 - Treg D104 6-26-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622678~@~Flow cytometry result~@~16949636~@~D104 - Treg D104 6-26-2013--Specimen_001_Jejunum.622678.fcs~@~D104 - Treg D104 6-26-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622679~@~Flow cytometry result~@~17370778~@~D104 - Treg D104 6-26-2013--Specimen_001_LLN.622679.fcs~@~D104 - Treg D104 6-26-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622680~@~Flow cytometry result~@~21936590~@~D104 - Treg D104 6-26-2013--Specimen_001_Spleen.622680.fcs~@~D104 - Treg D104 6-26-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622681~@~Flow cytometry result~@~7084356~@~D105 - Treg D105 8-9-2013--Specimen_001_Blood.622681.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622682~@~Flow cytometry result~@~1000925~@~D105 - Treg D105 8-9-2013--20130809 Workspace.622682.wsp~@~D105 - Treg D105 8-9-2013--20130809 Workspace.wsp~@~3670~@@~
+622683~@~Flow cytometry result~@~5871067~@~D105 - Treg D105 8-9-2013--Specimen_001_Colon.622683.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622684~@~Flow cytometry result~@~4157411~@~D105 - Treg D105 8-9-2013--Specimen_001_Ileum.622684.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622685~@~Flow cytometry result~@~9338858~@~D105 - Treg D105 8-9-2013--Specimen_001_ILN.622685.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622686~@~Flow cytometry result~@~6452741~@~D105 - Treg D105 8-9-2013--Specimen_001_Jejunum.622686.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622687~@~Flow cytometry result~@~10870458~@~D105 - Treg D105 8-9-2013--Specimen_001_LLN.622687.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622688~@~Flow cytometry result~@~6372483~@~D105 - Treg D105 8-9-2013--Specimen_001_Lung.622688.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622689~@~Flow cytometry result~@~5685194~@~D105 - Treg D105 8-9-2013--Specimen_001_MLN.622689.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622690~@~Flow cytometry result~@~15205421~@~D105 - Treg D105 8-9-2013--Specimen_001_Spleen.622690.fcs~@~D105 - Treg D105 8-9-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622691~@~Flow cytometry result~@~66235010~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_COLON.622691.fcs~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_COLON.fcs~@~3670~@@~
+622692~@~Flow cytometry result~@~458719~@~D106 - 7 22 D106 Treg surface D106--20140723.622692.wsp~@~D106 - 7 22 D106 Treg surface D106--20140723.wsp~@~3670~@@~
+622693~@~Flow cytometry result~@~476692~@~D106 - 7 22 D106 Treg surface D106--MFI redo.622693.wsp~@~D106 - 7 22 D106 Treg surface D106--MFI redo.wsp~@~3670~@@~
+622694~@~Flow cytometry compensation or control~@~363542~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Alexa Fluor 700 Stained Control.622694.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Alexa Fluor 700 Stained Control.fcs~@~3670~@@~
+622695~@~Flow cytometry compensation or control~@~363521~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_APC-Cy7 Stained Control.622695.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622696~@~Flow cytometry compensation or control~@~363518~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_APC Stained Control.622696.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622697~@~Flow cytometry compensation or control~@~363518~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_DAPI Stained Control.622697.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_DAPI Stained Control.fcs~@~3670~@@~
+622698~@~Flow cytometry compensation or control~@~363517~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_FITC Stained Control.622698.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622699~@~Flow cytometry compensation or control~@~363525~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE-Cy5 Stained Control.622699.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE-Cy5 Stained Control.fcs~@~3670~@@~
+622700~@~Flow cytometry compensation or control~@~363523~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE-Cy7 Stained Control.622700.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622701~@~Flow cytometry compensation or control~@~363515~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE Stained Control.622701.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622702~@~Flow cytometry compensation or control~@~363528~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Qdot 605 Stained Control.622702.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622703~@~Flow cytometry compensation or control~@~363528~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Qdot 655 Stained Control.622703.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622704~@~Flow cytometry compensation or control~@~363527~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_QDot 705 Stained Control.622704.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622705~@~Flow cytometry compensation or control~@~363513~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Unstained Control.622705.fcs~@~D106 - 7 22 D106 Treg surface D106--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622706~@~Flow cytometry result~@~66082110~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_JEJUNUM.622706.fcs~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_JEJUNUM.fcs~@~3670~@@~
+622707~@~Flow cytometry result~@~50281119~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_LLN.622707.fcs~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_LLN.fcs~@~3670~@@~
+622708~@~Flow cytometry result~@~35360544~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_LUNG.622708.fcs~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_LUNG.fcs~@~3670~@@~
+622709~@~Flow cytometry result~@~39087479~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_MLN.622709.fcs~@~D106 - 7 22 D106 Treg surface D106--Specimen_001_MLN.fcs~@~3670~@@~
+622710~@~Flow cytometry result~@~37106894~@~D107 - Donor107 surface_001--CD103_Colon.622710.fcs~@~D107 - Donor107 surface_001--CD103_Colon.fcs~@~3670~@@~
+622711~@~Flow cytometry result~@~1711963~@~D107 - Donor107 surface_001--D107 Infant Paper Analysis.622711.wsp~@~D107 - Donor107 surface_001--D107 Infant Paper Analysis.wsp~@~3670~@@~
+622712~@~Flow cytometry result~@~16246452~@~D107 - Donor107 surface_001--Donor 107 surface.622712.jo~@~D107 - Donor107 surface_001--Donor 107 surface.jo~@~3670~@@~
+622713~@~Flow cytometry compensation or control~@~363577~@~D31.2012-11-14.Compensation Controls_Alexa Fluor 488 Stained Control.622713.fcs~@~D31.2012-11-14.Compensation Controls_Alexa Fluor 488 Stained Control.fcs~@~3670~@@~
+622714~@~Flow cytometry compensation or control~@~363553~@~D31.2012-11-14.Compensation Controls_APC Stained Control.622714.fcs~@~D31.2012-11-14.Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622715~@~Flow cytometry compensation or control~@~363558~@~D31.2012-11-14.Compensation Controls_APC-Cy7 Stained Control.622715.fcs~@~D31.2012-11-14.Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622716~@~Flow cytometry compensation or control~@~363556~@~D31.2012-11-14.Compensation Controls_BV421 Stained Control.622716.fcs~@~D31.2012-11-14.Compensation Controls_BV421 Stained Control.fcs~@~3670~@@~
+622717~@~Flow cytometry compensation or control~@~363581~@~D31.2012-11-14.Compensation Controls_PE Alexa Fluor 610 Stained Control.622717.fcs~@~D31.2012-11-14.Compensation Controls_PE Alexa Fluor 610 Stained Control.fcs~@~3670~@@~
+622718~@~Flow cytometry compensation or control~@~363552~@~D31.2012-11-14.Compensation Controls_PE Stained Control.622718.fcs~@~D31.2012-11-14.Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622719~@~Flow cytometry compensation or control~@~363558~@~D31.2012-11-14.Compensation Controls_PE-Cy7 Stained Control.622719.fcs~@~D31.2012-11-14.Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622720~@~Flow cytometry compensation or control~@~363567~@~D31.2012-11-14.Compensation Controls_PerCP-Cy5-5 Stained Control.622720.fcs~@~D31.2012-11-14.Compensation Controls_PerCP-Cy5-5 Stained Control.fcs~@~3670~@@~
+622721~@~Flow cytometry compensation or control~@~363563~@~D31.2012-11-14.Compensation Controls_Qdot 605 Stained Control.622721.fcs~@~D31.2012-11-14.Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622722~@~Flow cytometry compensation or control~@~363561~@~D31.2012-11-14.Compensation Controls_Qdot 655 Stained Control.622722.fcs~@~D31.2012-11-14.Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622723~@~Flow cytometry compensation or control~@~363561~@~D31.2012-11-14.Compensation Controls_QDot 705 Stained Control.622723.fcs~@~D31.2012-11-14.Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622724~@~Flow cytometry compensation or control~@~363548~@~D31.2012-11-14.Compensation Controls_Unstained Control.622724.fcs~@~D31.2012-11-14.Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622725~@~Flow cytometry result~@~57384109~@~D107 - Donor107 surface_001--CD103_Ileum.622725.fcs~@~D107 - Donor107 surface_001--CD103_Ileum.fcs~@~3670~@@~
+622726~@~Flow cytometry result~@~40534815~@~D107 - Donor107 surface_001--CD103_Jejunum.622726.fcs~@~D107 - Donor107 surface_001--CD103_Jejunum.fcs~@~3670~@@~
+622727~@~Flow cytometry result~@~36190625~@~D107 - Donor107 surface_001--CD103_lung.622727.fcs~@~D107 - Donor107 surface_001--CD103_lung.fcs~@~3670~@@~
+622728~@~Flow cytometry result~@~7294989~@~D107 - Donor107 surface_001--CD31_Blood.622728.fcs~@~D107 - Donor107 surface_001--CD31_Blood.fcs~@~3670~@@~
+622729~@~Flow cytometry result~@~36676619~@~D107 - Donor107 surface_001--CD31_Colon.622729.fcs~@~D107 - Donor107 surface_001--CD31_Colon.fcs~@~3670~@@~
+622730~@~Flow cytometry result~@~37213164~@~D107 - Donor107 surface_001--CD31_Ileum.622730.fcs~@~D107 - Donor107 surface_001--CD31_Ileum.fcs~@~3670~@@~
+622731~@~Flow cytometry result~@~36788059~@~D107 - Donor107 surface_001--CD31_ILN.622731.fcs~@~D107 - Donor107 surface_001--CD31_ILN.fcs~@~3670~@@~
+622732~@~Flow cytometry result~@~36728462~@~D107 - Donor107 surface_001--CD31_Jejunum.622732.fcs~@~D107 - Donor107 surface_001--CD31_Jejunum.fcs~@~3670~@@~
+622733~@~Flow cytometry result~@~36872314~@~D107 - Donor107 surface_001--CD31_LLN.622733.fcs~@~D107 - Donor107 surface_001--CD31_LLN.fcs~@~3670~@@~
+622734~@~Flow cytometry result~@~36559980~@~D107 - Donor107 surface_001--CD31_Lung.622734.fcs~@~D107 - Donor107 surface_001--CD31_Lung.fcs~@~3670~@@~
+622735~@~Flow cytometry result~@~39960019~@~D107 - Donor107 surface_001--CD31_MLN.622735.fcs~@~D107 - Donor107 surface_001--CD31_MLN.fcs~@~3670~@@~
+622736~@~Flow cytometry result~@~43362670~@~D107 - Donor107 surface_001--CD31_Spleen.622736.fcs~@~D107 - Donor107 surface_001--CD31_Spleen.fcs~@~3670~@@~
+622737~@~Flow cytometry result~@~14373181~@~D107 Treg Stain 5-6-2014--Specimen_001_Blood.622737.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Blood.fcs~@~3670~@@~
+622738~@~Flow cytometry result~@~1288671~@~D107 Treg Stain 5-6-2014--D107 Treg Analysis.622738.wsp~@~D107 Treg Stain 5-6-2014--D107 Treg Analysis.wsp~@~3670~@@~
+622739~@~Flow cytometry result~@~1286885~@~D107 Treg Stain 5-6-2014--Supplemental Figure Redo.622739.wsp~@~D107 Treg Stain 5-6-2014--Supplemental Figure Redo.wsp~@~3670~@@~
+622740~@~Flow cytometry result~@~36548792~@~D107 Treg Stain 5-6-2014--Specimen_001_Colon.622740.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Colon.fcs~@~3670~@@~
+622741~@~Flow cytometry result~@~37305655~@~D107 Treg Stain 5-6-2014--Specimen_001_Ileum.622741.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Ileum.fcs~@~3670~@@~
+622742~@~Flow cytometry result~@~38609431~@~D107 Treg Stain 5-6-2014--Specimen_001_ILN.622742.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_ILN.fcs~@~3670~@@~
+622743~@~Flow cytometry result~@~37826646~@~D107 Treg Stain 5-6-2014--Specimen_001_Jej.622743.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Jej.fcs~@~3670~@@~
+622744~@~Flow cytometry result~@~42601112~@~D107 Treg Stain 5-6-2014--Specimen_001_LLN.622744.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_LLN.fcs~@~3670~@@~
+622745~@~Flow cytometry result~@~37641321~@~D107 Treg Stain 5-6-2014--Specimen_001_Lung.622745.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Lung.fcs~@~3670~@@~
+622746~@~Flow cytometry result~@~38207672~@~D107 Treg Stain 5-6-2014--Specimen_001_MLN.622746.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_MLN.fcs~@~3670~@@~
+622747~@~Flow cytometry result~@~29568535~@~D107 Treg Stain 5-6-2014--Specimen_001_Spleen.622747.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+622748~@~Flow cytometry result~@~21017531~@~D107 Treg Stain 5-6-2014--Specimen_001_Thymus.622748.fcs~@~D107 Treg Stain 5-6-2014--Specimen_001_Thymus.fcs~@~3670~@@~
+622749~@~Flow cytometry result~@~44966914~@~D108 Treg Stain--Specimen_001_Blood.622749.fcs~@~D108 Treg Stain--Specimen_001_Blood.fcs~@~3670~@@~
+622750~@~Flow cytometry result~@~613741~@~D108 Treg Stain--D108 CD69CD103 TREG STAIN.622750.wsp~@~D108 Treg Stain--D108 CD69CD103 TREG STAIN.wsp~@~3670~@@~
+622751~@~Flow cytometry compensation or control~@~363503~@~D108 Treg Stain--Compensation Controls_Alexa Fluor 700 Stained Control.622751.fcs~@~D108 Treg Stain--Compensation Controls_Alexa Fluor 700 Stained Control.fcs~@~3670~@@~
+622752~@~Flow cytometry compensation or control~@~363481~@~D108 Treg Stain--Compensation Controls_APC-Cy7 Stained Control.622752.fcs~@~D108 Treg Stain--Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622753~@~Flow cytometry compensation or control~@~363476~@~D108 Treg Stain--Compensation Controls_APC Stained Control.622753.fcs~@~D108 Treg Stain--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622754~@~Flow cytometry compensation or control~@~363478~@~D108 Treg Stain--Compensation Controls_DAPI Stained Control.622754.fcs~@~D108 Treg Stain--Compensation Controls_DAPI Stained Control.fcs~@~3670~@@~
+622755~@~Flow cytometry compensation or control~@~363479~@~D108 Treg Stain--Compensation Controls_FITC Stained Control.622755.fcs~@~D108 Treg Stain--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622756~@~Flow cytometry compensation or control~@~363485~@~D108 Treg Stain--Compensation Controls_PE-Cy5 Stained Control.622756.fcs~@~D108 Treg Stain--Compensation Controls_PE-Cy5 Stained Control.fcs~@~3670~@@~
+622757~@~Flow cytometry compensation or control~@~363483~@~D108 Treg Stain--Compensation Controls_PE-Cy7 Stained Control.622757.fcs~@~D108 Treg Stain--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622758~@~Flow cytometry compensation or control~@~363472~@~D108 Treg Stain--Compensation Controls_PE Stained Control.622758.fcs~@~D108 Treg Stain--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622759~@~Flow cytometry compensation or control~@~363489~@~D108 Treg Stain--Compensation Controls_Qdot 605 Stained Control.622759.fcs~@~D108 Treg Stain--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622760~@~Flow cytometry compensation or control~@~363488~@~D108 Treg Stain--Compensation Controls_QDot 705 Stained Control.622760.fcs~@~D108 Treg Stain--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622761~@~Flow cytometry compensation or control~@~363473~@~D108 Treg Stain--Compensation Controls_Unstained Control.622761.fcs~@~D108 Treg Stain--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622762~@~Flow cytometry result~@~76699475~@~D108 Treg Stain--Specimen_001_Colon.622762.fcs~@~D108 Treg Stain--Specimen_001_Colon.fcs~@~3670~@@~
+622763~@~Flow cytometry result~@~82767350~@~D108 Treg Stain--Specimen_001_Jejunum.622763.fcs~@~D108 Treg Stain--Specimen_001_Jejunum.fcs~@~3670~@@~
+622764~@~Flow cytometry result~@~70189086~@~D108 Treg Stain--Specimen_001_LLN.622764.fcs~@~D108 Treg Stain--Specimen_001_LLN.fcs~@~3670~@@~
+622765~@~Flow cytometry result~@~74199488~@~D108 Treg Stain--Specimen_001_Lung.622765.fcs~@~D108 Treg Stain--Specimen_001_Lung.fcs~@~3670~@@~
+622766~@~Flow cytometry result~@~24166101~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Blood.622766.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Blood.fcs~@~3670~@@~
+622767~@~Flow cytometry result~@~505127~@~D110 - Treg D110 07-09-2013 Beads--20140424.622767.wsp~@~D110 - Treg D110 07-09-2013 Beads--20140424.wsp~@~3670~@@~
+622768~@~Flow cytometry result~@~854873~@~D110 - Treg D110 07-09-2013 Beads--Treg D110.622768.jo~@~D110 - Treg D110 07-09-2013 Beads--Treg D110.jo~@~3670~@@~
+622769~@~Flow cytometry compensation or control~@~202553~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_APC Stained Control.622769.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622770~@~Flow cytometry compensation or control~@~202555~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_FITC Stained Control.622770.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622771~@~Flow cytometry compensation or control~@~202561~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_PE-Cy7 Stained Control.622771.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622772~@~Flow cytometry compensation or control~@~202548~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_PE Stained Control.622772.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622773~@~Flow cytometry compensation or control~@~202563~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Qdot 605 Stained Control.622773.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622774~@~Flow cytometry compensation or control~@~202567~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Qdot 655 Stained Control.622774.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622775~@~Flow cytometry compensation or control~@~202562~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_QDot 705 Stained Control.622775.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622776~@~Flow cytometry compensation or control~@~202549~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Unstained Control.622776.fcs~@~D110 - Treg D110 07-09-2013 Beads--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622777~@~Flow cytometry result~@~15130667~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_ILN.622777.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_ILN.fcs~@~3670~@@~
+622778~@~Flow cytometry result~@~18238666~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_LLN.622778.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_LLN.fcs~@~3670~@@~
+622779~@~Flow cytometry result~@~21978068~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_MLN.622779.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_MLN.fcs~@~3670~@@~
+622780~@~Flow cytometry result~@~17141069~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Spleen.622780.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Spleen.fcs~@~3670~@@~
+622781~@~Flow cytometry result~@~14910871~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Thymus.622781.fcs~@~D110 - Treg D110 07-09-2013 Beads--Specimen_001_Thymus.fcs~@~3670~@@~
+622782~@~Flow cytometry result~@~19518292~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Blood.622782.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Blood.fcs~@~3670~@@~
+622783~@~Flow cytometry result~@~895881~@~D113 - Treg D113 08-08-2013_002--20130808 Workspace.622783.wsp~@~D113 - Treg D113 08-08-2013_002--20130808 Workspace.wsp~@~3670~@@~
+622784~@~Flow cytometry result~@~1300209~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Colon.622784.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Colon.fcs~@~3670~@@~
+622785~@~Flow cytometry result~@~2866810~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Ileum.622785.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Ileum.fcs~@~3670~@@~
+622786~@~Flow cytometry result~@~19042295~@~D113 - Treg D113 08-08-2013_002--Specimen_001_ILN.622786.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_ILN.fcs~@~3670~@@~
+622787~@~Flow cytometry result~@~19967641~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Jejunum.622787.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Jejunum.fcs~@~3670~@@~
+622788~@~Flow cytometry result~@~14105869~@~D113 - Treg D113 08-08-2013_002--Specimen_001_LLN.622788.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_LLN.fcs~@~3670~@@~
+622789~@~Flow cytometry result~@~13928070~@~D113 - Treg D113 08-08-2013_002--Specimen_001_MLN.622789.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_MLN.fcs~@~3670~@@~
+622790~@~Flow cytometry result~@~19267695~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Spleen.622790.fcs~@~D113 - Treg D113 08-08-2013_002--Specimen_001_Spleen.fcs~@~3670~@@~
+622791~@~Flow cytometry result~@~22213265~@~D115 - Treg D115 08-17-2013--Specimen_001_Blood.622791.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622792~@~Flow cytometry result~@~717028~@~D115 - Treg D115 08-17-2013--Treg 115 Analysis.622792.wsp~@~D115 - Treg D115 08-17-2013--Treg 115 Analysis.wsp~@~3670~@@~
+622793~@~Flow cytometry result~@~12808066~@~D115 - Treg D115 08-17-2013--Specimen_001_Colon.622793.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622794~@~Flow cytometry result~@~15749462~@~D115 - Treg D115 08-17-2013--Specimen_001_Ileum.622794.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622795~@~Flow cytometry result~@~19899065~@~D115 - Treg D115 08-17-2013--Specimen_001_ILN.622795.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622796~@~Flow cytometry result~@~17709464~@~D115 - Treg D115 08-17-2013--Specimen_001_LLN.622796.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622797~@~Flow cytometry result~@~14913666~@~D115 - Treg D115 08-17-2013--Specimen_001_Lung.622797.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622798~@~Flow cytometry result~@~29501662~@~D115 - Treg D115 08-17-2013--Specimen_001_MLN.622798.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622799~@~Flow cytometry result~@~30614663~@~D115 - Treg D115 08-17-2013--Specimen_001_Spleen.622799.fcs~@~D115 - Treg D115 08-17-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622800~@~Flow cytometry result~@~37364246~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Colon.622800.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Colon.fcs~@~3670~@@~
+622801~@~Flow cytometry result~@~1255080~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD4 CD8 for paper.622801.wsp~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD4 CD8 for paper.wsp~@~3670~@@~
+622802~@~Flow cytometry result~@~2214288~@~D118 - Surface Stain D118-Infant 9-4-2013_001--D118 Infant Surface Stain.622802.wsp~@~D118 - Surface Stain D118-Infant 9-4-2013_001--D118 Infant Surface Stain.wsp~@~3670~@@~
+622803~@~Flow cytometry compensation or control~@~283199~@~D109.2013-07-04.Compensation Controls_Alexa Fluor 488 Stained Control.622803.fcs~@~D109.2013-07-04.Compensation Controls_Alexa Fluor 488 Stained Control.fcs~@~3670~@@~
+622804~@~Flow cytometry compensation or control~@~283173~@~D109.2013-07-04.Compensation Controls_APC Stained Control.622804.fcs~@~D109.2013-07-04.Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622805~@~Flow cytometry compensation or control~@~283181~@~D109.2013-07-04.Compensation Controls_APC-Cy7 Stained Control.622805.fcs~@~D109.2013-07-04.Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622806~@~Flow cytometry compensation or control~@~283177~@~D109.2013-07-04.Compensation Controls_BV421 Stained Control.622806.fcs~@~D109.2013-07-04.Compensation Controls_BV421 Stained Control.fcs~@~3670~@@~
+622807~@~Flow cytometry compensation or control~@~283169~@~D109.2013-07-04.Compensation Controls_PE Stained Control.622807.fcs~@~D109.2013-07-04.Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622808~@~Flow cytometry compensation or control~@~283178~@~D109.2013-07-04.Compensation Controls_PE-Cy7 Stained Control.622808.fcs~@~D109.2013-07-04.Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622809~@~Flow cytometry compensation or control~@~283192~@~D109.2013-07-04.Compensation Controls_PE-Texas Red Stained Control.622809.fcs~@~D109.2013-07-04.Compensation Controls_PE-Texas Red Stained Control.fcs~@~3670~@@~
+622810~@~Flow cytometry compensation or control~@~283191~@~D109.2013-07-04.Compensation Controls_PerCP-Cy5-5 Stained Control.622810.fcs~@~D109.2013-07-04.Compensation Controls_PerCP-Cy5-5 Stained Control.fcs~@~3670~@@~
+622811~@~Flow cytometry compensation or control~@~283182~@~D109.2013-07-04.Compensation Controls_Qdot 605 Stained Control.622811.fcs~@~D109.2013-07-04.Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622812~@~Flow cytometry compensation or control~@~283181~@~D109.2013-07-04.Compensation Controls_Qdot 655 Stained Control.622812.fcs~@~D109.2013-07-04.Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622813~@~Flow cytometry compensation or control~@~283184~@~D109.2013-07-04.Compensation Controls_QDot 705 Stained Control.622813.fcs~@~D109.2013-07-04.Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622814~@~Flow cytometry compensation or control~@~283171~@~D109.2013-07-04.Compensation Controls_Unstained Control.622814.fcs~@~D109.2013-07-04.Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622815~@~Flow cytometry result~@~36453738~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Ileum.622815.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Ileum.fcs~@~3670~@@~
+622816~@~Flow cytometry result~@~36521130~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Jejunum.622816.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Jejunum.fcs~@~3670~@@~
+622817~@~Flow cytometry result~@~36364309~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Lung.622817.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD103_Lung.fcs~@~3670~@@~
+622818~@~Flow cytometry result~@~36333325~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Blood.622818.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Blood.fcs~@~3670~@@~
+622819~@~Flow cytometry result~@~37434928~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Colon.622819.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Colon.fcs~@~3670~@@~
+622820~@~Flow cytometry result~@~46455093~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Ileum.622820.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Ileum.fcs~@~3670~@@~
+622821~@~Flow cytometry result~@~37033164~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_ILN.622821.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_ILN.fcs~@~3670~@@~
+622822~@~Flow cytometry result~@~36566609~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Jejunum.622822.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Jejunum.fcs~@~3670~@@~
+622823~@~Flow cytometry result~@~41623596~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_LLN.622823.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_LLN.fcs~@~3670~@@~
+622824~@~Flow cytometry result~@~54056126~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Lung.622824.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Lung.fcs~@~3670~@@~
+622825~@~Flow cytometry result~@~40252425~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_MLN.622825.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_MLN.fcs~@~3670~@@~
+622826~@~Flow cytometry result~@~36977436~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Spleen.622826.fcs~@~D118 - Surface Stain D118-Infant 9-4-2013_001--CD31_Spleen.fcs~@~3670~@@~
+622827~@~Flow cytometry result~@~28066666~@~D118 - Treg D118 9-5-2013--Specimen_001_Blood.622827.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622828~@~Flow cytometry result~@~1319475~@~D118 - Treg D118 9-5-2013--20130905 Workspace.622828.wsp~@~D118 - Treg D118 9-5-2013--20130905 Workspace.wsp~@~3670~@@~
+622829~@~Flow cytometry result~@~14168642~@~D118 - Treg D118 9-5-2013--Specimen_001_Colon.622829.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622830~@~Flow cytometry result~@~39259660~@~D118 - Treg D118 9-5-2013--Specimen_001_Ileum.622830.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622831~@~Flow cytometry result~@~31478463~@~D118 - Treg D118 9-5-2013--Specimen_001_ILN.622831.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622832~@~Flow cytometry result~@~17801196~@~D118 - Treg D118 9-5-2013--Specimen_001_Jejunum.622832.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622833~@~Flow cytometry result~@~23697263~@~D118 - Treg D118 9-5-2013--Specimen_001_LLN.622833.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622834~@~Flow cytometry result~@~28656065~@~D118 - Treg D118 9-5-2013--Specimen_001_Lung.622834.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622835~@~Flow cytometry result~@~39181258~@~D118 - Treg D118 9-5-2013--Specimen_001_MLN.622835.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622836~@~Flow cytometry result~@~19511265~@~D118 - Treg D118 9-5-2013--Specimen_001_Spleen.622836.fcs~@~D118 - Treg D118 9-5-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622837~@~Flow cytometry result~@~36205012~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_Blood.622837.fcs~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_Blood.fcs~@~3670~@@~
+622838~@~Flow cytometry result~@~371066~@~D123 - Surface Stain D123-Infant 10-10-2013_002--D123 CD103 Analysis.622838.wsp~@~D123 - Surface Stain D123-Infant 10-10-2013_002--D123 CD103 Analysis.wsp~@~3670~@@~
+622839~@~Flow cytometry result~@~28159478~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_MLN.622839.fcs~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_MLN.fcs~@~3670~@@~
+622840~@~Flow cytometry result~@~22668186~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_Spleen.622840.fcs~@~D123 - Surface Stain D123-Infant 10-10-2013_002--CD103_Spleen.fcs~@~3670~@@~
+622841~@~Flow cytometry result~@~28513267~@~D123 - Treg D123 10-11-2013--Specimen_001_Blood.622841.fcs~@~D123 - Treg D123 10-11-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622842~@~Flow cytometry result~@~400189~@~D123 - Treg D123 10-11-2013--D123.622842.wsp~@~D123 - Treg D123 10-11-2013--D123.wsp~@~3670~@@~
+622843~@~Flow cytometry result~@~28083460~@~D123 - Treg D123 10-11-2013--Specimen_001_MLN.622843.fcs~@~D123 - Treg D123 10-11-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622844~@~Flow cytometry result~@~28406867~@~D123 - Treg D123 10-11-2013--Specimen_001_Spleen.622844.fcs~@~D123 - Treg D123 10-11-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622845~@~Flow cytometry result~@~43752265~@~D125 - Treg D125 10-21-2013--Specimen_001_Blood.622845.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622846~@~Flow cytometry result~@~946224~@~D125 - Treg D125 10-21-2013--D125 Treg Stain.622846.wsp~@~D125 - Treg D125 10-21-2013--D125 Treg Stain.wsp~@~3670~@@~
+622847~@~Flow cytometry result~@~7449707~@~D125 - Treg D125 10-21-2013--Specimen_001_Colon.622847.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622848~@~Flow cytometry result~@~26631668~@~D125 - Treg D125 10-21-2013--Specimen_001_Ileum.622848.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622849~@~Flow cytometry result~@~38985266~@~D125 - Treg D125 10-21-2013--Specimen_001_ILN.622849.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622850~@~Flow cytometry result~@~7886117~@~D125 - Treg D125 10-21-2013--Specimen_001_Jejunum.622850.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622851~@~Flow cytometry result~@~42601465~@~D125 - Treg D125 10-21-2013--Specimen_001_LLN.622851.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622852~@~Flow cytometry result~@~34298066~@~D125 - Treg D125 10-21-2013--Specimen_001_Lung.622852.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622853~@~Flow cytometry result~@~32087466~@~D125 - Treg D125 10-21-2013--Specimen_001_MLN.622853.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622854~@~Flow cytometry result~@~38636668~@~D125 - Treg D125 10-21-2013--Specimen_001_Spleen.622854.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622855~@~Flow cytometry result~@~45155069~@~D125 - Treg D125 10-21-2013--Specimen_001_Thymus.622855.fcs~@~D125 - Treg D125 10-21-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+622856~@~Flow cytometry result~@~28990201~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Blood.622856.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Blood.fcs~@~3670~@@~
+622857~@~Flow cytometry result~@~2108033~@~D127 - Surface Stain D127-Infant 10-24-2013--D127 Edit.622857.jo~@~D127 - Surface Stain D127-Infant 10-24-2013--D127 Edit.jo~@~3670~@@~
+622858~@~Flow cytometry result~@~1647647~@~D127 - Surface Stain D127-Infant 10-24-2013--D127 Infant Paper Analysis.622858.wsp~@~D127 - Surface Stain D127-Infant 10-24-2013--D127 Infant Paper Analysis.wsp~@~3670~@@~
+622859~@~Flow cytometry result~@~17377939~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Colon.622859.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Colon.fcs~@~3670~@@~
+622860~@~Flow cytometry result~@~25111167~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Ileum.622860.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Ileum.fcs~@~3670~@@~
+622861~@~Flow cytometry result~@~28758109~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_ILN.622861.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_ILN.fcs~@~3670~@@~
+622862~@~Flow cytometry result~@~20310780~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Jej.622862.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Jej.fcs~@~3670~@@~
+622863~@~Flow cytometry result~@~36304716~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_LLN.622863.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_LLN.fcs~@~3670~@@~
+622864~@~Flow cytometry result~@~36604093~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Lung.622864.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Lung.fcs~@~3670~@@~
+622865~@~Flow cytometry result~@~35588030~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_MLN.622865.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_MLN.fcs~@~3670~@@~
+622866~@~Flow cytometry result~@~39806509~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Spleen.622866.fcs~@~D127 - Surface Stain D127-Infant 10-24-2013--CD103_Spleen.fcs~@~3670~@@~
+622867~@~Flow cytometry result~@~6606068~@~D127 - Treg D127 10-24-2013--Specimen_001_Blood.622867.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622868~@~Flow cytometry result~@~809105~@~D127 - Treg D127 10-24-2013--D127 FOXP3 Intensity Redo.622868.wsp~@~D127 - Treg D127 10-24-2013--D127 FOXP3 Intensity Redo.wsp~@~3670~@@~
+622869~@~Flow cytometry result~@~1076175~@~D127 - Treg D127 10-24-2013--Treg Stain D127.622869.wsp~@~D127 - Treg D127 10-24-2013--Treg Stain D127.wsp~@~3670~@@~
+622870~@~Flow cytometry result~@~7268044~@~D127 - Treg D127 10-24-2013--Specimen_001_Colon.622870.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622871~@~Flow cytometry result~@~2519579~@~D127 - Treg D127 10-24-2013--Specimen_001_Ileum.622871.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622872~@~Flow cytometry result~@~31076504~@~D127 - Treg D127 10-24-2013--Specimen_001_ILN.622872.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622873~@~Flow cytometry result~@~8145963~@~D127 - Treg D127 10-24-2013--Specimen_001_Jejunum.622873.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622874~@~Flow cytometry result~@~43538067~@~D127 - Treg D127 10-24-2013--Specimen_001_LLN.622874.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622875~@~Flow cytometry result~@~39784667~@~D127 - Treg D127 10-24-2013--Specimen_001_Lung.622875.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622876~@~Flow cytometry result~@~32252667~@~D127 - Treg D127 10-24-2013--Specimen_001_MLN.622876.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622877~@~Flow cytometry result~@~43083068~@~D127 - Treg D127 10-24-2013--Specimen_001_Spleen.622877.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622878~@~Flow cytometry result~@~42579067~@~D127 - Treg D127 10-24-2013--Specimen_001_Thymus.622878.fcs~@~D127 - Treg D127 10-24-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+622879~@~Flow cytometry result~@~23292980~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Blood.622879.fcs~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Blood.fcs~@~3670~@@~
+622880~@~Flow cytometry result~@~322885~@~D128 - Surface Stain D128-Infant 10-28-2013_001--20150716.622880.wsp~@~D128 - Surface Stain D128-Infant 10-28-2013_001--20150716.wsp~@~3670~@@~
+622881~@~Flow cytometry result~@~4236073~@~D128 - Surface Stain D128-Infant 10-28-2013_001--D128 lymphocytes.622881.jo~@~D128 - Surface Stain D128-Infant 10-28-2013_001--D128 lymphocytes.jo~@~3670~@@~
+622882~@~Flow cytometry result~@~15199458~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_MLN.622882.fcs~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_MLN.fcs~@~3670~@@~
+622883~@~Flow cytometry result~@~72005158~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Spleen.622883.fcs~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Spleen.fcs~@~3670~@@~
+622884~@~Flow cytometry result~@~72005158~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Thymus.622884.fcs~@~D128 - Surface Stain D128-Infant 10-28-2013_001--CD103_Thymus.fcs~@~3670~@@~
+622885~@~Flow cytometry result~@~2344405~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Blood.622885.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622886~@~Flow cytometry result~@~2503641~@~D129 - New Treg Thymus Stain D129 10-25-2013--D129 New Treg stain.622886.jo~@~D129 - New Treg Thymus Stain D129 10-25-2013--D129 New Treg stain.jo~@~3670~@@~
+622887~@~Flow cytometry result~@~874844~@~D129 - New Treg Thymus Stain D129 10-25-2013--FOXP3 intensity redo.622887.wsp~@~D129 - New Treg Thymus Stain D129 10-25-2013--FOXP3 intensity redo.wsp~@~3670~@@~
+622888~@~Flow cytometry result~@~1014410~@~D129 - New Treg Thymus Stain D129 10-25-2013--workspace for cd69 cd103 gating.622888.wsp~@~D129 - New Treg Thymus Stain D129 10-25-2013--workspace for cd69 cd103 gating.wsp~@~3670~@@~
+622889~@~Flow cytometry compensation or control~@~363566~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Alexa Fluor 700 Stained Control.622889.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Alexa Fluor 700 Stained Control.fcs~@~3670~@@~
+622890~@~Flow cytometry compensation or control~@~363544~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_APC-Cy7 Stained Control.622890.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622891~@~Flow cytometry compensation or control~@~363540~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_APC Stained Control.622891.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622892~@~Flow cytometry compensation or control~@~363540~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_BV421 Stained Control.622892.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_BV421 Stained Control.fcs~@~3670~@@~
+622893~@~Flow cytometry compensation or control~@~363542~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_FITC Stained Control.622893.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622894~@~Flow cytometry compensation or control~@~363546~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE-Cy5 Stained Control.622894.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE-Cy5 Stained Control.fcs~@~3670~@@~
+622895~@~Flow cytometry compensation or control~@~363543~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE-Cy7 Stained Control.622895.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622896~@~Flow cytometry compensation or control~@~363536~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE Stained Control.622896.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622897~@~Flow cytometry compensation or control~@~363551~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Qdot 605 Stained Control.622897.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622898~@~Flow cytometry compensation or control~@~363548~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Qdot 655 Stained Control.622898.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622899~@~Flow cytometry compensation or control~@~363551~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_QDot 705 Stained Control.622899.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622900~@~Flow cytometry compensation or control~@~363536~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Unstained Control.622900.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622901~@~Flow cytometry result~@~9608558~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Colon.622901.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622902~@~Flow cytometry result~@~904223~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Ileum.622902.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622903~@~Flow cytometry result~@~10797276~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_ILN.622903.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622904~@~Flow cytometry result~@~25356558~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Jejunum.622904.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622905~@~Flow cytometry result~@~23498833~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_LLN.622905.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622906~@~Flow cytometry result~@~35479611~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Lung.622906.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622907~@~Flow cytometry result~@~9069636~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_MLN.622907.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_MLN.fcs~@~3670~@@~
+622908~@~Flow cytometry result~@~40530119~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_SP.622908.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_SP.fcs~@~3670~@@~
+622909~@~Flow cytometry result~@~15986460~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Thy.622909.fcs~@~D129 - New Treg Thymus Stain D129 10-25-2013--Specimen_001_Thy.fcs~@~3670~@@~
+622910~@~Flow cytometry result~@~38464276~@~D130 - New Treg Thymus Stain D130--Specimen_001_Colon.622910.fcs~@~D130 - New Treg Thymus Stain D130--Specimen_001_Colon.fcs~@~3670~@@~
+622911~@~Flow cytometry result~@~978765~@~D130 - New Treg Thymus Stain D130--D130 New Treg.622911.wsp~@~D130 - New Treg Thymus Stain D130--D130 New Treg.wsp~@~3670~@@~
+622912~@~Flow cytometry result~@~438831~@~D130 - New Treg Thymus Stain D130--workspace for cd69 cd103 gating.622912.wsp~@~D130 - New Treg Thymus Stain D130--workspace for cd69 cd103 gating.wsp~@~3670~@@~
+622913~@~Flow cytometry result~@~5505340~@~D130 - New Treg Thymus Stain D130--Specimen_001_Ileum.622913.fcs~@~D130 - New Treg Thymus Stain D130--Specimen_001_Ileum.fcs~@~3670~@@~
+622914~@~Flow cytometry result~@~10869861~@~D130 - New Treg Thymus Stain D130--Specimen_001_Jejunum.622914.fcs~@~D130 - New Treg Thymus Stain D130--Specimen_001_Jejunum.fcs~@~3670~@@~
+622915~@~Flow cytometry result~@~37944577~@~D130 - New Treg Thymus Stain D130--Specimen_001_SP.622915.fcs~@~D130 - New Treg Thymus Stain D130--Specimen_001_SP.fcs~@~3670~@@~
+622916~@~Flow cytometry result~@~51663711~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_Blood.622916.fcs~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_Blood.fcs~@~3670~@@~
+622917~@~Flow cytometry result~@~439348~@~D130 - Surface Stain D130-Infant 10-29-2013--D130 CD69 CD103 Analysis.622917.wsp~@~D130 - Surface Stain D130-Infant 10-29-2013--D130 CD69 CD103 Analysis.wsp~@~3670~@@~
+622918~@~Flow cytometry result~@~632684~@~D130 - Surface Stain D130-Infant 10-29-2013--D130 CD69103.622918.wsp~@~D130 - Surface Stain D130-Infant 10-29-2013--D130 CD69103.wsp~@~3670~@@~
+622919~@~Flow cytometry result~@~2632581~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_ILN.622919.fcs~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_ILN.fcs~@~3670~@@~
+622920~@~Flow cytometry result~@~32243149~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_MLN.622920.fcs~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_MLN.fcs~@~3670~@@~
+622921~@~Flow cytometry result~@~36225758~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_Spleen.622921.fcs~@~D130 - Surface Stain D130-Infant 10-29-2013--CD103_Spleen.fcs~@~3670~@@~
+622922~@~Flow cytometry result~@~40597472~@~D135 NX5KEL-F--Specimen_001_Blood.622922.fcs~@~D135 NX5KEL-F--Specimen_001_Blood.fcs~@~3670~@@~
+622923~@~Flow cytometry result~@~2060774~@~D135 NX5KEL-F--D135 New Treg.622923.jo~@~D135 NX5KEL-F--D135 New Treg.jo~@~3670~@@~
+622924~@~Flow cytometry result~@~5066639~@~D135 NX5KEL-F--Specimen_001_Colon.622924.fcs~@~D135 NX5KEL-F--Specimen_001_Colon.fcs~@~3670~@@~
+622925~@~Flow cytometry result~@~25032512~@~D135 NX5KEL-F--Specimen_001_Ileum.622925.fcs~@~D135 NX5KEL-F--Specimen_001_Ileum.fcs~@~3670~@@~
+622926~@~Flow cytometry result~@~24564654~@~D135 NX5KEL-F--Specimen_001_ILN.622926.fcs~@~D135 NX5KEL-F--Specimen_001_ILN.fcs~@~3670~@@~
+622927~@~Flow cytometry result~@~4756450~@~D135 NX5KEL-F--Specimen_001_Jejunum.622927.fcs~@~D135 NX5KEL-F--Specimen_001_Jejunum.fcs~@~3670~@@~
+622928~@~Flow cytometry result~@~29398734~@~D135 NX5KEL-F--Specimen_001_LLN.622928.fcs~@~D135 NX5KEL-F--Specimen_001_LLN.fcs~@~3670~@@~
+622929~@~Flow cytometry result~@~30470527~@~D135 NX5KEL-F--Specimen_001_Lung.622929.fcs~@~D135 NX5KEL-F--Specimen_001_Lung.fcs~@~3670~@@~
+622930~@~Flow cytometry result~@~33089742~@~D135 NX5KEL-F--Specimen_001_MLN.622930.fcs~@~D135 NX5KEL-F--Specimen_001_MLN.fcs~@~3670~@@~
+622931~@~Flow cytometry result~@~29525745~@~D135 NX5KEL-F--Specimen_001_Spleen.622931.fcs~@~D135 NX5KEL-F--Specimen_001_Spleen.fcs~@~3670~@@~
+622932~@~Flow cytometry result~@~32726894~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Blood.622932.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622933~@~Flow cytometry result~@~1409117~@~D137 - New Treg Thymus Stain D137 12-9-2013--20131209 Workspace.622933.wsp~@~D137 - New Treg Thymus Stain D137 12-9-2013--20131209 Workspace.wsp~@~3670~@@~
+622934~@~Flow cytometry result~@~697195~@~D137 - New Treg Thymus Stain D137 12-9-2013--D63 Treg.622934.wsp~@~D137 - New Treg Thymus Stain D137 12-9-2013--D63 Treg.wsp~@~3670~@@~
+622935~@~Flow cytometry result~@~18299836~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Colon.622935.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622936~@~Flow cytometry result~@~41438620~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_ILN.622936.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622937~@~Flow cytometry result~@~23866144~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Jejunum.622937.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622938~@~Flow cytometry result~@~63473212~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_LLN.622938.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622939~@~Flow cytometry result~@~41474909~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Lung.622939.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622940~@~Flow cytometry result~@~37173487~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Spleen.622940.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622941~@~Flow cytometry result~@~31167822~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Thymus.622941.fcs~@~D137 - New Treg Thymus Stain D137 12-9-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+622942~@~Flow cytometry result~@~32285710~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Blood.622942.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Blood.fcs~@~3670~@@~
+622943~@~Flow cytometry result~@~1213897~@~D139 - Treg Stain D139 12-30-2013--20140131 Workspace.622943.wsp~@~D139 - Treg Stain D139 12-30-2013--20140131 Workspace.wsp~@~3670~@@~
+622944~@~Flow cytometry compensation or control~@~363549~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Alexa Fluor 700 Stained Control.622944.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Alexa Fluor 700 Stained Control.fcs~@~3670~@@~
+622945~@~Flow cytometry compensation or control~@~363534~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_APC-Cy7 Stained Control.622945.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+622946~@~Flow cytometry compensation or control~@~363527~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_APC Stained Control.622946.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+622947~@~Flow cytometry compensation or control~@~363530~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_FITC Stained Control.622947.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+622948~@~Flow cytometry compensation or control~@~363533~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE-Cy7 Stained Control.622948.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+622949~@~Flow cytometry compensation or control~@~363545~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE-Texas Red Stained Control.622949.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE-Texas Red Stained Control.fcs~@~3670~@@~
+622950~@~Flow cytometry compensation or control~@~363524~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE Stained Control.622950.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+622951~@~Flow cytometry compensation or control~@~363543~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PerCP-Cy5-5 Stained Control.622951.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_PerCP-Cy5-5 Stained Control.fcs~@~3670~@@~
+622952~@~Flow cytometry compensation or control~@~363536~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Qdot 605 Stained Control.622952.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+622953~@~Flow cytometry compensation or control~@~363536~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Qdot 655 Stained Control.622953.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+622954~@~Flow cytometry compensation or control~@~363536~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_QDot 705 Stained Control.622954.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+622955~@~Flow cytometry compensation or control~@~363523~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Unstained Control.622955.fcs~@~D139 - Treg Stain D139 12-30-2013--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+622956~@~Flow cytometry result~@~195526~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Colon.622956.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Colon.fcs~@~3670~@@~
+622957~@~Flow cytometry result~@~21814607~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Ileum.622957.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+622958~@~Flow cytometry result~@~20912012~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_ILN.622958.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_ILN.fcs~@~3670~@@~
+622959~@~Flow cytometry result~@~19643814~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Jejunum.622959.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+622960~@~Flow cytometry result~@~25050718~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_LLN.622960.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_LLN.fcs~@~3670~@@~
+622961~@~Flow cytometry result~@~35705147~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Lung.622961.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Lung.fcs~@~3670~@@~
+622962~@~Flow cytometry result~@~27748989~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_MLn.622962.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_MLn.fcs~@~3670~@@~
+622963~@~Flow cytometry result~@~23358861~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Spleen.622963.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+622964~@~Flow cytometry result~@~2096043~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Thymus.622964.fcs~@~D139 - Treg Stain D139 12-30-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+622965~@~Flow cytometry result~@~23238885~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Blood.622965.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Blood.fcs~@~3670~@@~
+622966~@~Flow cytometry result~@~989928~@~D146 - Treg Stain CD31 D146 2-14-2014--20140220 Workspace.622966.wsp~@~D146 - Treg Stain CD31 D146 2-14-2014--20140220 Workspace.wsp~@~3670~@@~
+622967~@~Flow cytometry result~@~858064~@~D146 - Treg Stain CD31 D146 2-14-2014--Treg mfi.622967.wsp~@~D146 - Treg Stain CD31 D146 2-14-2014--Treg mfi.wsp~@~3670~@@~
+622968~@~Flow cytometry result~@~1069364~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Colon.622968.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Colon.fcs~@~3670~@@~
+622969~@~Flow cytometry result~@~5617171~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_ILN.622969.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_ILN.fcs~@~3670~@@~
+622970~@~Flow cytometry result~@~1813918~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Jejunum.622970.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Jejunum.fcs~@~3670~@@~
+622971~@~Flow cytometry result~@~24388435~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_LLN.622971.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_LLN.fcs~@~3670~@@~
+622972~@~Flow cytometry result~@~2454860~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Lung.622972.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Lung.fcs~@~3670~@@~
+622973~@~Flow cytometry result~@~15412325~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_MLN.622973.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_MLN.fcs~@~3670~@@~
+622974~@~Flow cytometry result~@~5611128~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Spleen.622974.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+622975~@~Flow cytometry result~@~7895544~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Thymus.622975.fcs~@~D146 - Treg Stain CD31 D146 2-14-2014--Specimen_001_Thymus.fcs~@~3670~@@~
+622976~@~Flow cytometry result~@~26185979~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Blood.622976.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Blood.fcs~@~3670~@@~
+622977~@~Flow cytometry result~@~1472111~@~D147 - Treg Stain CD31 D147 12-9-2013_001--20140214 Workspace.622977.wsp~@~D147 - Treg Stain CD31 D147 12-9-2013_001--20140214 Workspace.wsp~@~3670~@@~
+622978~@~Flow cytometry result~@~1056435~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Treg MFI.622978.wsp~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Treg MFI.wsp~@~3670~@@~
+622979~@~Flow cytometry compensation or control~@~57~@~control_files_not_specified.622979.txt~@~control_files_not_specified.txt~@~3670~@@~
+622980~@~Flow cytometry result~@~21932087~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Colon.622980.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Colon.fcs~@~3670~@@~
+622981~@~Flow cytometry result~@~8194057~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Ileum.622981.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Ileum.fcs~@~3670~@@~
+622982~@~Flow cytometry result~@~21800313~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_ILN.622982.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_ILN.fcs~@~3670~@@~
+622983~@~Flow cytometry result~@~21484105~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Jejunum.622983.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Jejunum.fcs~@~3670~@@~
+622984~@~Flow cytometry result~@~21734217~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_LLN.622984.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_LLN.fcs~@~3670~@@~
+622985~@~Flow cytometry result~@~11095209~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_MLN.622985.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_MLN.fcs~@~3670~@@~
+622986~@~Flow cytometry result~@~23084652~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Spleen.622986.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Spleen.fcs~@~3670~@@~
+622987~@~Flow cytometry result~@~20302442~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Thymus.622987.fcs~@~D147 - Treg Stain CD31 D147 12-9-2013_001--Specimen_001_Thymus.fcs~@~3670~@@~
+622988~@~Flow cytometry result~@~281246~@~D147 Treg 7-4-2014--Specimen_001_Blood unstained.622988.fcs~@~D147 Treg 7-4-2014--Specimen_001_Blood unstained.fcs~@~3670~@@~
+622989~@~Flow cytometry result~@~630266~@~D147 Treg 7-4-2014--20140704.622989.wsp~@~D147 Treg 7-4-2014--20140704.wsp~@~3670~@@~
+622990~@~Flow cytometry result~@~6281164~@~D147 Treg 7-4-2014--Specimen_001_Blood.622990.fcs~@~D147 Treg 7-4-2014--Specimen_001_Blood.fcs~@~3670~@@~
+622991~@~Flow cytometry result~@~114728719~@~D147 Treg 7-4-2014--Specimen_001_Jejunum.622991.fcs~@~D147 Treg 7-4-2014--Specimen_001_Jejunum.fcs~@~3670~@@~
+622992~@~Flow cytometry result~@~76391089~@~D147 Treg 7-4-2014--Specimen_001_Lung.622992.fcs~@~D147 Treg 7-4-2014--Specimen_001_Lung.fcs~@~3670~@@~
+622993~@~Flow cytometry result~@~25565209~@~D147 Treg 7-4-2014--Specimen_001_MLN.622993.fcs~@~D147 Treg 7-4-2014--Specimen_001_MLN.fcs~@~3670~@@~
+622994~@~Flow cytometry result~@~37767054~@~D147 Treg 7-4-2014--Specimen_001_Spleen.622994.fcs~@~D147 Treg 7-4-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+622995~@~Flow cytometry result~@~15795931~@~D149 Treg Stain 2-28-2014--Specimen_001_Blood.622995.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Blood.fcs~@~3670~@@~
+622996~@~Flow cytometry result~@~1600189~@~D149 Treg Stain 2-28-2014--20140228 Workspace.622996.wsp~@~D149 Treg Stain 2-28-2014--20140228 Workspace.wsp~@~3670~@@~
+622997~@~Flow cytometry result~@~1491816~@~D149 Treg Stain 2-28-2014--Supplemental redo.622997.wsp~@~D149 Treg Stain 2-28-2014--Supplemental redo.wsp~@~3670~@@~
+622998~@~Flow cytometry result~@~7457827~@~D149 Treg Stain 2-28-2014--Specimen_001_Colon.622998.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Colon.fcs~@~3670~@@~
+622999~@~Flow cytometry result~@~14611387~@~D149 Treg Stain 2-28-2014--Specimen_001_Ileum.622999.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Ileum.fcs~@~3670~@@~
+623000~@~Flow cytometry result~@~37258998~@~D149 Treg Stain 2-28-2014--Specimen_001_ILN.623000.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_ILN.fcs~@~3670~@@~
+623001~@~Flow cytometry result~@~16469853~@~D149 Treg Stain 2-28-2014--Specimen_001_Jejunum.623001.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Jejunum.fcs~@~3670~@@~
+623002~@~Flow cytometry result~@~36288281~@~D149 Treg Stain 2-28-2014--Specimen_001_LLN.623002.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_LLN.fcs~@~3670~@@~
+623003~@~Flow cytometry result~@~31001912~@~D149 Treg Stain 2-28-2014--Specimen_001_Lung.623003.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Lung.fcs~@~3670~@@~
+623004~@~Flow cytometry result~@~21727721~@~D149 Treg Stain 2-28-2014--Specimen_001_MLN.623004.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_MLN.fcs~@~3670~@@~
+623005~@~Flow cytometry result~@~25299500~@~D149 Treg Stain 2-28-2014--Specimen_001_Spleen.623005.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+623006~@~Flow cytometry result~@~14558252~@~D149 Treg Stain 2-28-2014--Specimen_001_Thymus.623006.fcs~@~D149 Treg Stain 2-28-2014--Specimen_001_Thymus.fcs~@~3670~@@~
+623007~@~Flow cytometry result~@~38509646~@~D151 Treg Stain 3-12-2014--Specimen_001_Spleen.623007.fcs~@~D151 Treg Stain 3-12-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+623008~@~Flow cytometry result~@~213978~@~D151 Treg Stain 3-12-2014--20140327 Workspace.623008.wsp~@~D151 Treg Stain 3-12-2014--20140327 Workspace.wsp~@~3670~@@~
+623009~@~Flow cytometry result~@~121882~@~D151 Treg Stain 3-12-2014--20140418.623009.wsp~@~D151 Treg Stain 3-12-2014--20140418.wsp~@~3670~@@~
+623010~@~Flow cytometry result~@~58012347~@~D161 Treg 7-9-2014--Specimen_001_Blood.623010.fcs~@~D161 Treg 7-9-2014--Specimen_001_Blood.fcs~@~3670~@@~
+623011~@~Flow cytometry result~@~579820~@~D161 Treg 7-9-2014--D161 Treg.623011.wsp~@~D161 Treg 7-9-2014--D161 Treg.wsp~@~3670~@@~
+623012~@~Flow cytometry result~@~21839187~@~D161 Treg 7-9-2014--Specimen_001_Ileum.623012.fcs~@~D161 Treg 7-9-2014--Specimen_001_Ileum.fcs~@~3670~@@~
+623013~@~Flow cytometry result~@~122315477~@~D161 Treg 7-9-2014--Specimen_001_Lung.623013.fcs~@~D161 Treg 7-9-2014--Specimen_001_Lung.fcs~@~3670~@@~
+623014~@~Flow cytometry result~@~8990496~@~D161 Treg 7-9-2014--Specimen_001_MLN.623014.fcs~@~D161 Treg 7-9-2014--Specimen_001_MLN.fcs~@~3670~@@~
+623015~@~Flow cytometry result~@~104279332~@~D161 Treg 7-9-2014--Specimen_001_Spleen.623015.fcs~@~D161 Treg 7-9-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+623016~@~Flow cytometry result~@~45985604~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Blood.623016.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Blood.fcs~@~3670~@@~
+623017~@~Flow cytometry result~@~921879~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--D170 Treg.623017.wsp~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--D170 Treg.wsp~@~3670~@@~
+623018~@~Flow cytometry result~@~22128836~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Colon.623018.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Colon.fcs~@~3670~@@~
+623019~@~Flow cytometry result~@~25959811~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Ileum.623019.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Ileum.fcs~@~3670~@@~
+623020~@~Flow cytometry result~@~54130961~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_ILN.623020.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_ILN.fcs~@~3670~@@~
+623021~@~Flow cytometry result~@~23566102~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Jejunum.623021.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Jejunum.fcs~@~3670~@@~
+623022~@~Flow cytometry result~@~67824498~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_LLN.623022.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_LLN.fcs~@~3670~@@~
+623023~@~Flow cytometry result~@~70754739~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Lung.623023.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Lung.fcs~@~3670~@@~
+623024~@~Flow cytometry result~@~77019615~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_MLN.623024.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_MLN.fcs~@~3670~@@~
+623025~@~Flow cytometry result~@~38673572~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Spleen.623025.fcs~@~D170 - Treg Stain CD69 CD103 D170 8-25-2014--Specimen_001_Spleen.fcs~@~3670~@@~
+623026~@~Flow cytometry result~@~44267773~@~D184 - Farber Joe New Treg D184--Specimen_001_BLD.623026.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_BLD.fcs~@~3670~@@~
+623027~@~Flow cytometry result~@~717703~@~D184 - Farber Joe New Treg D184--D184 Treg.623027.wsp~@~D184 - Farber Joe New Treg D184--D184 Treg.wsp~@~3670~@@~
+623028~@~Flow cytometry result~@~2251683~@~D184 - Farber Joe New Treg D184--Specimen_001_Colon.623028.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_Colon.fcs~@~3670~@@~
+623029~@~Flow cytometry result~@~1251328~@~D184 - Farber Joe New Treg D184--Specimen_001_Ileum.623029.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_Ileum.fcs~@~3670~@@~
+623030~@~Flow cytometry result~@~18750816~@~D184 - Farber Joe New Treg D184--Specimen_001_ILN.623030.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_ILN.fcs~@~3670~@@~
+623031~@~Flow cytometry result~@~23407391~@~D184 - Farber Joe New Treg D184--Specimen_001_Jejunum.623031.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_Jejunum.fcs~@~3670~@@~
+623032~@~Flow cytometry result~@~21138065~@~D184 - Farber Joe New Treg D184--Specimen_001_LLN.623032.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_LLN.fcs~@~3670~@@~
+623033~@~Flow cytometry result~@~16254720~@~D184 - Farber Joe New Treg D184--Specimen_001_MLN.623033.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_MLN.fcs~@~3670~@@~
+623034~@~Flow cytometry result~@~33308823~@~D184 - Farber Joe New Treg D184--Specimen_001_SP.623034.fcs~@~D184 - Farber Joe New Treg D184--Specimen_001_SP.fcs~@~3670~@@~
+623035~@~Flow cytometry result~@~6873227~@~D201 Treg Redo 5-18-2015--Specimen_001_Colon.623035.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_Colon.fcs~@~3670~@@~
+623036~@~Flow cytometry result~@~1205821~@~D201 Treg Redo 5-18-2015--201 Treg.623036.wsp~@~D201 Treg Redo 5-18-2015--201 Treg.wsp~@~3670~@@~
+623037~@~Flow cytometry result~@~5583562~@~D201 Treg Redo 5-18-2015--Specimen_001_Ileum.623037.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_Ileum.fcs~@~3670~@@~
+623038~@~Flow cytometry result~@~33074887~@~D201 Treg Redo 5-18-2015--Specimen_001_ILN.623038.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_ILN.fcs~@~3670~@@~
+623039~@~Flow cytometry result~@~6821028~@~D201 Treg Redo 5-18-2015--Specimen_001_Jejunum.623039.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_Jejunum.fcs~@~3670~@@~
+623040~@~Flow cytometry result~@~30062981~@~D201 Treg Redo 5-18-2015--Specimen_001_LLN.623040.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_LLN.fcs~@~3670~@@~
+623041~@~Flow cytometry result~@~102876150~@~D201 Treg Redo 5-18-2015--Specimen_001_Lung.623041.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_Lung.fcs~@~3670~@@~
+623042~@~Flow cytometry result~@~24120822~@~D201 Treg Redo 5-18-2015--Specimen_001_MLN.623042.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_MLN.fcs~@~3670~@@~
+623043~@~Flow cytometry result~@~22099063~@~D201 Treg Redo 5-18-2015--Specimen_001_Spleen.623043.fcs~@~D201 Treg Redo 5-18-2015--Specimen_001_Spleen.fcs~@~3670~@@~
+623044~@~Flow cytometry result~@~21501605~@~D204 Treg Redo 5-18-2015--Specimen_001_BL.623044.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_BL.fcs~@~3670~@@~
+623045~@~Flow cytometry result~@~907985~@~D204 Treg Redo 5-18-2015--20150521.623045.wsp~@~D204 Treg Redo 5-18-2015--20150521.wsp~@~3670~@@~
+623046~@~Flow cytometry result~@~10238074~@~D204 Treg Redo 5-18-2015--Specimen_001_Colon.623046.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_Colon.fcs~@~3670~@@~
+623047~@~Flow cytometry result~@~10906798~@~D204 Treg Redo 5-18-2015--Specimen_001_Ileum.623047.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_Ileum.fcs~@~3670~@@~
+623048~@~Flow cytometry result~@~23035930~@~D204 Treg Redo 5-18-2015--Specimen_001_Jejunum.623048.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_Jejunum.fcs~@~3670~@@~
+623049~@~Flow cytometry result~@~20186165~@~D204 Treg Redo 5-18-2015--Specimen_001_LLN.623049.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_LLN.fcs~@~3670~@@~
+623050~@~Flow cytometry result~@~33188933~@~D204 Treg Redo 5-18-2015--Specimen_001_Lung.623050.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_Lung.fcs~@~3670~@@~
+623051~@~Flow cytometry result~@~71939335~@~D204 Treg Redo 5-18-2015--Specimen_001_MLN.623051.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_MLN.fcs~@~3670~@@~
+623052~@~Flow cytometry result~@~28441327~@~D204 Treg Redo 5-18-2015--Specimen_001_Spleen.623052.fcs~@~D204 Treg Redo 5-18-2015--Specimen_001_Spleen.fcs~@~3670~@@~
+623053~@~Flow cytometry result~@~43399127~@~D21 - Donor 21 surface stain--CD31_Blood.623053.fcs~@~D21 - Donor 21 surface stain--CD31_Blood.fcs~@~3670~@@~
+623054~@~Flow cytometry result~@~4691884~@~D21 - Donor 21 surface stain--Donor 21 surface stain.623054.jo~@~D21 - Donor 21 surface stain--Donor 21 surface stain.jo~@~3670~@@~
+623055~@~Flow cytometry result~@~37086313~@~D21 - Donor 21 surface stain--CD31_Spleen.623055.fcs~@~D21 - Donor 21 surface stain--CD31_Spleen.fcs~@~3670~@@~
+623056~@~Flow cytometry result~@~12150975~@~D21 - Donor 21 surface stain--CD8 x 2_Blood.623056.fcs~@~D21 - Donor 21 surface stain--CD8 x 2_Blood.fcs~@~3670~@@~
+623057~@~Flow cytometry result~@~18498137~@~D21 - Donor 21 surface stain--CD8 x 2_Spleen.623057.fcs~@~D21 - Donor 21 surface stain--CD8 x 2_Spleen.fcs~@~3670~@@~
+623058~@~Flow cytometry result~@~37924518~@~D211 Treg 5-11-15--Specimen_001_Jejunum.623058.fcs~@~D211 Treg 5-11-15--Specimen_001_Jejunum.fcs~@~3670~@@~
+623059~@~Flow cytometry result~@~603232~@~D211 Treg 5-11-15--D211 Treg stain-CD25 analysis.623059.wsp~@~D211 Treg 5-11-15--D211 Treg stain-CD25 analysis.wsp~@~3670~@@~
+623060~@~Flow cytometry result~@~727702~@~D211 Treg 5-11-15--D211 Treg stain.623060.wsp~@~D211 Treg 5-11-15--D211 Treg stain.wsp~@~3670~@@~
+623061~@~Flow cytometry result~@~32349122~@~D211 Treg 5-11-15--Specimen_001_MLN-204.623061.fcs~@~D211 Treg 5-11-15--Specimen_001_MLN-204.fcs~@~3670~@@~
+623062~@~Flow cytometry result~@~35953294~@~D211 Treg 5-11-15--Specimen_001_MLN.623062.fcs~@~D211 Treg 5-11-15--Specimen_001_MLN.fcs~@~3670~@@~
+623063~@~Flow cytometry result~@~31750369~@~D211 Treg 5-11-15--Specimen_001_Spleen.623063.fcs~@~D211 Treg 5-11-15--Specimen_001_Spleen.fcs~@~3670~@@~
+623064~@~Flow cytometry result~@~21235971~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Blood.623064.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Blood.fcs~@~3670~@@~
+623065~@~Flow cytometry result~@~1336835~@~D213 Infant Phenotype Stain 5-19-2015--20150520.623065.wsp~@~D213 Infant Phenotype Stain 5-19-2015--20150520.wsp~@~3670~@@~
+623066~@~Flow cytometry result~@~28636128~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Colon.623066.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Colon.fcs~@~3670~@@~
+623067~@~Flow cytometry result~@~39942429~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Ileum.623067.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Ileum.fcs~@~3670~@@~
+623068~@~Flow cytometry result~@~21566444~@~D213 Infant Phenotype Stain 5-19-2015--CD103_ILN.623068.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_ILN.fcs~@~3670~@@~
+623069~@~Flow cytometry result~@~45996045~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Jej.623069.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Jej.fcs~@~3670~@@~
+623070~@~Flow cytometry result~@~21911190~@~D213 Infant Phenotype Stain 5-19-2015--CD103_LLN.623070.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_LLN.fcs~@~3670~@@~
+623071~@~Flow cytometry result~@~29696255~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Lung.623071.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Lung.fcs~@~3670~@@~
+623072~@~Flow cytometry result~@~31990173~@~D213 Infant Phenotype Stain 5-19-2015--CD103_MLN.623072.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_MLN.fcs~@~3670~@@~
+623073~@~Flow cytometry result~@~21881378~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Spleen.623073.fcs~@~D213 Infant Phenotype Stain 5-19-2015--CD103_Spleen.fcs~@~3670~@@~
+623074~@~Flow cytometry result~@~28787711~@~D213 Treg 5-20-2015--Specimen_001_BL.623074.fcs~@~D213 Treg 5-20-2015--Specimen_001_BL.fcs~@~3670~@@~
+623075~@~Flow cytometry result~@~1734480~@~D213 Treg 5-20-2015--20150520.623075.wsp~@~D213 Treg 5-20-2015--20150520.wsp~@~3670~@@~
+623076~@~Flow cytometry result~@~24098788~@~D213 Treg 5-20-2015--Specimen_001_Colon.623076.fcs~@~D213 Treg 5-20-2015--Specimen_001_Colon.fcs~@~3670~@@~
+623077~@~Flow cytometry result~@~29604194~@~D213 Treg 5-20-2015--Specimen_001_Ileum.623077.fcs~@~D213 Treg 5-20-2015--Specimen_001_Ileum.fcs~@~3670~@@~
+623078~@~Flow cytometry result~@~20670864~@~D213 Treg 5-20-2015--Specimen_001_ILN.623078.fcs~@~D213 Treg 5-20-2015--Specimen_001_ILN.fcs~@~3670~@@~
+623079~@~Flow cytometry result~@~37048420~@~D213 Treg 5-20-2015--Specimen_001_Jejunum.623079.fcs~@~D213 Treg 5-20-2015--Specimen_001_Jejunum.fcs~@~3670~@@~
+623080~@~Flow cytometry result~@~29668991~@~D213 Treg 5-20-2015--Specimen_001_LLN.623080.fcs~@~D213 Treg 5-20-2015--Specimen_001_LLN.fcs~@~3670~@@~
+623081~@~Flow cytometry result~@~29981328~@~D213 Treg 5-20-2015--Specimen_001_Lung.623081.fcs~@~D213 Treg 5-20-2015--Specimen_001_Lung.fcs~@~3670~@@~
+623082~@~Flow cytometry result~@~21304607~@~D213 Treg 5-20-2015--Specimen_001_MLN.623082.fcs~@~D213 Treg 5-20-2015--Specimen_001_MLN.fcs~@~3670~@@~
+623083~@~Flow cytometry result~@~30745965~@~D213 Treg 5-20-2015--Specimen_001_SP.623083.fcs~@~D213 Treg 5-20-2015--Specimen_001_SP.fcs~@~3670~@@~
+623084~@~Flow cytometry result~@~17342737~@~D213 Treg 5-20-2015--Specimen_001_Thymus.623084.fcs~@~D213 Treg 5-20-2015--Specimen_001_Thymus.fcs~@~3670~@@~
+623085~@~Flow cytometry result~@~5659452~@~D28 - Donor 28 surface stain--CD31_blood.623085.fcs~@~D28 - Donor 28 surface stain--CD31_blood.fcs~@~3670~@@~
+623086~@~Flow cytometry result~@~4811087~@~D28 - Donor 28 surface stain--Donor 28 Surface stain new.623086.jo~@~D28 - Donor 28 surface stain--Donor 28 Surface stain new.jo~@~3670~@@~
+623087~@~Flow cytometry result~@~10938044~@~D28 - Donor 28 surface stain--CD31_LLN.623087.fcs~@~D28 - Donor 28 surface stain--CD31_LLN.fcs~@~3670~@@~
+623088~@~Flow cytometry result~@~5779403~@~D28 - Donor 28 surface stain--CD31_lung.623088.fcs~@~D28 - Donor 28 surface stain--CD31_lung.fcs~@~3670~@@~
+623089~@~Flow cytometry result~@~11862105~@~D28 - Donor 28 surface stain--CD31_MLN.623089.fcs~@~D28 - Donor 28 surface stain--CD31_MLN.fcs~@~3670~@@~
+623090~@~Flow cytometry result~@~33577887~@~D28 - Donor 28 surface stain--CD31_Spleen.623090.fcs~@~D28 - Donor 28 surface stain--CD31_Spleen.fcs~@~3670~@@~
+623091~@~Flow cytometry result~@~28120240~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--Specimen_001_D28 Lung.623091.fcs~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--Specimen_001_D28 Lung.fcs~@~3670~@@~
+623092~@~Flow cytometry result~@~714225~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--CD69 CD103 Stain.623092.wsp~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--CD69 CD103 Stain.wsp~@~3670~@@~
+623093~@~Flow cytometry result~@~52764979~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--Specimen_001_D28 Spleen.623093.fcs~@~D28 - Treg Stain CD69 CD103 8-21-2014 - D28--Specimen_001_D28 Spleen.fcs~@~3670~@@~
+623094~@~Flow cytometry result~@~39206418~@~D37 - Donor 37 surface stain 9_13--CD31_Spleen.623094.fcs~@~D37 - Donor 37 surface stain 9_13--CD31_Spleen.fcs~@~3670~@@~
+623095~@~Flow cytometry result~@~1942405~@~D37 - Donor 37 surface stain 9_13--Donor 37 surface stain new.623095.jo~@~D37 - Donor 37 surface stain 9_13--Donor 37 surface stain new.jo~@~3670~@@~
+623096~@~Flow cytometry result~@~5017907~@~D39 - Treg D39 07-24-2013--Specimen_001_Blood.623096.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623097~@~Flow cytometry result~@~884505~@~D39 - Treg D39 07-24-2013--Treg D39-Paper.623097.wsp~@~D39 - Treg D39 07-24-2013--Treg D39-Paper.wsp~@~3670~@@~
+623098~@~Flow cytometry result~@~802770~@~D39 - Treg D39 07-24-2013--Treg D39.623098.wsp~@~D39 - Treg D39 07-24-2013--Treg D39.wsp~@~3670~@@~
+623099~@~Flow cytometry compensation or control~@~343404~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Alexa Fluor 700 Stained Control.623099.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Alexa Fluor 700 Stained Control.fcs~@~3670~@@~
+623100~@~Flow cytometry compensation or control~@~343382~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_APC Stained Control.623100.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+623101~@~Flow cytometry compensation or control~@~343385~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_BV421 Stained Control.623101.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_BV421 Stained Control.fcs~@~3670~@@~
+623102~@~Flow cytometry compensation or control~@~343383~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_BV570 Stained Control.623102.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_BV570 Stained Control.fcs~@~3670~@@~
+623103~@~Flow cytometry compensation or control~@~343386~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PE-Cy7 Stained Control.623103.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+623104~@~Flow cytometry compensation or control~@~343379~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PE Stained Control.623104.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+623105~@~Flow cytometry compensation or control~@~343395~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PerCP-Cy5-5 Stained Control.623105.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_PerCP-Cy5-5 Stained Control.fcs~@~3670~@@~
+623106~@~Flow cytometry compensation or control~@~343391~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Qdot 605 Stained Control.623106.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+623107~@~Flow cytometry compensation or control~@~343390~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Qdot 655 Stained Control.623107.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+623108~@~Flow cytometry compensation or control~@~343390~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_QDot 705 Stained Control.623108.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+623109~@~Flow cytometry compensation or control~@~683376~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Unstained Control.623109.fcs~@~D58 - Treg Stain D58 5-9-2013--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+623110~@~Flow cytometry result~@~996547~@~D39 - Treg D39 07-24-2013--Specimen_001_Colon.623110.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Colon.fcs~@~3670~@@~
+623111~@~Flow cytometry result~@~6020076~@~D39 - Treg D39 07-24-2013--Specimen_001_Ileum.623111.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+623112~@~Flow cytometry result~@~5049769~@~D39 - Treg D39 07-24-2013--Specimen_001_ILN.623112.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_ILN.fcs~@~3670~@@~
+623113~@~Flow cytometry result~@~7337702~@~D39 - Treg D39 07-24-2013--Specimen_001_Jejunum.623113.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+623114~@~Flow cytometry result~@~16845658~@~D39 - Treg D39 07-24-2013--Specimen_001_LLN.623114.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_LLN.fcs~@~3670~@@~
+623115~@~Flow cytometry result~@~13060059~@~D39 - Treg D39 07-24-2013--Specimen_001_Lung.623115.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Lung.fcs~@~3670~@@~
+623116~@~Flow cytometry result~@~9155920~@~D39 - Treg D39 07-24-2013--Specimen_001_MLN.623116.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_MLN.fcs~@~3670~@@~
+623117~@~Flow cytometry result~@~17294673~@~D39 - Treg D39 07-24-2013--Specimen_001_Spleen.623117.fcs~@~D39 - Treg D39 07-24-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+623118~@~Flow cytometry result~@~36348733~@~D57 - Donor 57 surface stain--CD31_blood.623118.fcs~@~D57 - Donor 57 surface stain--CD31_blood.fcs~@~3670~@@~
+623119~@~Flow cytometry result~@~39702779~@~D57 - Donor 57 surface stain--CD31_LLN.623119.fcs~@~D57 - Donor 57 surface stain--CD31_LLN.fcs~@~3670~@@~
+623120~@~Flow cytometry result~@~45278174~@~D57 - Donor 57 surface stain--CD31_Spleen.623120.fcs~@~D57 - Donor 57 surface stain--CD31_Spleen.fcs~@~3670~@@~
+623121~@~Flow cytometry result~@~12920994~@~D58 - Treg Stain D58 5-9-2013--Specimen_001_Blood.623121.fcs~@~D58 - Treg Stain D58 5-9-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623122~@~Flow cytometry result~@~495401~@~D58 - Treg Stain D58 5-9-2013--20130509 Workspace.623122.jo~@~D58 - Treg Stain D58 5-9-2013--20130509 Workspace.jo~@~3670~@@~
+623123~@~Flow cytometry result~@~96889773~@~D58 - Treg Stain D58 5-9-2013--Specimen_001_LLN.623123.fcs~@~D58 - Treg Stain D58 5-9-2013--Specimen_001_LLN.fcs~@~3670~@@~
+623124~@~Flow cytometry result~@~9898076~@~D59 - Treg D59 08-13-2013--Specimen_001_Blood.623124.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623125~@~Flow cytometry result~@~726987~@~D59 - Treg D59 08-13-2013--20130813 Workspace.623125.wsp~@~D59 - Treg D59 08-13-2013--20130813 Workspace.wsp~@~3670~@@~
+623126~@~Flow cytometry result~@~5999916~@~D59 - Treg D59 08-13-2013--Specimen_001_Colon.623126.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Colon.fcs~@~3670~@@~
+623127~@~Flow cytometry result~@~5920004~@~D59 - Treg D59 08-13-2013--Specimen_001_Ileum.623127.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+623128~@~Flow cytometry result~@~7084883~@~D59 - Treg D59 08-13-2013--Specimen_001_ILN.623128.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_ILN.fcs~@~3670~@@~
+623129~@~Flow cytometry result~@~10633279~@~D59 - Treg D59 08-13-2013--Specimen_001_Jejunum.623129.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+623130~@~Flow cytometry result~@~11692294~@~D59 - Treg D59 08-13-2013--Specimen_001_LLN.623130.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_LLN.fcs~@~3670~@@~
+623131~@~Flow cytometry result~@~8708299~@~D59 - Treg D59 08-13-2013--Specimen_001_Lung.623131.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Lung.fcs~@~3670~@@~
+623132~@~Flow cytometry result~@~10933458~@~D59 - Treg D59 08-13-2013--Specimen_001_MLN.623132.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_MLN.fcs~@~3670~@@~
+623133~@~Flow cytometry result~@~8846093~@~D59 - Treg D59 08-13-2013--Specimen_001_Spleen.623133.fcs~@~D59 - Treg D59 08-13-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+623134~@~Flow cytometry result~@~25405540~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Blood.623134.fcs~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Blood.fcs~@~3670~@@~
+623135~@~Flow cytometry result~@~1659089~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--20130218 Workspace.623135.jo~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--20130218 Workspace.jo~@~3670~@@~
+623136~@~Flow cytometry result~@~4035541~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--4 pop D60.623136.jo~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--4 pop D60.jo~@~3670~@@~
+623137~@~Flow cytometry result~@~1338144~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--CD127CD28 D60 Edit.623137.jo~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--CD127CD28 D60 Edit.jo~@~3670~@@~
+623138~@~Flow cytometry result~@~1151969~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--CD127CD28 D60 Edit.623138.wsp~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--CD127CD28 D60 Edit.wsp~@~3670~@@~
+623139~@~Flow cytometry result~@~30047807~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_LLN.623139.fcs~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_LLN.fcs~@~3670~@@~
+623140~@~Flow cytometry result~@~89512177~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Lung.623140.fcs~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Lung.fcs~@~3670~@@~
+623141~@~Flow cytometry result~@~28009422~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Spleen D60.623141.fcs~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Spleen D60.fcs~@~3670~@@~
+623142~@~Flow cytometry result~@~28677937~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Spleen.623142.fcs~@~D60 CD31 CD28 CD127 Stain 2-7-2013_001--Specimen_001_Spleen.fcs~@~3670~@@~
+623143~@~Flow cytometry result~@~73838343~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Blood.623143.fcs~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623144~@~Flow cytometry result~@~3585511~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20130205 Workspace.623144.jo~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20130205 Workspace.jo~@~3670~@@~
+623145~@~Flow cytometry result~@~694797~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20140307 Workspace.623145.jo~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20140307 Workspace.jo~@~3670~@@~
+623146~@~Flow cytometry result~@~414240~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20140307 Workspace.623146.wsp~@~D62 CD31 CD28 CD127 Stain 2-5-2013--20140307 Workspace.wsp~@~3670~@@~
+623147~@~Flow cytometry result~@~49719792~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_LLN.623147.fcs~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_LLN.fcs~@~3670~@@~
+623148~@~Flow cytometry result~@~39390818~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Spleen.623148.fcs~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+623149~@~Flow cytometry result~@~22114993~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Thymus.623149.fcs~@~D62 CD31 CD28 CD127 Stain 2-5-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+623150~@~Flow cytometry result~@~36410993~@~D63 - Donor63 surface--CD103_Ileum.623150.fcs~@~D63 - Donor63 surface--CD103_Ileum.fcs~@~3670~@@~
+623151~@~Flow cytometry result~@~2295392~@~D63 - Donor63 surface--D63 Analysis for infant paper.623151.wsp~@~D63 - Donor63 surface--D63 Analysis for infant paper.wsp~@~3670~@@~
+623152~@~Flow cytometry result~@~16121952~@~D63 - Donor63 surface--Donor 63 surface.623152.jo~@~D63 - Donor63 surface--Donor 63 surface.jo~@~3670~@@~
+623153~@~Flow cytometry result~@~36771211~@~D63 - Donor63 surface--CD103_Jejunum.623153.fcs~@~D63 - Donor63 surface--CD103_Jejunum.fcs~@~3670~@@~
+623154~@~Flow cytometry result~@~36265784~@~D63 - Donor63 surface--CD103_lung.623154.fcs~@~D63 - Donor63 surface--CD103_lung.fcs~@~3670~@@~
+623155~@~Flow cytometry result~@~7721599~@~D63 - Donor63 surface--CD31_Blood.623155.fcs~@~D63 - Donor63 surface--CD31_Blood.fcs~@~3670~@@~
+623156~@~Flow cytometry result~@~36292997~@~D63 - Donor63 surface--CD31_Ileum.623156.fcs~@~D63 - Donor63 surface--CD31_Ileum.fcs~@~3670~@@~
+623157~@~Flow cytometry result~@~36535337~@~D63 - Donor63 surface--CD31_Jejunum.623157.fcs~@~D63 - Donor63 surface--CD31_Jejunum.fcs~@~3670~@@~
+623158~@~Flow cytometry result~@~36581989~@~D63 - Donor63 surface--CD31_LLN.623158.fcs~@~D63 - Donor63 surface--CD31_LLN.fcs~@~3670~@@~
+623159~@~Flow cytometry result~@~39212960~@~D63 - Donor63 surface--CD31_Lung.623159.fcs~@~D63 - Donor63 surface--CD31_Lung.fcs~@~3670~@@~
+623160~@~Flow cytometry result~@~16913080~@~D63 Treg 4-17-2014_001--Specimen_001_colon.623160.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_colon.fcs~@~3670~@@~
+623161~@~Flow cytometry result~@~759334~@~D63 Treg 4-17-2014_001--D63 Treg.623161.wsp~@~D63 Treg 4-17-2014_001--D63 Treg.wsp~@~3670~@@~
+623162~@~Flow cytometry result~@~16303384~@~D63 Treg 4-17-2014_001--Specimen_001_ileum.623162.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_ileum.fcs~@~3670~@@~
+623163~@~Flow cytometry result~@~20921606~@~D63 Treg 4-17-2014_001--Specimen_001_jej.623163.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_jej.fcs~@~3670~@@~
+623164~@~Flow cytometry result~@~31544957~@~D63 Treg 4-17-2014_001--Specimen_001_LLN.623164.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_LLN.fcs~@~3670~@@~
+623165~@~Flow cytometry result~@~34806961~@~D63 Treg 4-17-2014_001--Specimen_001_lung.623165.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_lung.fcs~@~3670~@@~
+623166~@~Flow cytometry result~@~37614111~@~D63 Treg 4-17-2014_001--Specimen_001_MLN.623166.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_MLN.fcs~@~3670~@@~
+623167~@~Flow cytometry result~@~22637549~@~D63 Treg 4-17-2014_001--Specimen_001_sp.623167.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_sp.fcs~@~3670~@@~
+623168~@~Flow cytometry result~@~36210562~@~D63 Treg 4-17-2014_001--Specimen_001_Thymus.623168.fcs~@~D63 Treg 4-17-2014_001--Specimen_001_Thymus.fcs~@~3670~@@~
+623169~@~Flow cytometry result~@~21103750~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Blood.623169.fcs~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623170~@~Flow cytometry result~@~1485548~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Donor #68 surface stain.623170.jo~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Donor #68 surface stain.jo~@~3670~@@~
+623171~@~Flow cytometry result~@~30055585~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_LLN.623171.fcs~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_LLN.fcs~@~3670~@@~
+623172~@~Flow cytometry result~@~4713028~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Lung.623172.fcs~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Lung.fcs~@~3670~@@~
+623173~@~Flow cytometry result~@~36622418~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Spleen.623173.fcs~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+623174~@~Flow cytometry result~@~37856210~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Thymus.623174.fcs~@~D68 CD31 CD28 CD127 Stain 2-25-2013--Specimen_001_Thymus.fcs~@~3670~@@~
+623175~@~Flow cytometry result~@~18971164~@~D68 Treg 4-17-2014--Specimen_001_LLN.623175.fcs~@~D68 Treg 4-17-2014--Specimen_001_LLN.fcs~@~3670~@@~
+623176~@~Flow cytometry result~@~350984~@~D68 Treg 4-17-2014--D68 Treg Stain.623176.wsp~@~D68 Treg 4-17-2014--D68 Treg Stain.wsp~@~3670~@@~
+623177~@~Flow cytometry result~@~21097897~@~D68 Treg 4-17-2014--Specimen_001_sp.623177.fcs~@~D68 Treg 4-17-2014--Specimen_001_sp.fcs~@~3670~@@~
+623178~@~Flow cytometry result~@~18702602~@~D68 Treg 4-17-2014--Specimen_001_Thy.623178.fcs~@~D68 Treg 4-17-2014--Specimen_001_Thy.fcs~@~3670~@@~
+623179~@~Flow cytometry result~@~172376836~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 blood.623179.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 blood.fcs~@~3670~@@~
+623180~@~Flow cytometry result~@~751757~@~D93 - 7 16 14 T reg panel donor 93--20140716.623180.wsp~@~D93 - 7 16 14 T reg panel donor 93--20140716.wsp~@~3670~@@~
+623181~@~Flow cytometry compensation or control~@~343334~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_APC-Cy7 Stained Control.623181.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_APC-Cy7 Stained Control.fcs~@~3670~@@~
+623182~@~Flow cytometry compensation or control~@~343328~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_APC Stained Control.623182.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+623183~@~Flow cytometry compensation or control~@~343333~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_DAPI Stained Control.623183.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_DAPI Stained Control.fcs~@~3670~@@~
+623184~@~Flow cytometry compensation or control~@~343330~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_FITC Stained Control.623184.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_FITC Stained Control.fcs~@~3670~@@~
+623185~@~Flow cytometry compensation or control~@~343336~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE-Cy5 Stained Control.623185.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE-Cy5 Stained Control.fcs~@~3670~@@~
+623186~@~Flow cytometry compensation or control~@~343335~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE-Cy7 Stained Control.623186.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE-Cy7 Stained Control.fcs~@~3670~@@~
+623187~@~Flow cytometry compensation or control~@~343329~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE Stained Control.623187.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+623188~@~Flow cytometry compensation or control~@~343340~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Qdot 605 Stained Control.623188.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+623189~@~Flow cytometry compensation or control~@~343338~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Qdot 655 Stained Control.623189.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+623190~@~Flow cytometry compensation or control~@~343339~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_QDot 705 Stained Control.623190.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_QDot 705 Stained Control.fcs~@~3670~@@~
+623191~@~Flow cytometry compensation or control~@~343324~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Unstained Control.623191.fcs~@~D93 - 7 16 14 T reg panel donor 93--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+623192~@~Flow cytometry result~@~83688788~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 colon.623192.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 colon.fcs~@~3670~@@~
+623193~@~Flow cytometry result~@~71868279~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 ileum.623193.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 ileum.fcs~@~3670~@@~
+623194~@~Flow cytometry result~@~144712736~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 lung.623194.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 lung.fcs~@~3670~@@~
+623195~@~Flow cytometry result~@~61171809~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 MLN.623195.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 MLN.fcs~@~3670~@@~
+623196~@~Flow cytometry result~@~118510295~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 spleen.623196.fcs~@~D93 - 7 16 14 T reg panel donor 93--Specimen_001_donor 93 spleen.fcs~@~3670~@@~
+623197~@~Flow cytometry result~@~21638101~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Blood.623197.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Blood.fcs~@~3670~@@~
+623198~@~Flow cytometry result~@~1638589~@~D98 - New Treg Thymus Stain D98 11-22-2013--D98 new treg.623198.wsp~@~D98 - New Treg Thymus Stain D98 11-22-2013--D98 new treg.wsp~@~3670~@@~
+623199~@~Flow cytometry result~@~23959466~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Colon.623199.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Colon.fcs~@~3670~@@~
+623200~@~Flow cytometry result~@~37830397~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Ileum.623200.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Ileum.fcs~@~3670~@@~
+623201~@~Flow cytometry result~@~18617339~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_ILN.623201.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_ILN.fcs~@~3670~@@~
+623202~@~Flow cytometry result~@~40679151~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Jejunum.623202.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Jejunum.fcs~@~3670~@@~
+623203~@~Flow cytometry result~@~14498651~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_MLN.623203.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_MLN.fcs~@~3670~@@~
+623204~@~Flow cytometry result~@~37844798~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Spleen.623204.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Spleen.fcs~@~3670~@@~
+623205~@~Flow cytometry result~@~14813887~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Thymus.623205.fcs~@~D98 - New Treg Thymus Stain D98 11-22-2013--Specimen_001_Thymus.fcs~@~3670~@@~

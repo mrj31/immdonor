@@ -1,0 +1,8 @@
+SDY702~@~arm or cohorts~@@~
+SDY702~@~demographics~@@~
+SDY702~@~documentation~@@~
+SDY702~@~inclusionExclusion~@@~
+SDY702~@~mechassays~@@~
+SDY702~@~publications~@@~
+SDY702~@~subject~@@~
+SDY702~@~summary~@@~

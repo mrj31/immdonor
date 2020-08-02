@@ -1,0 +1,604 @@
+711519~@~Flow cytometry result~@~54788677~@~D129_BM_007.711519.fcs~@~D129_BM_007.fcs~@~3670~@@~
+711520~@~Flow cytometry compensation or control~@~303231~@~Intracellular_staining_version_3--Compensation Controls_Alexa Fluor 488 Stained Control_008.711520.fcs~@~Intracellular_staining_version_3--Compensation Controls_Alexa Fluor 488 Stained Control_008.fcs~@~3670~@@~
+711521~@~Flow cytometry compensation or control~@~303216~@~Intracellular_staining_version_3--Compensation Controls_APC-Cy7 Stained Control_003.711521.fcs~@~Intracellular_staining_version_3--Compensation Controls_APC-Cy7 Stained Control_003.fcs~@~3670~@@~
+711522~@~Flow cytometry compensation or control~@~303215~@~Intracellular_staining_version_3--Compensation Controls_BD V500 Stained Control_002.711522.fcs~@~Intracellular_staining_version_3--Compensation Controls_BD V500 Stained Control_002.fcs~@~3670~@@~
+711523~@~Flow cytometry compensation or control~@~303212~@~Intracellular_staining_version_3--Compensation Controls_BV421 Stained Control_007.711523.fcs~@~Intracellular_staining_version_3--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711524~@~Flow cytometry compensation or control~@~160365~@~Intracellular_staining_version_3--Compensation Controls_PE-Texas Red Stained Control_005.711524.fcs~@~Intracellular_staining_version_3--Compensation Controls_PE-Texas Red Stained Control_005.fcs~@~3670~@@~
+711525~@~Flow cytometry compensation or control~@~285517~@~Intracellular_staining_version_3--Compensation Controls_Qdot 605 Stained Control_006.711525.fcs~@~Intracellular_staining_version_3--Compensation Controls_Qdot 605 Stained Control_006.fcs~@~3670~@@~
+711526~@~Flow cytometry compensation or control~@~303225~@~Intracellular_staining_version_3--Compensation Controls_Qdot 605 UV Stained Control_004.711526.fcs~@~Intracellular_staining_version_3--Compensation Controls_Qdot 605 UV Stained Control_004.fcs~@~3670~@@~
+711527~@~Flow cytometry compensation or control~@~303203~@~Intracellular_staining_version_3--Compensation Controls_Unstained Control_001.711527.fcs~@~Intracellular_staining_version_3--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711528~@~Flow cytometry result~@~38200894~@~D129_BM_007d.711528.fcs~@~D129_BM_007d.fcs~@~3670~@@~
+711529~@~Flow cytometry result~@~2210660~@~98 TCF panel_TCFv1 subsets.711529.wsp~@~98 TCF panel_TCFv1 subsets.wsp~@~3670~@@~
+711530~@~Flow cytometry compensation or control~@~303213~@~98_TCF_panel_TCFv1--Compensation Controls_Alexa Fluor 488 Stained Control_005.711530.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_Alexa Fluor 488 Stained Control_005.fcs~@~3670~@@~
+711531~@~Flow cytometry compensation or control~@~303197~@~98_TCF_panel_TCFv1--Compensation Controls_APC-Cy7 Stained Control_003.711531.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_APC-Cy7 Stained Control_003.fcs~@~3670~@@~
+711532~@~Flow cytometry compensation or control~@~303196~@~98_TCF_panel_TCFv1--Compensation Controls_BD V500 Stained Control_002.711532.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_BD V500 Stained Control_002.fcs~@~3670~@@~
+711533~@~Flow cytometry compensation or control~@~303192~@~98_TCF_panel_TCFv1--Compensation Controls_BV421 Stained Control_007.711533.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711534~@~Flow cytometry compensation or control~@~303186~@~98_TCF_panel_TCFv1--Compensation Controls_PE Stained Control_008.711534.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_PE Stained Control_008.fcs~@~3670~@@~
+711535~@~Flow cytometry compensation or control~@~303198~@~98_TCF_panel_TCFv1--Compensation Controls_Qdot 605 Stained Control_006.711535.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_Qdot 605 Stained Control_006.fcs~@~3670~@@~
+711536~@~Flow cytometry compensation or control~@~303206~@~98_TCF_panel_TCFv1--Compensation Controls_Qdot 605 UV Stained Control_004.711536.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_Qdot 605 UV Stained Control_004.fcs~@~3670~@@~
+711537~@~Flow cytometry compensation or control~@~301924~@~98_TCF_panel_TCFv1--Compensation Controls_Unstained Control_001.711537.fcs~@~98_TCF_panel_TCFv1--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711538~@~Flow cytometry result~@~48302680~@~D129_Lung_010.711538.fcs~@~D129_Lung_010.fcs~@~3670~@@~
+711539~@~Flow cytometry result~@~45794318~@~D129_LLN_009.711539.fcs~@~D129_LLN_009.fcs~@~3670~@@~
+711540~@~Flow cytometry result~@~29516015~@~D129_LLN_009d.711540.fcs~@~D129_LLN_009d.fcs~@~3670~@@~
+711541~@~Flow cytometry result~@~36735341~@~D129_Bld_006.711541.fcs~@~D129_Bld_006.fcs~@~3670~@@~
+711542~@~Flow cytometry result~@~34051714~@~D129_Spl_008.711542.fcs~@~D129_Spl_008.fcs~@~3670~@@~
+711543~@~Flow cytometry result~@~9700178~@~D129_Thy_011.711543.fcs~@~D129_Thy_011.fcs~@~3670~@@~
+711544~@~Flow cytometry result~@~92951053~@~D153_BM_002.711544.fcs~@~D153_BM_002.fcs~@~3670~@@~
+711545~@~Flow cytometry result~@~1187278~@~25-Jan-2017.711545.wsp~@~25-Jan-2017.wsp~@~3670~@@~
+711546~@~Flow cytometry result~@~1293293~@~cd8 paper_v2.711546.wsp~@~cd8 paper_v2.wsp~@~3670~@@~
+711547~@~Flow cytometry compensation or control~@~444383~@~Intracellular_staining_version_9--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_006.711547.fcs~@~Intracellular_staining_version_9--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_006.fcs~@~3670~@@~
+711548~@~Flow cytometry compensation or control~@~444369~@~Intracellular_staining_version_9--Compensation Controls_CD103 PE-Cy7 Stained Control_009.711548.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD103 PE-Cy7 Stained Control_009.fcs~@~3670~@@~
+711549~@~Flow cytometry compensation or control~@~444365~@~Intracellular_staining_version_9--Compensation Controls_CD3 BD V500 Stained Control_002.711549.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD3 BD V500 Stained Control_002.fcs~@~3670~@@~
+711550~@~Flow cytometry compensation or control~@~444367~@~Intracellular_staining_version_9--Compensation Controls_CD4 Qdot 655 Stained Control_003.711550.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD4 Qdot 655 Stained Control_003.fcs~@~3670~@@~
+711551~@~Flow cytometry compensation or control~@~444380~@~Intracellular_staining_version_9--Compensation Controls_CD45RA Qdot 605 Stained Control_005.711551.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD45RA Qdot 605 Stained Control_005.fcs~@~3670~@@~
+711552~@~Flow cytometry compensation or control~@~440933~@~Intracellular_staining_version_9--Compensation Controls_CD69 BV421 Stained Control_011.711552.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD69 BV421 Stained Control_011.fcs~@~3670~@@~
+711553~@~Flow cytometry compensation or control~@~444374~@~Intracellular_staining_version_9--Compensation Controls_CD8 Qdot 605 UV Stained Control_004.711553.fcs~@~Intracellular_staining_version_9--Compensation Controls_CD8 Qdot 605 UV Stained Control_004.fcs~@~3670~@@~
+711554~@~Flow cytometry compensation or control~@~444380~@~Intracellular_staining_version_9--Compensation Controls_Eomes PE-Texas Red Stained Control_007.711554.fcs~@~Intracellular_staining_version_9--Compensation Controls_Eomes PE-Texas Red Stained Control_007.fcs~@~3670~@@~
+711555~@~Flow cytometry compensation or control~@~444372~@~Intracellular_staining_version_9--Compensation Controls_Multimer APC Stained Control_010.711555.fcs~@~Intracellular_staining_version_9--Compensation Controls_Multimer APC Stained Control_010.fcs~@~3670~@@~
+711556~@~Flow cytometry compensation or control~@~444363~@~Intracellular_staining_version_9--Compensation Controls_Tbet PE Stained Control_008.711556.fcs~@~Intracellular_staining_version_9--Compensation Controls_Tbet PE Stained Control_008.fcs~@~3670~@@~
+711557~@~Flow cytometry compensation or control~@~447676~@~Intracellular_staining_version_9--Compensation Controls_Unstained Control_001.711557.fcs~@~Intracellular_staining_version_9--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711558~@~Flow cytometry result~@~30604112~@~D153_Lung_005.711558.fcs~@~D153_Lung_005.fcs~@~3670~@@~
+711559~@~Flow cytometry result~@~143608868~@~D153_LLN_004.711559.fcs~@~D153_LLN_004.fcs~@~3670~@@~
+711560~@~Flow cytometry result~@~17800103~@~D153_Bld_003.711560.fcs~@~D153_Bld_003.fcs~@~3670~@@~
+711561~@~Flow cytometry result~@~87866065~@~D153_Spl_001.711561.fcs~@~D153_Spl_001.fcs~@~3670~@@~
+711562~@~Flow cytometry result~@~141091704~@~D176_BM_007.711562.fcs~@~D176_BM_007.fcs~@~3670~@@~
+711563~@~Flow cytometry result~@~125913018~@~D176_Lung_010.711563.fcs~@~D176_Lung_010.fcs~@~3670~@@~
+711564~@~Flow cytometry result~@~104272703~@~D176_LLN_009.711564.fcs~@~D176_LLN_009.fcs~@~3670~@@~
+711565~@~Flow cytometry result~@~38652129~@~D176_Bld_008.711565.fcs~@~D176_Bld_008.fcs~@~3670~@@~
+711566~@~Flow cytometry result~@~88021643~@~D176_Spl_006.711566.fcs~@~D176_Spl_006.fcs~@~3670~@@~
+711567~@~Flow cytometry result~@~66193735~@~D180_BM_016.711567.fcs~@~D180_BM_016.fcs~@~3670~@@~
+711568~@~Flow cytometry result~@~36665622~@~D180_BM_016d.711568.fcs~@~D180_BM_016d.fcs~@~3670~@@~
+711569~@~Flow cytometry result~@~3701398~@~Subsets_v2.711569.wsp~@~Subsets_v2.wsp~@~3670~@@~
+711570~@~Flow cytometry compensation or control~@~303213~@~96_TCF_69_panel_TCFv1--Compensation Controls_Alexa Fluor 488 Stained Control_005.711570.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_Alexa Fluor 488 Stained Control_005.fcs~@~3670~@@~
+711571~@~Flow cytometry compensation or control~@~303197~@~96_TCF_69_panel_TCFv1--Compensation Controls_APC-Cy7 Stained Control_003.711571.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_APC-Cy7 Stained Control_003.fcs~@~3670~@@~
+711572~@~Flow cytometry compensation or control~@~303196~@~96_TCF_69_panel_TCFv1--Compensation Controls_BD V500 Stained Control_002.711572.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_BD V500 Stained Control_002.fcs~@~3670~@@~
+711573~@~Flow cytometry compensation or control~@~303192~@~96_TCF_69_panel_TCFv1--Compensation Controls_BV421 Stained Control_007.711573.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711574~@~Flow cytometry compensation or control~@~303186~@~96_TCF_69_panel_TCFv1--Compensation Controls_PE Stained Control_008.711574.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_PE Stained Control_008.fcs~@~3670~@@~
+711575~@~Flow cytometry compensation or control~@~303198~@~96_TCF_69_panel_TCFv1--Compensation Controls_Qdot 605 Stained Control_006.711575.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_Qdot 605 Stained Control_006.fcs~@~3670~@@~
+711576~@~Flow cytometry compensation or control~@~303206~@~96_TCF_69_panel_TCFv1--Compensation Controls_Qdot 605 UV Stained Control_004.711576.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_Qdot 605 UV Stained Control_004.fcs~@~3670~@@~
+711577~@~Flow cytometry compensation or control~@~301924~@~96_TCF_69_panel_TCFv1--Compensation Controls_Unstained Control_001.711577.fcs~@~96_TCF_69_panel_TCFv1--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711578~@~Flow cytometry result~@~26209477~@~D180_Lung_019.711578.fcs~@~D180_Lung_019.fcs~@~3670~@@~
+711579~@~Flow cytometry result~@~79847992~@~D180_LLN_018.711579.fcs~@~D180_LLN_018.fcs~@~3670~@@~
+711580~@~Flow cytometry result~@~74874397~@~D180_LLN_018d.711580.fcs~@~D180_LLN_018d.fcs~@~3670~@@~
+711581~@~Flow cytometry result~@~71148521~@~D180_Bld_015.711581.fcs~@~D180_Bld_015.fcs~@~3670~@@~
+711582~@~Flow cytometry result~@~71972496~@~D180_Spl_017.711582.fcs~@~D180_Spl_017.fcs~@~3670~@@~
+711583~@~Flow cytometry result~@~3926839~@~D181_BM 2hr restr.711583.fcs~@~D181_BM 2hr restr.fcs~@~3670~@@~
+711584~@~Flow cytometry result~@~258078~@~cd8 paper6.711584.wsp~@~cd8 paper6.wsp~@~3670~@@~
+711585~@~Flow cytometry compensation or control~@~403909~@~Intracellular_staining_version_11--Compensation Controls_Alexa Fluor 488 Stained Control.711585.fcs~@~Intracellular_staining_version_11--Compensation Controls_Alexa Fluor 488 Stained Control.fcs~@~3670~@@~
+711586~@~Flow cytometry compensation or control~@~403885~@~Intracellular_staining_version_11--Compensation Controls_APC Stained Control.711586.fcs~@~Intracellular_staining_version_11--Compensation Controls_APC Stained Control.fcs~@~3670~@@~
+711587~@~Flow cytometry compensation or control~@~403888~@~Intracellular_staining_version_11--Compensation Controls_BV421 Stained Control.711587.fcs~@~Intracellular_staining_version_11--Compensation Controls_BV421 Stained Control.fcs~@~3670~@@~
+711588~@~Flow cytometry compensation or control~@~403892~@~Intracellular_staining_version_11--Compensation Controls_BV570 Stained Control.711588.fcs~@~Intracellular_staining_version_11--Compensation Controls_BV570 Stained Control.fcs~@~3670~@@~
+711589~@~Flow cytometry compensation or control~@~403906~@~Intracellular_staining_version_11--Compensation Controls_PE-Texas Red Stained Control.711589.fcs~@~Intracellular_staining_version_11--Compensation Controls_PE-Texas Red Stained Control.fcs~@~3670~@@~
+711590~@~Flow cytometry compensation or control~@~403884~@~Intracellular_staining_version_11--Compensation Controls_PE Stained Control.711590.fcs~@~Intracellular_staining_version_11--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+711591~@~Flow cytometry compensation or control~@~403900~@~Intracellular_staining_version_11--Compensation Controls_PerCP-Cy5-5 Stained Control.711591.fcs~@~Intracellular_staining_version_11--Compensation Controls_PerCP-Cy5-5 Stained Control.fcs~@~3670~@@~
+711592~@~Flow cytometry compensation or control~@~403895~@~Intracellular_staining_version_11--Compensation Controls_Qdot 605 Stained Control.711592.fcs~@~Intracellular_staining_version_11--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+711593~@~Flow cytometry compensation or control~@~403903~@~Intracellular_staining_version_11--Compensation Controls_Qdot 605 UV Stained Control.711593.fcs~@~Intracellular_staining_version_11--Compensation Controls_Qdot 605 UV Stained Control.fcs~@~3670~@@~
+711594~@~Flow cytometry compensation or control~@~403895~@~Intracellular_staining_version_11--Compensation Controls_Qdot 655 Stained Control.711594.fcs~@~Intracellular_staining_version_11--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+711595~@~Flow cytometry compensation or control~@~553240~@~Intracellular_staining_version_11--Compensation Controls_Unstained Control.711595.fcs~@~Intracellular_staining_version_11--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+711596~@~Flow cytometry result~@~11490093~@~D181_BM.711596.fcs~@~D181_BM.fcs~@~3670~@@~
+711597~@~Flow cytometry result~@~67273645~@~D181_LLN.711597.fcs~@~D181_LLN.fcs~@~3670~@@~
+711598~@~Flow cytometry result~@~59524257~@~D181_MLN.711598.fcs~@~D181_MLN.fcs~@~3670~@@~
+711599~@~Flow cytometry result~@~55512948~@~D181_Spl 2 hr rest.711599.fcs~@~D181_Spl 2 hr rest.fcs~@~3670~@@~
+711600~@~Flow cytometry result~@~60947822~@~D181_Spl.711600.fcs~@~D181_Spl.fcs~@~3670~@@~
+711601~@~Flow cytometry result~@~20104413~@~D182_BM_002.711601.fcs~@~D182_BM_002.fcs~@~3670~@@~
+711602~@~Flow cytometry result~@~27304838~@~D182_BM_002d.711602.fcs~@~D182_BM_002d.fcs~@~3670~@@~
+711603~@~Flow cytometry result~@~9797915~@~D182_Lung_005.711603.fcs~@~D182_Lung_005.fcs~@~3670~@@~
+711604~@~Flow cytometry result~@~42657338~@~D182_LLN_004.711604.fcs~@~D182_LLN_004.fcs~@~3670~@@~
+711605~@~Flow cytometry result~@~38822375~@~D182_LLN_004d.711605.fcs~@~D182_LLN_004d.fcs~@~3670~@@~
+711606~@~Flow cytometry result~@~6579578~@~D182_Bld_001.711606.fcs~@~D182_Bld_001.fcs~@~3670~@@~
+711607~@~Flow cytometry result~@~42084334~@~D182_Spl_003.711607.fcs~@~D182_Spl_003.fcs~@~3670~@@~
+711608~@~Flow cytometry result~@~38373255~@~D194 A24 QYD_BM.711608.fcs~@~D194 A24 QYD_BM.fcs~@~3670~@@~
+711609~@~Flow cytometry compensation or control~@~242900~@~Intracellular_staining_version_10--Compensation Controls_Alexa Fluor 488 Stained Control.711609.fcs~@~Intracellular_staining_version_10--Compensation Controls_Alexa Fluor 488 Stained Control.fcs~@~3670~@@~
+711610~@~Flow cytometry compensation or control~@~242906~@~Intracellular_staining_version_10--Compensation Controls_BD V500 Stained Control.711610.fcs~@~Intracellular_staining_version_10--Compensation Controls_BD V500 Stained Control.fcs~@~3670~@@~
+711611~@~Flow cytometry compensation or control~@~343415~@~Intracellular_staining_version_10--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control.711611.fcs~@~Intracellular_staining_version_10--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control.fcs~@~3670~@@~
+711612~@~Flow cytometry compensation or control~@~343394~@~Intracellular_staining_version_10--Compensation Controls_CD3 BD V500 Stained Control.711612.fcs~@~Intracellular_staining_version_10--Compensation Controls_CD3 BD V500 Stained Control.fcs~@~3670~@@~
+711613~@~Flow cytometry compensation or control~@~343399~@~Intracellular_staining_version_10--Compensation Controls_CD4 Qdot 655 Stained Control.711613.fcs~@~Intracellular_staining_version_10--Compensation Controls_CD4 Qdot 655 Stained Control.fcs~@~3670~@@~
+711614~@~Flow cytometry compensation or control~@~343408~@~Intracellular_staining_version_10--Compensation Controls_CD45RA Qdot 605 Stained Control.711614.fcs~@~Intracellular_staining_version_10--Compensation Controls_CD45RA Qdot 605 Stained Control.fcs~@~3670~@@~
+711615~@~Flow cytometry compensation or control~@~343404~@~Intracellular_staining_version_10--Compensation Controls_CD8 Qdot 605 UV Stained Control.711615.fcs~@~Intracellular_staining_version_10--Compensation Controls_CD8 Qdot 605 UV Stained Control.fcs~@~3670~@@~
+711616~@~Flow cytometry compensation or control~@~343412~@~Intracellular_staining_version_10--Compensation Controls_Eomes PE-Texas Red Stained Control.711616.fcs~@~Intracellular_staining_version_10--Compensation Controls_Eomes PE-Texas Red Stained Control.fcs~@~3670~@@~
+711617~@~Flow cytometry compensation or control~@~343407~@~Intracellular_staining_version_10--Compensation Controls_Multimer APC Stained Control.711617.fcs~@~Intracellular_staining_version_10--Compensation Controls_Multimer APC Stained Control.fcs~@~3670~@@~
+711618~@~Flow cytometry compensation or control~@~242894~@~Intracellular_staining_version_10--Compensation Controls_PE-Texas Red Stained Control.711618.fcs~@~Intracellular_staining_version_10--Compensation Controls_PE-Texas Red Stained Control.fcs~@~3670~@@~
+711619~@~Flow cytometry compensation or control~@~242877~@~Intracellular_staining_version_10--Compensation Controls_PE Stained Control.711619.fcs~@~Intracellular_staining_version_10--Compensation Controls_PE Stained Control.fcs~@~3670~@@~
+711620~@~Flow cytometry compensation or control~@~242889~@~Intracellular_staining_version_10--Compensation Controls_Qdot 605 Stained Control.711620.fcs~@~Intracellular_staining_version_10--Compensation Controls_Qdot 605 Stained Control.fcs~@~3670~@@~
+711621~@~Flow cytometry compensation or control~@~242892~@~Intracellular_staining_version_10--Compensation Controls_Qdot 605 UV Stained Control.711621.fcs~@~Intracellular_staining_version_10--Compensation Controls_Qdot 605 UV Stained Control.fcs~@~3670~@@~
+711622~@~Flow cytometry compensation or control~@~242887~@~Intracellular_staining_version_10--Compensation Controls_Qdot 655 Stained Control.711622.fcs~@~Intracellular_staining_version_10--Compensation Controls_Qdot 655 Stained Control.fcs~@~3670~@@~
+711623~@~Flow cytometry compensation or control~@~343395~@~Intracellular_staining_version_10--Compensation Controls_Tbet PE Stained Control.711623.fcs~@~Intracellular_staining_version_10--Compensation Controls_Tbet PE Stained Control.fcs~@~3670~@@~
+711624~@~Flow cytometry compensation or control~@~343365~@~Intracellular_staining_version_10--Compensation Controls_Unstained Control.711624.fcs~@~Intracellular_staining_version_10--Compensation Controls_Unstained Control.fcs~@~3670~@@~
+711625~@~Flow cytometry result~@~94699083~@~D194 A24 QYD_LLN.711625.fcs~@~D194 A24 QYD_LLN.fcs~@~3670~@@~
+711626~@~Flow cytometry result~@~47882996~@~D219_BM_003.711626.fcs~@~D219_BM_003.fcs~@~3670~@@~
+711627~@~Flow cytometry compensation or control~@~303231~@~Intracellular_staining_version_7--Compensation Controls_Alexa Fluor 488 Stained Control_011.711627.fcs~@~Intracellular_staining_version_7--Compensation Controls_Alexa Fluor 488 Stained Control_011.fcs~@~3670~@@~
+711628~@~Flow cytometry compensation or control~@~303214~@~Intracellular_staining_version_7--Compensation Controls_BD V500 Stained Control_007.711628.fcs~@~Intracellular_staining_version_7--Compensation Controls_BD V500 Stained Control_007.fcs~@~3670~@@~
+711629~@~Flow cytometry compensation or control~@~303211~@~Intracellular_staining_version_7--Compensation Controls_BV421 Stained Control_006.711629.fcs~@~Intracellular_staining_version_7--Compensation Controls_BV421 Stained Control_006.fcs~@~3670~@@~
+711630~@~Flow cytometry compensation or control~@~303206~@~Intracellular_staining_version_7--Compensation Controls_PE Stained Control_012.711630.fcs~@~Intracellular_staining_version_7--Compensation Controls_PE Stained Control_012.fcs~@~3670~@@~
+711631~@~Flow cytometry compensation or control~@~303217~@~Intracellular_staining_version_7--Compensation Controls_Qdot 605 Stained Control_010.711631.fcs~@~Intracellular_staining_version_7--Compensation Controls_Qdot 605 Stained Control_010.fcs~@~3670~@@~
+711632~@~Flow cytometry compensation or control~@~303222~@~Intracellular_staining_version_7--Compensation Controls_Qdot 605 UV Stained Control_009.711632.fcs~@~Intracellular_staining_version_7--Compensation Controls_Qdot 605 UV Stained Control_009.fcs~@~3670~@@~
+711633~@~Flow cytometry compensation or control~@~303217~@~Intracellular_staining_version_7--Compensation Controls_Qdot 655 Stained Control_008.711633.fcs~@~Intracellular_staining_version_7--Compensation Controls_Qdot 655 Stained Control_008.fcs~@~3670~@@~
+711634~@~Flow cytometry compensation or control~@~303202~@~Intracellular_staining_version_7--Compensation Controls_Unstained Control_005.711634.fcs~@~Intracellular_staining_version_7--Compensation Controls_Unstained Control_005.fcs~@~3670~@@~
+711635~@~Flow cytometry result~@~85255262~@~D219_BM_002.711635.fcs~@~D219_BM_002.fcs~@~3670~@@~
+711636~@~Flow cytometry compensation or control~@~363361~@~Surface_staining_chemokines--Compensation Controls_Alexa Fluor 488 Stained Control_004.711636.fcs~@~Surface_staining_chemokines--Compensation Controls_Alexa Fluor 488 Stained Control_004.fcs~@~3670~@@~
+711637~@~Flow cytometry compensation or control~@~363361~@~Surface_staining_chemokines--Compensation Controls_Alexa Fluor 700 Stained Control_010.711637.fcs~@~Surface_staining_chemokines--Compensation Controls_Alexa Fluor 700 Stained Control_010.fcs~@~3670~@@~
+711638~@~Flow cytometry compensation or control~@~380625~@~Surface_staining_chemokines--Compensation Controls_APC-Cy7 Stained Control_003.711638.fcs~@~Surface_staining_chemokines--Compensation Controls_APC-Cy7 Stained Control_003.fcs~@~3670~@@~
+711639~@~Flow cytometry compensation or control~@~363337~@~Surface_staining_chemokines--Compensation Controls_APC Stained Control_009.711639.fcs~@~Surface_staining_chemokines--Compensation Controls_APC Stained Control_009.fcs~@~3670~@@~
+711640~@~Flow cytometry compensation or control~@~363344~@~Surface_staining_chemokines--Compensation Controls_BD V500 Stained Control_002.711640.fcs~@~Surface_staining_chemokines--Compensation Controls_BD V500 Stained Control_002.fcs~@~3670~@@~
+711641~@~Flow cytometry compensation or control~@~363340~@~Surface_staining_chemokines--Compensation Controls_BV421 Stained Control_006.711641.fcs~@~Surface_staining_chemokines--Compensation Controls_BV421 Stained Control_006.fcs~@~3670~@@~
+711642~@~Flow cytometry compensation or control~@~363342~@~Surface_staining_chemokines--Compensation Controls_PE-Cy7 Stained Control_008.711642.fcs~@~Surface_staining_chemokines--Compensation Controls_PE-Cy7 Stained Control_008.fcs~@~3670~@@~
+711643~@~Flow cytometry compensation or control~@~363335~@~Surface_staining_chemokines--Compensation Controls_PE Stained Control_007.711643.fcs~@~Surface_staining_chemokines--Compensation Controls_PE Stained Control_007.fcs~@~3670~@@~
+711644~@~Flow cytometry compensation or control~@~363346~@~Surface_staining_chemokines--Compensation Controls_Qdot 605 Stained Control_005.711644.fcs~@~Surface_staining_chemokines--Compensation Controls_Qdot 605 Stained Control_005.fcs~@~3670~@@~
+711645~@~Flow cytometry compensation or control~@~363331~@~Surface_staining_chemokines--Compensation Controls_Unstained Control_001.711645.fcs~@~Surface_staining_chemokines--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711646~@~Flow cytometry result~@~28387561~@~D219_LLN_004.711646.fcs~@~D219_LLN_004.fcs~@~3670~@@~
+711647~@~Flow cytometry result~@~88679591~@~D219_LLN_001.711647.fcs~@~D219_LLN_001.fcs~@~3670~@@~
+711648~@~Flow cytometry result~@~60403896~@~D225_BM_004.711648.fcs~@~D225_BM_004.fcs~@~3670~@@~
+711649~@~Flow cytometry result~@~73825551~@~D225_LLN_003.711649.fcs~@~D225_LLN_003.fcs~@~3670~@@~
+711650~@~Flow cytometry result~@~69163046~@~D227_BM_006.711650.fcs~@~D227_BM_006.fcs~@~3670~@@~
+711651~@~Flow cytometry result~@~9155238~@~D227_LLN_005.711651.fcs~@~D227_LLN_005.fcs~@~3670~@@~
+711652~@~Flow cytometry result~@~95582197~@~D229_BM.711652.fcs~@~D229_BM.fcs~@~3670~@@~
+711653~@~Flow cytometry result~@~357132~@~cd8 paper tbet.711653.wsp~@~cd8 paper tbet.wsp~@~3670~@@~
+711654~@~Flow cytometry result~@~86187343~@~D229_TLN.711654.fcs~@~D229_TLN.fcs~@~3670~@@~
+711655~@~Flow cytometry result~@~72876495~@~D229_MLN.711655.fcs~@~D229_MLN.fcs~@~3670~@@~
+711656~@~Flow cytometry result~@~180004648~@~D229_Bld.711656.fcs~@~D229_Bld.fcs~@~3670~@@~
+711657~@~Flow cytometry result~@~123453607~@~D229_Spl.711657.fcs~@~D229_Spl.fcs~@~3670~@@~
+711658~@~Flow cytometry result~@~72576934~@~D230_BM_010.711658.fcs~@~D230_BM_010.fcs~@~3670~@@~
+711659~@~Flow cytometry result~@~53300511~@~D230_LLN_009.711659.fcs~@~D230_LLN_009.fcs~@~3670~@@~
+711660~@~Flow cytometry result~@~68506924~@~D232_BM_013.711660.fcs~@~D232_BM_013.fcs~@~3670~@@~
+711661~@~Flow cytometry result~@~1471847~@~17-Oct-2016.711661.wsp~@~17-Oct-2016.wsp~@~3670~@@~
+711662~@~Flow cytometry compensation or control~@~323387~@~126_CD57_CD69--Compensation Controls_Alexa Fluor 488 Stained Control_006.711662.fcs~@~126_CD57_CD69--Compensation Controls_Alexa Fluor 488 Stained Control_006.fcs~@~3670~@@~
+711663~@~Flow cytometry compensation or control~@~323371~@~126_CD57_CD69--Compensation Controls_APC-Cy7 Stained Control_004.711663.fcs~@~126_CD57_CD69--Compensation Controls_APC-Cy7 Stained Control_004.fcs~@~3670~@@~
+711664~@~Flow cytometry compensation or control~@~323363~@~126_CD57_CD69--Compensation Controls_APC Stained Control_002.711664.fcs~@~126_CD57_CD69--Compensation Controls_APC Stained Control_002.fcs~@~3670~@@~
+711665~@~Flow cytometry compensation or control~@~323370~@~126_CD57_CD69--Compensation Controls_BD V500 Stained Control_003.711665.fcs~@~126_CD57_CD69--Compensation Controls_BD V500 Stained Control_003.fcs~@~3670~@@~
+711666~@~Flow cytometry compensation or control~@~323382~@~126_CD57_CD69--Compensation Controls_PE-Texas Red Stained Control_008.711666.fcs~@~126_CD57_CD69--Compensation Controls_PE-Texas Red Stained Control_008.fcs~@~3670~@@~
+711667~@~Flow cytometry compensation or control~@~323379~@~126_CD57_CD69--Compensation Controls_PerCP-Cy5-5 Stained Control_005.711667.fcs~@~126_CD57_CD69--Compensation Controls_PerCP-Cy5-5 Stained Control_005.fcs~@~3670~@@~
+711668~@~Flow cytometry compensation or control~@~323373~@~126_CD57_CD69--Compensation Controls_Qdot 605 Stained Control_007.711668.fcs~@~126_CD57_CD69--Compensation Controls_Qdot 605 Stained Control_007.fcs~@~3670~@@~
+711669~@~Flow cytometry compensation or control~@~323382~@~126_CD57_CD69--Compensation Controls_Qdot 605 UV Stained Control_009.711669.fcs~@~126_CD57_CD69--Compensation Controls_Qdot 605 UV Stained Control_009.fcs~@~3670~@@~
+711670~@~Flow cytometry compensation or control~@~323358~@~126_CD57_CD69--Compensation Controls_Unstained Control_001.711670.fcs~@~126_CD57_CD69--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711671~@~Flow cytometry result~@~8661222~@~D232_LLN_012.711671.fcs~@~D232_LLN_012.fcs~@~3670~@@~
+711672~@~Flow cytometry result~@~115188462~@~D233_BM_011.711672.fcs~@~D233_BM_011.fcs~@~3670~@@~
+711673~@~Flow cytometry result~@~57311717~@~D233_LLN_010.711673.fcs~@~D233_LLN_010.fcs~@~3670~@@~
+711674~@~Flow cytometry result~@~49188160~@~D236_BM_002.711674.fcs~@~D236_BM_002.fcs~@~3670~@@~
+711675~@~Flow cytometry result~@~50870559~@~D236_LLN_004.711675.fcs~@~D236_LLN_004.fcs~@~3670~@@~
+711676~@~Flow cytometry result~@~292838831~@~TF D244_BM_001.711676.fcs~@~TF D244_BM_001.fcs~@~3670~@@~
+711677~@~Flow cytometry result~@~707521~@~cd8 paper.711677.wsp~@~cd8 paper.wsp~@~3670~@@~
+711678~@~Flow cytometry compensation or control~@~383860~@~Intracellular_staining_version_12--Compensation Controls_Alexa Fluor 488 Stained Control_013.711678.fcs~@~Intracellular_staining_version_12--Compensation Controls_Alexa Fluor 488 Stained Control_013.fcs~@~3670~@@~
+711679~@~Flow cytometry compensation or control~@~383835~@~Intracellular_staining_version_12--Compensation Controls_APC Stained Control_008.711679.fcs~@~Intracellular_staining_version_12--Compensation Controls_APC Stained Control_008.fcs~@~3670~@@~
+711680~@~Flow cytometry compensation or control~@~383844~@~Intracellular_staining_version_12--Compensation Controls_BD V500 Stained Control_009.711680.fcs~@~Intracellular_staining_version_12--Compensation Controls_BD V500 Stained Control_009.fcs~@~3670~@@~
+711681~@~Flow cytometry compensation or control~@~383853~@~Intracellular_staining_version_12--Compensation Controls_Pacific Blue Stained Control_018.711681.fcs~@~Intracellular_staining_version_12--Compensation Controls_Pacific Blue Stained Control_018.fcs~@~3670~@@~
+711682~@~Flow cytometry compensation or control~@~383844~@~Intracellular_staining_version_12--Compensation Controls_PE-Cy7 Stained Control_017.711682.fcs~@~Intracellular_staining_version_12--Compensation Controls_PE-Cy7 Stained Control_017.fcs~@~3670~@@~
+711683~@~Flow cytometry compensation or control~@~383856~@~Intracellular_staining_version_12--Compensation Controls_PE-Texas Red Stained Control_014.711683.fcs~@~Intracellular_staining_version_12--Compensation Controls_PE-Texas Red Stained Control_014.fcs~@~3670~@@~
+711684~@~Flow cytometry compensation or control~@~383840~@~Intracellular_staining_version_12--Compensation Controls_PE Stained Control_015.711684.fcs~@~Intracellular_staining_version_12--Compensation Controls_PE Stained Control_015.fcs~@~3670~@@~
+711685~@~Flow cytometry compensation or control~@~383855~@~Intracellular_staining_version_12--Compensation Controls_PerCP-Cy5-5 Stained Control_016.711685.fcs~@~Intracellular_staining_version_12--Compensation Controls_PerCP-Cy5-5 Stained Control_016.fcs~@~3670~@@~
+711686~@~Flow cytometry compensation or control~@~383848~@~Intracellular_staining_version_12--Compensation Controls_Qdot 605 Stained Control_012.711686.fcs~@~Intracellular_staining_version_12--Compensation Controls_Qdot 605 Stained Control_012.fcs~@~3670~@@~
+711687~@~Flow cytometry compensation or control~@~383853~@~Intracellular_staining_version_12--Compensation Controls_Qdot 605 UV Stained Control_011.711687.fcs~@~Intracellular_staining_version_12--Compensation Controls_Qdot 605 UV Stained Control_011.fcs~@~3670~@@~
+711688~@~Flow cytometry compensation or control~@~383846~@~Intracellular_staining_version_12--Compensation Controls_Qdot 655 Stained Control_010.711688.fcs~@~Intracellular_staining_version_12--Compensation Controls_Qdot 655 Stained Control_010.fcs~@~3670~@@~
+711689~@~Flow cytometry compensation or control~@~383830~@~Intracellular_staining_version_12--Compensation Controls_Unstained Control_007.711689.fcs~@~Intracellular_staining_version_12--Compensation Controls_Unstained Control_007.fcs~@~3670~@@~
+711690~@~Flow cytometry result~@~116284472~@~D244_BM_014.711690.fcs~@~D244_BM_014.fcs~@~3670~@@~
+711691~@~Flow cytometry result~@~151575~@~20170515.711691.wsp~@~20170515.wsp~@~3670~@@~
+711692~@~Flow cytometry compensation or control~@~383804~@~Intracellular_staining_version_5--Compensation Controls_APC-Cy7 Stained Control_011.711692.fcs~@~Intracellular_staining_version_5--Compensation Controls_APC-Cy7 Stained Control_011.fcs~@~3670~@@~
+711693~@~Flow cytometry compensation or control~@~383804~@~Intracellular_staining_version_5--Compensation Controls_BD V500 Stained Control_012.711693.fcs~@~Intracellular_staining_version_5--Compensation Controls_BD V500 Stained Control_012.fcs~@~3670~@@~
+711694~@~Flow cytometry compensation or control~@~383799~@~Intracellular_staining_version_5--Compensation Controls_BV421 Stained Control_006.711694.fcs~@~Intracellular_staining_version_5--Compensation Controls_BV421 Stained Control_006.fcs~@~3670~@@~
+711695~@~Flow cytometry compensation or control~@~383798~@~Intracellular_staining_version_5--Compensation Controls_FITC Stained Control_007.711695.fcs~@~Intracellular_staining_version_5--Compensation Controls_FITC Stained Control_007.fcs~@~3670~@@~
+711696~@~Flow cytometry compensation or control~@~383815~@~Intracellular_staining_version_5--Compensation Controls_PE-Texas Red Stained Control_009.711696.fcs~@~Intracellular_staining_version_5--Compensation Controls_PE-Texas Red Stained Control_009.fcs~@~3670~@@~
+711697~@~Flow cytometry compensation or control~@~383797~@~Intracellular_staining_version_5--Compensation Controls_PE Stained Control_008.711697.fcs~@~Intracellular_staining_version_5--Compensation Controls_PE Stained Control_008.fcs~@~3670~@@~
+711698~@~Flow cytometry compensation or control~@~383807~@~Intracellular_staining_version_5--Compensation Controls_Qdot 605 Stained Control_004.711698.fcs~@~Intracellular_staining_version_5--Compensation Controls_Qdot 605 Stained Control_004.fcs~@~3670~@@~
+711699~@~Flow cytometry compensation or control~@~383814~@~Intracellular_staining_version_5--Compensation Controls_Qdot 605 UV Stained Control_005.711699.fcs~@~Intracellular_staining_version_5--Compensation Controls_Qdot 605 UV Stained Control_005.fcs~@~3670~@@~
+711700~@~Flow cytometry compensation or control~@~383807~@~Intracellular_staining_version_5--Compensation Controls_Qdot 655 Stained Control_003.711700.fcs~@~Intracellular_staining_version_5--Compensation Controls_Qdot 655 Stained Control_003.fcs~@~3670~@@~
+711701~@~Flow cytometry compensation or control~@~383790~@~Intracellular_staining_version_5--Compensation Controls_Unstained Control_001.711701.fcs~@~Intracellular_staining_version_5--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711702~@~Flow cytometry result~@~97807385~@~TF D244_Lung_003.711702.fcs~@~TF D244_Lung_003.fcs~@~3670~@@~
+711703~@~Flow cytometry result~@~224111883~@~TF D244_LLN_002.711703.fcs~@~TF D244_LLN_002.fcs~@~3670~@@~
+711704~@~Flow cytometry result~@~28306268~@~D244_LLN_015.711704.fcs~@~D244_LLN_015.fcs~@~3670~@@~
+711705~@~Flow cytometry result~@~193159~@~TF D244_Bld_004.711705.fcs~@~TF D244_Bld_004.fcs~@~3670~@@~
+711706~@~Flow cytometry result~@~71072553~@~Live donor blood Rad_blood_013.711706.fcs~@~Live donor blood Rad_blood_013.fcs~@~3670~@@~
+711707~@~Flow cytometry result~@~49115519~@~TF D245_BM_005.711707.fcs~@~TF D245_BM_005.fcs~@~3670~@@~
+711708~@~Flow cytometry result~@~87389372~@~TF D245_Lung_007.711708.fcs~@~TF D245_Lung_007.fcs~@~3670~@@~
+711709~@~Flow cytometry result~@~174678723~@~TF D245_LLN_006.711709.fcs~@~TF D245_LLN_006.fcs~@~3670~@@~
+711710~@~Flow cytometry result~@~12365610~@~TF D245_Bld_008.711710.fcs~@~TF D245_Bld_008.fcs~@~3670~@@~
+711711~@~Flow cytometry result~@~21348302~@~D249 A2 NLV_BM.711711.fcs~@~D249 A2 NLV_BM.fcs~@~3670~@@~
+711712~@~Flow cytometry result~@~49872570~@~A2 NLV new_249 BM_016.711712.fcs~@~A2 NLV new_249 BM_016.fcs~@~3670~@@~
+711713~@~Flow cytometry compensation or control~@~303084~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_Alexa Fluor 488 Stained Control_007.711713.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_Alexa Fluor 488 Stained Control_007.fcs~@~3670~@@~
+711714~@~Flow cytometry compensation or control~@~303066~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_APC-Cy7 Stained Control_004.711714.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_APC-Cy7 Stained Control_004.fcs~@~3670~@@~
+711715~@~Flow cytometry compensation or control~@~303058~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_APC Stained Control_002.711715.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_APC Stained Control_002.fcs~@~3670~@@~
+711716~@~Flow cytometry compensation or control~@~303062~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV421 Stained Control_006.711716.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV421 Stained Control_006.fcs~@~3670~@@~
+711717~@~Flow cytometry compensation or control~@~303064~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV510 Stained Control_003.711717.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV510 Stained Control_003.fcs~@~3670~@@~
+711718~@~Flow cytometry compensation or control~@~303062~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV605 Stained Control_008.711718.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_BV605 Stained Control_008.fcs~@~3670~@@~
+711719~@~Flow cytometry compensation or control~@~303076~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_PE-Texas Red Stained Control_009.711719.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_PE-Texas Red Stained Control_009.fcs~@~3670~@@~
+711720~@~Flow cytometry compensation or control~@~303055~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_PE Stained Control_005.711720.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_PE Stained Control_005.fcs~@~3670~@@~
+711721~@~Flow cytometry compensation or control~@~303051~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_Unstained Control_001.711721.fcs~@~CD69_surface_stain_on_T_cells_version_4--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711722~@~Flow cytometry result~@~88023730~@~D249 A2 NLV_LLN.711722.fcs~@~D249 A2 NLV_LLN.fcs~@~3670~@@~
+711723~@~Flow cytometry result~@~27667415~@~A2 NLV new_249 LLN_017.711723.fcs~@~A2 NLV new_249 LLN_017.fcs~@~3670~@@~
+711724~@~Flow cytometry result~@~47700871~@~A2 NLV new_249 Spl_018.711724.fcs~@~A2 NLV new_249 Spl_018.fcs~@~3670~@@~
+711725~@~Flow cytometry result~@~58077389~@~D251_BM_019.711725.fcs~@~D251_BM_019.fcs~@~3670~@@~
+711726~@~Flow cytometry compensation or control~@~424142~@~Intracellular_staining_version_4--Compensation Controls_APC-Cy7 Stained Control_011.711726.fcs~@~Intracellular_staining_version_4--Compensation Controls_APC-Cy7 Stained Control_011.fcs~@~3670~@@~
+711727~@~Flow cytometry compensation or control~@~424140~@~Intracellular_staining_version_4--Compensation Controls_BD V500 Stained Control_012.711727.fcs~@~Intracellular_staining_version_4--Compensation Controls_BD V500 Stained Control_012.fcs~@~3670~@@~
+711728~@~Flow cytometry compensation or control~@~424137~@~Intracellular_staining_version_4--Compensation Controls_BV421 Stained Control_007.711728.fcs~@~Intracellular_staining_version_4--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711729~@~Flow cytometry compensation or control~@~337950~@~Intracellular_staining_version_4--Compensation Controls_FITC Stained Control_008.711729.fcs~@~Intracellular_staining_version_4--Compensation Controls_FITC Stained Control_008.fcs~@~3670~@@~
+711730~@~Flow cytometry compensation or control~@~295043~@~Intracellular_staining_version_4--Compensation Controls_PE-Texas Red Stained Control_010.711730.fcs~@~Intracellular_staining_version_4--Compensation Controls_PE-Texas Red Stained Control_010.fcs~@~3670~@@~
+711731~@~Flow cytometry compensation or control~@~424131~@~Intracellular_staining_version_4--Compensation Controls_PE Stained Control_009.711731.fcs~@~Intracellular_staining_version_4--Compensation Controls_PE Stained Control_009.fcs~@~3670~@@~
+711732~@~Flow cytometry compensation or control~@~424144~@~Intracellular_staining_version_4--Compensation Controls_Qdot 605 Stained Control_004.711732.fcs~@~Intracellular_staining_version_4--Compensation Controls_Qdot 605 Stained Control_004.fcs~@~3670~@@~
+711733~@~Flow cytometry compensation or control~@~271355~@~Intracellular_staining_version_4--Compensation Controls_Qdot 605 UV Stained Control_006.711733.fcs~@~Intracellular_staining_version_4--Compensation Controls_Qdot 605 UV Stained Control_006.fcs~@~3670~@@~
+711734~@~Flow cytometry compensation or control~@~424143~@~Intracellular_staining_version_4--Compensation Controls_Qdot 655 Stained Control_003.711734.fcs~@~Intracellular_staining_version_4--Compensation Controls_Qdot 655 Stained Control_003.fcs~@~3670~@@~
+711735~@~Flow cytometry compensation or control~@~424128~@~Intracellular_staining_version_4--Compensation Controls_Unstained Control_001.711735.fcs~@~Intracellular_staining_version_4--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711736~@~Flow cytometry result~@~11566529~@~D251_Lung_022.711736.fcs~@~D251_Lung_022.fcs~@~3670~@@~
+711737~@~Flow cytometry result~@~6179485~@~D251_LLN_021.711737.fcs~@~D251_LLN_021.fcs~@~3670~@@~
+711738~@~Flow cytometry result~@~70837561~@~D251_Bld_018.711738.fcs~@~D251_Bld_018.fcs~@~3670~@@~
+711739~@~Flow cytometry result~@~35367449~@~D251_Spl_020.711739.fcs~@~D251_Spl_020.fcs~@~3670~@@~
+711740~@~Flow cytometry result~@~37037917~@~D251_Thy_023.711740.fcs~@~D251_Thy_023.fcs~@~3670~@@~
+711741~@~Flow cytometry result~@~28911534~@~D254_BM_011.711741.fcs~@~D254_BM_011.fcs~@~3670~@@~
+711742~@~Flow cytometry compensation or control~@~323708~@~Intracellular_staining_version_8--Compensation Controls_Alexa Fluor 488 Stained Control_007.711742.fcs~@~Intracellular_staining_version_8--Compensation Controls_Alexa Fluor 488 Stained Control_007.fcs~@~3670~@@~
+711743~@~Flow cytometry compensation or control~@~323371~@~Intracellular_staining_version_8--Compensation Controls_APC-Cy7 Stained Control_003.711743.fcs~@~Intracellular_staining_version_8--Compensation Controls_APC-Cy7 Stained Control_003.fcs~@~3670~@@~
+711744~@~Flow cytometry compensation or control~@~323363~@~Intracellular_staining_version_8--Compensation Controls_APC Stained Control_005.711744.fcs~@~Intracellular_staining_version_8--Compensation Controls_APC Stained Control_005.fcs~@~3670~@@~
+711745~@~Flow cytometry compensation or control~@~323370~@~Intracellular_staining_version_8--Compensation Controls_BD V500 Stained Control_002.711745.fcs~@~Intracellular_staining_version_8--Compensation Controls_BD V500 Stained Control_002.fcs~@~3670~@@~
+711746~@~Flow cytometry compensation or control~@~323382~@~Intracellular_staining_version_8--Compensation Controls_PE-Texas Red Stained Control_009.711746.fcs~@~Intracellular_staining_version_8--Compensation Controls_PE-Texas Red Stained Control_009.fcs~@~3670~@@~
+711747~@~Flow cytometry compensation or control~@~323379~@~Intracellular_staining_version_8--Compensation Controls_PerCP-Cy5-5 Stained Control_008.711747.fcs~@~Intracellular_staining_version_8--Compensation Controls_PerCP-Cy5-5 Stained Control_008.fcs~@~3670~@@~
+711748~@~Flow cytometry compensation or control~@~323373~@~Intracellular_staining_version_8--Compensation Controls_Qdot 605 Stained Control_006.711748.fcs~@~Intracellular_staining_version_8--Compensation Controls_Qdot 605 Stained Control_006.fcs~@~3670~@@~
+711749~@~Flow cytometry compensation or control~@~323380~@~Intracellular_staining_version_8--Compensation Controls_Qdot 605 UV Stained Control_004.711749.fcs~@~Intracellular_staining_version_8--Compensation Controls_Qdot 605 UV Stained Control_004.fcs~@~3670~@@~
+711750~@~Flow cytometry compensation or control~@~323356~@~Intracellular_staining_version_8--Compensation Controls_Unstained Control_001.711750.fcs~@~Intracellular_staining_version_8--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711751~@~Flow cytometry result~@~45438286~@~D254_BM_002.711751.fcs~@~D254_BM_002.fcs~@~3670~@@~
+711752~@~Flow cytometry result~@~2035427~@~06-Oct-2016.711752.wsp~@~06-Oct-2016.wsp~@~3670~@@~
+711753~@~Flow cytometry result~@~2079102~@~122 Ki67 CD69 panel_ki67v1 subsets.711753.wsp~@~122 Ki67 CD69 panel_ki67v1 subsets.wsp~@~3670~@@~
+711754~@~Flow cytometry compensation or control~@~0~@~not_available.711754.txt~@~not_available.txt~@~3670~@@~
+711755~@~Flow cytometry result~@~91912239~@~D254_LLN_013.711755.fcs~@~D254_LLN_013.fcs~@~3670~@@~
+711756~@~Flow cytometry result~@~53834767~@~D254_LLN_004.711756.fcs~@~D254_LLN_004.fcs~@~3670~@@~
+711757~@~Flow cytometry result~@~539078~@~D254_Bld_010.711757.fcs~@~D254_Bld_010.fcs~@~3670~@@~
+711758~@~Flow cytometry result~@~26076303~@~D254_Bld_001.711758.fcs~@~D254_Bld_001.fcs~@~3670~@@~
+711759~@~Flow cytometry result~@~118681967~@~D254_Spl_012.711759.fcs~@~D254_Spl_012.fcs~@~3670~@@~
+711760~@~Flow cytometry result~@~99348827~@~D254_Spl_003.711760.fcs~@~D254_Spl_003.fcs~@~3670~@@~
+711761~@~Flow cytometry result~@~108807320~@~D259_BM_014.711761.fcs~@~D259_BM_014.fcs~@~3670~@@~
+711762~@~Flow cytometry result~@~24807918~@~D259_BM_015.711762.fcs~@~D259_BM_015.fcs~@~3670~@@~
+711763~@~Flow cytometry result~@~35497644~@~TF D259_BM_004.711763.fcs~@~TF D259_BM_004.fcs~@~3670~@@~
+711764~@~Flow cytometry result~@~590703~@~25-Jan-2017_v2.711764.wsp~@~25-Jan-2017_v2.wsp~@~3670~@@~
+711765~@~Flow cytometry result~@~778474~@~cd8 paper tbet eomes 7.711765.wsp~@~cd8 paper tbet eomes 7.wsp~@~3670~@@~
+711766~@~Flow cytometry result~@~78852046~@~D259_BM_006.711766.fcs~@~D259_BM_006.fcs~@~3670~@@~
+711767~@~Flow cytometry result~@~67071842~@~D259_Lung_017.711767.fcs~@~D259_Lung_017.fcs~@~3670~@@~
+711768~@~Flow cytometry result~@~133676403~@~TF D259_Lung_001.711768.fcs~@~TF D259_Lung_001.fcs~@~3670~@@~
+711769~@~Flow cytometry result~@~77081499~@~D259_LLN_016.711769.fcs~@~D259_LLN_016.fcs~@~3670~@@~
+711770~@~Flow cytometry result~@~121817908~@~D259_LLN_017.711770.fcs~@~D259_LLN_017.fcs~@~3670~@@~
+711771~@~Flow cytometry result~@~45422529~@~TF D259_LLN_002.711771.fcs~@~TF D259_LLN_002.fcs~@~3670~@@~
+711772~@~Flow cytometry result~@~76824598~@~D259_LLN_008.711772.fcs~@~D259_LLN_008.fcs~@~3670~@@~
+711773~@~Flow cytometry result~@~119738470~@~D259_Bld_013.711773.fcs~@~D259_Bld_013.fcs~@~3670~@@~
+711774~@~Flow cytometry result~@~5516085~@~D259_Bld_014.711774.fcs~@~D259_Bld_014.fcs~@~3670~@@~
+711775~@~Flow cytometry result~@~1572695~@~TF D259_Bld_005.711775.fcs~@~TF D259_Bld_005.fcs~@~3670~@@~
+711776~@~Flow cytometry result~@~43690383~@~D259_Bld_005.711776.fcs~@~D259_Bld_005.fcs~@~3670~@@~
+711777~@~Flow cytometry result~@~139204274~@~D259_Spl_015.711777.fcs~@~D259_Spl_015.fcs~@~3670~@@~
+711778~@~Flow cytometry result~@~74838959~@~D259_Spl_016.711778.fcs~@~D259_Spl_016.fcs~@~3670~@@~
+711779~@~Flow cytometry result~@~41798187~@~TF D259_Spl_003.711779.fcs~@~TF D259_Spl_003.fcs~@~3670~@@~
+711780~@~Flow cytometry result~@~70056911~@~D259_Spl_007.711780.fcs~@~D259_Spl_007.fcs~@~3670~@@~
+711781~@~Flow cytometry result~@~71869587~@~B7 RPH_BM_002.711781.fcs~@~B7 RPH_BM_002.fcs~@~3670~@@~
+711782~@~Flow cytometry result~@~321071~@~20170515_v2.711782.wsp~@~20170515_v2.wsp~@~3670~@@~
+711783~@~Flow cytometry compensation or control~@~363706~@~CD69_surface_stain_on_T_cells--Compensation Controls_Alexa Fluor 488 Stained Control_006.711783.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_Alexa Fluor 488 Stained Control_006.fcs~@~3670~@@~
+711784~@~Flow cytometry compensation or control~@~363690~@~CD69_surface_stain_on_T_cells--Compensation Controls_APC-Cy7 Stained Control_004.711784.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_APC-Cy7 Stained Control_004.fcs~@~3670~@@~
+711785~@~Flow cytometry compensation or control~@~363682~@~CD69_surface_stain_on_T_cells--Compensation Controls_APC Stained Control_002.711785.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_APC Stained Control_002.fcs~@~3670~@@~
+711786~@~Flow cytometry compensation or control~@~363691~@~CD69_surface_stain_on_T_cells--Compensation Controls_BD V500 Stained Control_003.711786.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_BD V500 Stained Control_003.fcs~@~3670~@@~
+711787~@~Flow cytometry compensation or control~@~363702~@~CD69_surface_stain_on_T_cells--Compensation Controls_PE-Texas Red Stained Control_008.711787.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_PE-Texas Red Stained Control_008.fcs~@~3670~@@~
+711788~@~Flow cytometry compensation or control~@~363681~@~CD69_surface_stain_on_T_cells--Compensation Controls_PE Stained Control_009.711788.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_PE Stained Control_009.fcs~@~3670~@@~
+711789~@~Flow cytometry compensation or control~@~363697~@~CD69_surface_stain_on_T_cells--Compensation Controls_PerCP-Cy5-5 Stained Control_005.711789.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_PerCP-Cy5-5 Stained Control_005.fcs~@~3670~@@~
+711790~@~Flow cytometry compensation or control~@~363692~@~CD69_surface_stain_on_T_cells--Compensation Controls_Qdot 605 Stained Control_007.711790.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_Qdot 605 Stained Control_007.fcs~@~3670~@@~
+711791~@~Flow cytometry compensation or control~@~363677~@~CD69_surface_stain_on_T_cells--Compensation Controls_Unstained Control_001.711791.fcs~@~CD69_surface_stain_on_T_cells--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711792~@~Flow cytometry result~@~81287858~@~B7 RPH_Lung_005.711792.fcs~@~B7 RPH_Lung_005.fcs~@~3670~@@~
+711793~@~Flow cytometry result~@~66698559~@~B7 RPH_LLN_004.711793.fcs~@~B7 RPH_LLN_004.fcs~@~3670~@@~
+711794~@~Flow cytometry result~@~149934294~@~B7 RPH_Bld_001.711794.fcs~@~B7 RPH_Bld_001.fcs~@~3670~@@~
+711795~@~Flow cytometry result~@~69267092~@~B7 RPH_Spl_003.711795.fcs~@~B7 RPH_Spl_003.fcs~@~3670~@@~
+711796~@~Flow cytometry result~@~64819195~@~D273_BM_010.711796.fcs~@~D273_BM_010.fcs~@~3670~@@~
+711797~@~Flow cytometry result~@~58361202~@~D273_BM_010d.711797.fcs~@~D273_BM_010d.fcs~@~3670~@@~
+711798~@~Flow cytometry result~@~103201781~@~D273_Lung_013.711798.fcs~@~D273_Lung_013.fcs~@~3670~@@~
+711799~@~Flow cytometry result~@~39389338~@~D273_LLN_012.711799.fcs~@~D273_LLN_012.fcs~@~3670~@@~
+711800~@~Flow cytometry result~@~48332328~@~D273_LLN_012d.711800.fcs~@~D273_LLN_012d.fcs~@~3670~@@~
+711801~@~Flow cytometry result~@~9592543~@~D273_FMO PE_014.711801.fcs~@~D273_FMO PE_014.fcs~@~3670~@@~
+711802~@~Flow cytometry result~@~123680620~@~D273_Bld_009.711802.fcs~@~D273_Bld_009.fcs~@~3670~@@~
+711803~@~Flow cytometry result~@~74081076~@~D273_Spl_011.711803.fcs~@~D273_Spl_011.fcs~@~3670~@@~
+711804~@~Flow cytometry result~@~91515663~@~D275_BM_002.711804.fcs~@~D275_BM_002.fcs~@~3670~@@~
+711805~@~Flow cytometry result~@~109806924~@~D275_BM_002d.711805.fcs~@~D275_BM_002d.fcs~@~3670~@@~
+711806~@~Flow cytometry result~@~1497931~@~Subsets.711806.wsp~@~Subsets.wsp~@~3670~@@~
+711807~@~Flow cytometry compensation or control~@~323355~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Alexa Fluor 488 Stained Control_012.711807.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Alexa Fluor 488 Stained Control_012.fcs~@~3670~@@~
+711808~@~Flow cytometry compensation or control~@~323337~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_APC-Cy7 Stained Control_007.711808.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_APC-Cy7 Stained Control_007.fcs~@~3670~@@~
+711809~@~Flow cytometry compensation or control~@~323331~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_APC Stained Control_009.711809.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_APC Stained Control_009.fcs~@~3670~@@~
+711810~@~Flow cytometry compensation or control~@~323337~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_BD V500 Stained Control_006.711810.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_BD V500 Stained Control_006.fcs~@~3670~@@~
+711811~@~Flow cytometry compensation or control~@~323333~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_BV421 Stained Control_011.711811.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_BV421 Stained Control_011.fcs~@~3670~@@~
+711812~@~Flow cytometry compensation or control~@~323327~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_PE Stained Control_008.711812.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_PE Stained Control_008.fcs~@~3670~@@~
+711813~@~Flow cytometry compensation or control~@~323346~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_PerCP-Cy5-5 Stained Control_013.711813.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_PerCP-Cy5-5 Stained Control_013.fcs~@~3670~@@~
+711814~@~Flow cytometry compensation or control~@~323340~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Qdot 605 Stained Control_010.711814.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Qdot 605 Stained Control_010.fcs~@~3670~@@~
+711815~@~Flow cytometry compensation or control~@~327101~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Unstained Control_005.711815.fcs~@~121_Ki67_CD69_panel_ki67v1--Compensation Controls_Unstained Control_005.fcs~@~3670~@@~
+711816~@~Flow cytometry result~@~60929168~@~D275_LLN_004.711816.fcs~@~D275_LLN_004.fcs~@~3670~@@~
+711817~@~Flow cytometry result~@~83428311~@~D275_LLN_004d.711817.fcs~@~D275_LLN_004d.fcs~@~3670~@@~
+711818~@~Flow cytometry result~@~33803524~@~D275_Bld_001.711818.fcs~@~D275_Bld_001.fcs~@~3670~@@~
+711819~@~Flow cytometry result~@~43549330~@~D275_Bld_001d.711819.fcs~@~D275_Bld_001d.fcs~@~3670~@@~
+711820~@~Flow cytometry result~@~59592400~@~D275_Spl_003.711820.fcs~@~D275_Spl_003.fcs~@~3670~@@~
+711821~@~Flow cytometry result~@~87688141~@~D275_Spl_003d.711821.fcs~@~D275_Spl_003d.fcs~@~3670~@@~
+711822~@~Flow cytometry result~@~29943658~@~D277_BM_001.711822.fcs~@~D277_BM_001.fcs~@~3670~@@~
+711823~@~Flow cytometry result~@~30330059~@~D277_LLN_002.711823.fcs~@~D277_LLN_002.fcs~@~3670~@@~
+711824~@~Flow cytometry result~@~89664344~@~D287 A2 NLV_BM_002.711824.fcs~@~D287 A2 NLV_BM_002.fcs~@~3670~@@~
+711825~@~Flow cytometry result~@~1654206~@~07-Feb-2017.711825.wsp~@~07-Feb-2017.wsp~@~3670~@@~
+711826~@~Flow cytometry result~@~93273697~@~A2 NLV new_287 BM_010.711826.fcs~@~A2 NLV new_287 BM_010.fcs~@~3670~@@~
+711827~@~Flow cytometry result~@~54949322~@~D287 A2 NLV_LLN_001.711827.fcs~@~D287 A2 NLV_LLN_001.fcs~@~3670~@@~
+711828~@~Flow cytometry result~@~60583231~@~A2 NLV new_287 LLN_011.711828.fcs~@~A2 NLV new_287 LLN_011.fcs~@~3670~@@~
+711829~@~Flow cytometry result~@~59310658~@~D287 A2 NLV_Spl_003.711829.fcs~@~D287 A2 NLV_Spl_003.fcs~@~3670~@@~
+711830~@~Flow cytometry result~@~61015171~@~A2 NLV new_287 Spl_012.711830.fcs~@~A2 NLV new_287 Spl_012.fcs~@~3670~@@~
+711831~@~Flow cytometry result~@~12747661~@~D288_BM_005.711831.fcs~@~D288_BM_005.fcs~@~3670~@@~
+711832~@~Flow cytometry result~@~79225992~@~D288_BM_006.711832.fcs~@~D288_BM_006.fcs~@~3670~@@~
+711833~@~Flow cytometry result~@~52166044~@~Day 0_BM D288_011.711833.fcs~@~Day 0_BM D288_011.fcs~@~3670~@@~
+711834~@~Flow cytometry compensation or control~@~322902~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_012.711834.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_012.fcs~@~3670~@@~
+711835~@~Flow cytometry compensation or control~@~322879~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD3 BV510 Stained Control_010.711835.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD3 BV510 Stained Control_010.fcs~@~3670~@@~
+711836~@~Flow cytometry compensation or control~@~322884~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD4 APC-Cy7 Stained Control_011.711836.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD4 APC-Cy7 Stained Control_011.fcs~@~3670~@@~
+711837~@~Flow cytometry compensation or control~@~322862~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD45RA_BV605 Stained Control_013.711837.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_CD45RA_BV605 Stained Control_013.fcs~@~3670~@@~
+711838~@~Flow cytometry compensation or control~@~322911~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Live dead PE-Texas Red Stained Control_018.711838.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Live dead PE-Texas Red Stained Control_018.fcs~@~3670~@@~
+711839~@~Flow cytometry compensation or control~@~322873~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_PerCP-Cy5-5 Stained Control_015.711839.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_PerCP-Cy5-5 Stained Control_015.fcs~@~3670~@@~
+711840~@~Flow cytometry compensation or control~@~322937~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Proliferation dye Pacific Blue Stained Control_014.711840.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Proliferation dye Pacific Blue Stained Control_014.fcs~@~3670~@@~
+711841~@~Flow cytometry compensation or control~@~322882~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_T-Bet PE Stained Control_017.711841.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_T-Bet PE Stained Control_017.fcs~@~3670~@@~
+711842~@~Flow cytometry compensation or control~@~322877~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_TCF APC Stained Control_016.711842.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_TCF APC Stained Control_016.fcs~@~3670~@@~
+711843~@~Flow cytometry compensation or control~@~322853~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Unstained Control_009.711843.fcs~@~Proliferation_assay_intracellular_staining_version_2--Compensation Controls_Unstained Control_009.fcs~@~3670~@@~
+711844~@~Flow cytometry result~@~4691855~@~Day 3 post stim_D288 BM CD4_003.711844.fcs~@~Day 3 post stim_D288 BM CD4_003.fcs~@~3670~@@~
+711845~@~Flow cytometry result~@~7382223~@~Day 3 post stim_D288 BM CD8_004.711845.fcs~@~Day 3 post stim_D288 BM CD8_004.fcs~@~3670~@@~
+711846~@~Flow cytometry result~@~1334406~@~Day 4 post stim_D288 BM CD4_021.711846.fcs~@~Day 4 post stim_D288 BM CD4_021.fcs~@~3670~@@~
+711847~@~Flow cytometry result~@~1287943~@~Day 4 post stim_D288 BM CD8_022.711847.fcs~@~Day 4 post stim_D288 BM CD8_022.fcs~@~3670~@@~
+711848~@~Flow cytometry result~@~85592267~@~D288_BM_015.711848.fcs~@~D288_BM_015.fcs~@~3670~@@~
+711849~@~Flow cytometry result~@~38562117~@~D288_LLN_006.711849.fcs~@~D288_LLN_006.fcs~@~3670~@@~
+711850~@~Flow cytometry result~@~60743369~@~D288_LLN_008.711850.fcs~@~D288_LLN_008.fcs~@~3670~@@~
+711851~@~Flow cytometry result~@~57317653~@~Day 0_LN D288_012.711851.fcs~@~Day 0_LN D288_012.fcs~@~3670~@@~
+711852~@~Flow cytometry result~@~4181189~@~Day 3 post stim_D288 LN CD4_001.711852.fcs~@~Day 3 post stim_D288 LN CD4_001.fcs~@~3670~@@~
+711853~@~Flow cytometry result~@~6605775~@~Day 3 post stim_D288 LN CD8_002.711853.fcs~@~Day 3 post stim_D288 LN CD8_002.fcs~@~3670~@@~
+711854~@~Flow cytometry result~@~9364649~@~Day 4 post stim_D288 LN CD4_019.711854.fcs~@~Day 4 post stim_D288 LN CD4_019.fcs~@~3670~@@~
+711855~@~Flow cytometry result~@~3222980~@~Day 4 post stim_D288 LN CD8_020.711855.fcs~@~Day 4 post stim_D288 LN CD8_020.fcs~@~3670~@@~
+711856~@~Flow cytometry result~@~76494412~@~D288_LLN_017.711856.fcs~@~D288_LLN_017.fcs~@~3670~@@~
+711857~@~Flow cytometry result~@~39330441~@~D288_Bld_005.711857.fcs~@~D288_Bld_005.fcs~@~3670~@@~
+711858~@~Flow cytometry result~@~24987792~@~D288_Bld_014.711858.fcs~@~D288_Bld_014.fcs~@~3670~@@~
+711859~@~Flow cytometry result~@~89396873~@~D288_Spl_007.711859.fcs~@~D288_Spl_007.fcs~@~3670~@@~
+711860~@~Flow cytometry result~@~56109452~@~D288_Spl_016.711860.fcs~@~D288_Spl_016.fcs~@~3670~@@~
+711861~@~Flow cytometry result~@~30539250~@~A2 NLV new_289 BM_013.711861.fcs~@~A2 NLV new_289 BM_013.fcs~@~3670~@@~
+711862~@~Flow cytometry result~@~78127171~@~A2 NLV new_289 LLN_014.711862.fcs~@~A2 NLV new_289 LLN_014.fcs~@~3670~@@~
+711863~@~Flow cytometry result~@~35710960~@~A2 NLV new_289 Spl_015.711863.fcs~@~A2 NLV new_289 Spl_015.fcs~@~3670~@@~
+711864~@~Flow cytometry result~@~98844168~@~D291_BM_010.711864.fcs~@~D291_BM_010.fcs~@~3670~@@~
+711865~@~Flow cytometry result~@~26103359~@~D291_BM_010d.711865.fcs~@~D291_BM_010d.fcs~@~3670~@@~
+711866~@~Flow cytometry compensation or control~@~1455436~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_Alexa Fluor 488 Stained Control_002.711866.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_Alexa Fluor 488 Stained Control_002.fcs~@~3670~@@~
+711867~@~Flow cytometry compensation or control~@~156409~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_APC-Cy7 Stained Control_006.711867.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_APC-Cy7 Stained Control_006.fcs~@~3670~@@~
+711868~@~Flow cytometry compensation or control~@~453682~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_APC Stained Control_005.711868.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_APC Stained Control_005.fcs~@~3670~@@~
+711869~@~Flow cytometry compensation or control~@~2866166~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV421 Stained Control_007.711869.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711870~@~Flow cytometry compensation or control~@~979255~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV510 Stained Control_008.711870.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV510 Stained Control_008.fcs~@~3670~@@~
+711871~@~Flow cytometry compensation or control~@~526647~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV605 Stained Control_009.711871.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_BV605 Stained Control_009.fcs~@~3670~@@~
+711872~@~Flow cytometry compensation or control~@~1803578~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_PE-Cy7 Stained Control_004.711872.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_PE-Cy7 Stained Control_004.fcs~@~3670~@@~
+711873~@~Flow cytometry compensation or control~@~2120434~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_PE Stained Control_003.711873.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_PE Stained Control_003.fcs~@~3670~@@~
+711874~@~Flow cytometry compensation or control~@~323179~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_Unstained Control_001.711874.fcs~@~CD69_surface_stain_on_T_cells_version_5--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+711875~@~Flow cytometry result~@~69825353~@~D291_LLN_012.711875.fcs~@~D291_LLN_012.fcs~@~3670~@@~
+711876~@~Flow cytometry result~@~42246137~@~D291_LLN_011.711876.fcs~@~D291_LLN_011.fcs~@~3670~@@~
+711877~@~Flow cytometry result~@~41663877~@~D291_Bld_009.711877.fcs~@~D291_Bld_009.fcs~@~3670~@@~
+711878~@~Flow cytometry result~@~38492681~@~D291_Spl_011.711878.fcs~@~D291_Spl_011.fcs~@~3670~@@~
+711879~@~Flow cytometry result~@~27467522~@~D291_Spl_012.711879.fcs~@~D291_Spl_012.fcs~@~3670~@@~
+711880~@~Flow cytometry result~@~73628960~@~CXCR4_D293 BM_011.711880.fcs~@~CXCR4_D293 BM_011.fcs~@~3670~@@~
+711881~@~Flow cytometry result~@~61157765~@~CXCR4_D293 LN_012.711881.fcs~@~CXCR4_D293 LN_012.fcs~@~3670~@@~
+711882~@~Flow cytometry result~@~18417080~@~D297_BM_017.711882.fcs~@~D297_BM_017.fcs~@~3670~@@~
+711883~@~Flow cytometry result~@~58881766~@~CXCR4_D297 BM_015.711883.fcs~@~CXCR4_D297 BM_015.fcs~@~3670~@@~
+711884~@~Flow cytometry result~@~29620601~@~D297_LLN_018.711884.fcs~@~D297_LLN_018.fcs~@~3670~@@~
+711885~@~Flow cytometry result~@~30933943~@~CXCR4_D297 LN_016.711885.fcs~@~CXCR4_D297 LN_016.fcs~@~3670~@@~
+711886~@~Flow cytometry result~@~43973248~@~D297_Spl_019.711886.fcs~@~D297_Spl_019.fcs~@~3670~@@~
+711887~@~Flow cytometry result~@~17861640~@~D299_BM_002.711887.fcs~@~D299_BM_002.fcs~@~3670~@@~
+711888~@~Flow cytometry result~@~20496100~@~D299_BM_002d.711888.fcs~@~D299_BM_002d.fcs~@~3670~@@~
+711889~@~Flow cytometry result~@~279823~@~20161207.711889.wsp~@~20161207.wsp~@~3670~@@~
+711890~@~Flow cytometry compensation or control~@~222860~@~133_Ki67_panel_ki67v1--Compensation Controls_Alexa Fluor 488 Stained Control_011.711890.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_Alexa Fluor 488 Stained Control_011.fcs~@~3670~@@~
+711891~@~Flow cytometry compensation or control~@~222843~@~133_Ki67_panel_ki67v1--Compensation Controls_APC-Cy7 Stained Control_010.711891.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_APC-Cy7 Stained Control_010.fcs~@~3670~@@~
+711892~@~Flow cytometry compensation or control~@~222835~@~133_Ki67_panel_ki67v1--Compensation Controls_APC Stained Control_006.711892.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_APC Stained Control_006.fcs~@~3670~@@~
+711893~@~Flow cytometry compensation or control~@~222842~@~133_Ki67_panel_ki67v1--Compensation Controls_BD V500 Stained Control_008.711893.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_BD V500 Stained Control_008.fcs~@~3670~@@~
+711894~@~Flow cytometry compensation or control~@~222839~@~133_Ki67_panel_ki67v1--Compensation Controls_BV421 Stained Control_007.711894.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_BV421 Stained Control_007.fcs~@~3670~@@~
+711895~@~Flow cytometry compensation or control~@~222834~@~133_Ki67_panel_ki67v1--Compensation Controls_PE Stained Control_009.711895.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_PE Stained Control_009.fcs~@~3670~@@~
+711896~@~Flow cytometry compensation or control~@~222845~@~133_Ki67_panel_ki67v1--Compensation Controls_Qdot 605 Stained Control_012.711896.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_Qdot 605 Stained Control_012.fcs~@~3670~@@~
+711897~@~Flow cytometry compensation or control~@~158723~@~133_Ki67_panel_ki67v1--Compensation Controls_Unstained Control_005.711897.fcs~@~133_Ki67_panel_ki67v1--Compensation Controls_Unstained Control_005.fcs~@~3670~@@~
+711898~@~Flow cytometry result~@~34001528~@~CXCR4_D299 BM_013.711898.fcs~@~CXCR4_D299 BM_013.fcs~@~3670~@@~
+711899~@~Flow cytometry result~@~22085521~@~D299_LLN_004.711899.fcs~@~D299_LLN_004.fcs~@~3670~@@~
+711900~@~Flow cytometry result~@~18809134~@~D299_LLN_004d.711900.fcs~@~D299_LLN_004d.fcs~@~3670~@@~
+711901~@~Flow cytometry result~@~60642022~@~CXCR4_D299 LN_014.711901.fcs~@~CXCR4_D299 LN_014.fcs~@~3670~@@~
+711902~@~Flow cytometry result~@~42083103~@~D299_Bld_003.711902.fcs~@~D299_Bld_003.fcs~@~3670~@@~
+711903~@~Flow cytometry result~@~15613781~@~D299_Bld_003d.711903.fcs~@~D299_Bld_003d.fcs~@~3670~@@~
+711904~@~Flow cytometry result~@~24532080~@~D299_Spl_001.711904.fcs~@~D299_Spl_001.fcs~@~3670~@@~
+711905~@~Flow cytometry result~@~33336858~@~D299_Spl_001d.711905.fcs~@~D299_Spl_001d.fcs~@~3670~@@~
+711906~@~Flow cytometry result~@~57059080~@~D302_BM_002.711906.fcs~@~D302_BM_002.fcs~@~3670~@@~
+711907~@~Flow cytometry compensation or control~@~342998~@~Intracellular_staining_version_1--Compensation Controls_BV711 Stained Control_029.711907.fcs~@~Intracellular_staining_version_1--Compensation Controls_BV711 Stained Control_029.fcs~@~3670~@@~
+711908~@~Flow cytometry compensation or control~@~346573~@~Intracellular_staining_version_1--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_025.711908.fcs~@~Intracellular_staining_version_1--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_025.fcs~@~3670~@@~
+711909~@~Flow cytometry compensation or control~@~343012~@~Intracellular_staining_version_1--Compensation Controls_cd3 BV510 Stained Control_022.711909.fcs~@~Intracellular_staining_version_1--Compensation Controls_cd3 BV510 Stained Control_022.fcs~@~3670~@@~
+711910~@~Flow cytometry compensation or control~@~343017~@~Intracellular_staining_version_1--Compensation Controls_cd4 APC-Cy7 Stained Control_023.711910.fcs~@~Intracellular_staining_version_1--Compensation Controls_cd4 APC-Cy7 Stained Control_023.fcs~@~3670~@@~
+711911~@~Flow cytometry compensation or control~@~343022~@~Intracellular_staining_version_1--Compensation Controls_CD45RA BV605 Stained Control_026.711911.fcs~@~Intracellular_staining_version_1--Compensation Controls_CD45RA BV605 Stained Control_026.fcs~@~3670~@@~
+711912~@~Flow cytometry compensation or control~@~346685~@~Intracellular_staining_version_1--Compensation Controls_CD69 APC Stained Control_030.711912.fcs~@~Intracellular_staining_version_1--Compensation Controls_CD69 APC Stained Control_030.fcs~@~3670~@@~
+711913~@~Flow cytometry compensation or control~@~343025~@~Intracellular_staining_version_1--Compensation Controls_CD8 PerCP-Cy5-5 Stained Control_024.711913.fcs~@~Intracellular_staining_version_1--Compensation Controls_CD8 PerCP-Cy5-5 Stained Control_024.fcs~@~3670~@@~
+711914~@~Flow cytometry compensation or control~@~343026~@~Intracellular_staining_version_1--Compensation Controls_CXCR5 0 BV421 Stained Control_027.711914.fcs~@~Intracellular_staining_version_1--Compensation Controls_CXCR5 0 BV421 Stained Control_027.fcs~@~3670~@@~
+711915~@~Flow cytometry compensation or control~@~342995~@~Intracellular_staining_version_1--Compensation Controls_PE Stained Control_028.711915.fcs~@~Intracellular_staining_version_1--Compensation Controls_PE Stained Control_028.fcs~@~3670~@@~
+711916~@~Flow cytometry compensation or control~@~349266~@~Intracellular_staining_version_1--Compensation Controls_Unstained Control_021.711916.fcs~@~Intracellular_staining_version_1--Compensation Controls_Unstained Control_021.fcs~@~3670~@@~
+711917~@~Flow cytometry result~@~45097748~@~D302_Lung_005.711917.fcs~@~D302_Lung_005.fcs~@~3670~@@~
+711918~@~Flow cytometry result~@~68004365~@~D302_LLN_003.711918.fcs~@~D302_LLN_003.fcs~@~3670~@@~
+711919~@~Flow cytometry result~@~68004385~@~D302_Bld_001.711919.fcs~@~D302_Bld_001.fcs~@~3670~@@~
+711920~@~Flow cytometry result~@~62153439~@~D302_Spl_004.711920.fcs~@~D302_Spl_004.fcs~@~3670~@@~
+711921~@~Flow cytometry result~@~42110547~@~D304_BM_012.711921.fcs~@~D304_BM_012.fcs~@~3670~@@~
+711922~@~Flow cytometry result~@~34088823~@~D304_LLN_011.711922.fcs~@~D304_LLN_011.fcs~@~3670~@@~
+711923~@~Flow cytometry result~@~68720473~@~D305 CD101_BM_005.711923.fcs~@~D305 CD101_BM_005.fcs~@~3670~@@~
+711924~@~Flow cytometry result~@~1611672~@~19-Jan-2017.711924.wsp~@~19-Jan-2017.wsp~@~3670~@@~
+711925~@~Flow cytometry result~@~40258943~@~D305 CD19_BM_008.711925.fcs~@~D305 CD19_BM_008.fcs~@~3670~@@~
+711926~@~Flow cytometry result~@~75235042~@~D305 CD62L CCR5_BM_002.711926.fcs~@~D305 CD62L CCR5_BM_002.fcs~@~3670~@@~
+711927~@~Flow cytometry result~@~33163922~@~D305 CD101_LLN_004.711927.fcs~@~D305 CD101_LLN_004.fcs~@~3670~@@~
+711928~@~Flow cytometry result~@~37325304~@~D305 CD19_LLN_007.711928.fcs~@~D305 CD19_LLN_007.fcs~@~3670~@@~
+711929~@~Flow cytometry result~@~78045414~@~D305 CD62L CCR5_LLN_001.711929.fcs~@~D305 CD62L CCR5_LLN_001.fcs~@~3670~@@~
+711930~@~Flow cytometry result~@~20788346~@~D305 CD101_Bld_006.711930.fcs~@~D305 CD101_Bld_006.fcs~@~3670~@@~
+711931~@~Flow cytometry result~@~19122127~@~D305 CD19_Bld_009.711931.fcs~@~D305 CD19_Bld_009.fcs~@~3670~@@~
+711932~@~Flow cytometry result~@~35642461~@~D305 CD62L CCR5_Bld_003.711932.fcs~@~D305 CD62L CCR5_Bld_003.fcs~@~3670~@@~
+711933~@~Flow cytometry result~@~85322100~@~D306 CCR5 CD62L_BM_002.711933.fcs~@~D306 CCR5 CD62L_BM_002.fcs~@~3670~@@~
+711934~@~Flow cytometry result~@~411684~@~20170123.711934.wsp~@~20170123.wsp~@~3670~@@~
+711935~@~Flow cytometry result~@~89706318~@~D306 CCR5 CD62L_LLN_001.711935.fcs~@~D306 CCR5 CD62L_LLN_001.fcs~@~3670~@@~
+711936~@~Flow cytometry result~@~87518677~@~D306 CCR5 CD62L_Bld_003.711936.fcs~@~D306 CCR5 CD62L_Bld_003.fcs~@~3670~@@~
+711937~@~Flow cytometry result~@~72714826~@~D307 CCR5 CD62L_BM_002.711937.fcs~@~D307 CCR5 CD62L_BM_002.fcs~@~3670~@@~
+711938~@~Flow cytometry result~@~692981~@~01-Feb-2017.711938.wsp~@~01-Feb-2017.wsp~@~3670~@@~
+711939~@~Flow cytometry result~@~79642~@~20170130.711939.wsp~@~20170130.wsp~@~3670~@@~
+711940~@~Flow cytometry result~@~505502~@~27-Jan-2017.711940.wsp~@~27-Jan-2017.wsp~@~3670~@@~
+711941~@~Flow cytometry result~@~63024342~@~D307 CCR5 CD62L_LLN_001.711941.fcs~@~D307 CCR5 CD62L_LLN_001.fcs~@~3670~@@~
+711942~@~Flow cytometry result~@~55267494~@~D307 CCR5 CD62L_Bld_003.711942.fcs~@~D307 CCR5 CD62L_Bld_003.fcs~@~3670~@@~
+711943~@~Flow cytometry result~@~75564938~@~BM_NLV_005.711943.fcs~@~BM_NLV_005.fcs~@~3670~@@~
+711944~@~Flow cytometry result~@~2849946~@~31-Jan-2017.711944.wsp~@~31-Jan-2017.wsp~@~3670~@@~
+711945~@~Flow cytometry result~@~15524717~@~BM_no tet_008.711945.fcs~@~BM_no tet_008.fcs~@~3670~@@~
+711946~@~Flow cytometry result~@~50799164~@~BM_VLA_007.711946.fcs~@~BM_VLA_007.fcs~@~3670~@@~
+711947~@~Flow cytometry result~@~60216044~@~BM_VLE_006.711947.fcs~@~BM_VLE_006.fcs~@~3670~@@~
+711948~@~Flow cytometry result~@~75000831~@~Lung_NLV_017.711948.fcs~@~Lung_NLV_017.fcs~@~3670~@@~
+711949~@~Flow cytometry result~@~9867041~@~Lung_no tet_020.711949.fcs~@~Lung_no tet_020.fcs~@~3670~@@~
+711950~@~Flow cytometry result~@~24073846~@~Lung_VLA_019.711950.fcs~@~Lung_VLA_019.fcs~@~3670~@@~
+711951~@~Flow cytometry result~@~23289995~@~Lung_VLE_018.711951.fcs~@~Lung_VLE_018.fcs~@~3670~@@~
+711952~@~Flow cytometry result~@~69054413~@~LLN_NLV_013.711952.fcs~@~LLN_NLV_013.fcs~@~3670~@@~
+711953~@~Flow cytometry result~@~10715767~@~LLN_no tet_016.711953.fcs~@~LLN_no tet_016.fcs~@~3670~@@~
+711954~@~Flow cytometry result~@~35005533~@~LLN_VLA_015.711954.fcs~@~LLN_VLA_015.fcs~@~3670~@@~
+711955~@~Flow cytometry result~@~30871293~@~LLN_VLE_014.711955.fcs~@~LLN_VLE_014.fcs~@~3670~@@~
+711956~@~Flow cytometry result~@~54839235~@~Bld_NLV_001.711956.fcs~@~Bld_NLV_001.fcs~@~3670~@@~
+711957~@~Flow cytometry result~@~11492645~@~Bld_no tet_004.711957.fcs~@~Bld_no tet_004.fcs~@~3670~@@~
+711958~@~Flow cytometry result~@~42703995~@~Bld_VLA_003.711958.fcs~@~Bld_VLA_003.fcs~@~3670~@@~
+711959~@~Flow cytometry result~@~44576565~@~Bld_VLE_002.711959.fcs~@~Bld_VLE_002.fcs~@~3670~@@~
+711960~@~Flow cytometry result~@~45163666~@~Spl_NLV_009.711960.fcs~@~Spl_NLV_009.fcs~@~3670~@@~
+711961~@~Flow cytometry result~@~8696891~@~Spl_no tet_012.711961.fcs~@~Spl_no tet_012.fcs~@~3670~@@~
+711962~@~Flow cytometry result~@~17965941~@~Spl_VLA_011.711962.fcs~@~Spl_VLA_011.fcs~@~3670~@@~
+711963~@~Flow cytometry result~@~47782005~@~Spl_VLE_010.711963.fcs~@~Spl_VLE_010.fcs~@~3670~@@~
+711964~@~Flow cytometry result~@~20801109~@~Day 0_BM D309_013.711964.fcs~@~Day 0_BM D309_013.fcs~@~3670~@@~
+711965~@~Flow cytometry result~@~193669~@~Day 3 post stim_D309 BM CD4_007.711965.fcs~@~Day 3 post stim_D309 BM CD4_007.fcs~@~3670~@@~
+711966~@~Flow cytometry result~@~176517~@~Day 3 post stim_D309 BM CD8_008.711966.fcs~@~Day 3 post stim_D309 BM CD8_008.fcs~@~3670~@@~
+711967~@~Flow cytometry result~@~79687~@~Day 4 post stim_D309 BM CD4_025.711967.fcs~@~Day 4 post stim_D309 BM CD4_025.fcs~@~3670~@@~
+711968~@~Flow cytometry result~@~89160~@~Day 4 post stim_D309 BM CD8_026.711968.fcs~@~Day 4 post stim_D309 BM CD8_026.fcs~@~3670~@@~
+711969~@~Flow cytometry result~@~59456015~@~A2 NLV_BM_002.711969.fcs~@~A2 NLV_BM_002.fcs~@~3670~@@~
+711970~@~Flow cytometry result~@~1531187~@~02-Feb-2017.711970.wsp~@~02-Feb-2017.wsp~@~3670~@@~
+711971~@~Flow cytometry result~@~478077~@~CCR5 compiled.711971.wsp~@~CCR5 compiled.wsp~@~3670~@@~
+711972~@~Flow cytometry result~@~37985111~@~A2 VLA_BM_006.711972.fcs~@~A2 VLA_BM_006.fcs~@~3670~@@~
+711973~@~Flow cytometry result~@~47994983~@~A2 VLE_BM_010.711973.fcs~@~A2 VLE_BM_010.fcs~@~3670~@@~
+711974~@~Flow cytometry result~@~30543475~@~CD62L_BM_018.711974.fcs~@~CD62L_BM_018.fcs~@~3670~@@~
+711975~@~Flow cytometry result~@~18865298~@~no tet_BM_014.711975.fcs~@~no tet_BM_014.fcs~@~3670~@@~
+711976~@~Flow cytometry result~@~9722456~@~Day 0_LN D309_014.711976.fcs~@~Day 0_LN D309_014.fcs~@~3670~@@~
+711977~@~Flow cytometry result~@~9438927~@~Day 3 post stim_D309 LN CD4_005.711977.fcs~@~Day 3 post stim_D309 LN CD4_005.fcs~@~3670~@@~
+711978~@~Flow cytometry result~@~859077~@~Day 3 post stim_D309 LN CD8_006.711978.fcs~@~Day 3 post stim_D309 LN CD8_006.fcs~@~3670~@@~
+711979~@~Flow cytometry result~@~2184207~@~Day 4 post stim_D309 LN CD4_023.711979.fcs~@~Day 4 post stim_D309 LN CD4_023.fcs~@~3670~@@~
+711980~@~Flow cytometry result~@~1704329~@~Day 4 post stim_D309 LN CD8_024.711980.fcs~@~Day 4 post stim_D309 LN CD8_024.fcs~@~3670~@@~
+711981~@~Flow cytometry result~@~41749711~@~A2 NLV_LLN_004.711981.fcs~@~A2 NLV_LLN_004.fcs~@~3670~@@~
+711982~@~Flow cytometry result~@~30445344~@~A2 VLA_LLN_008.711982.fcs~@~A2 VLA_LLN_008.fcs~@~3670~@@~
+711983~@~Flow cytometry result~@~29942136~@~A2 VLE_LLN_012.711983.fcs~@~A2 VLE_LLN_012.fcs~@~3670~@@~
+711984~@~Flow cytometry result~@~18696164~@~CD62L_LLN_020.711984.fcs~@~CD62L_LLN_020.fcs~@~3670~@@~
+711985~@~Flow cytometry result~@~21447576~@~no tet_LLN_016.711985.fcs~@~no tet_LLN_016.fcs~@~3670~@@~
+711986~@~Flow cytometry result~@~75853012~@~A2 NLV_Bld_001.711986.fcs~@~A2 NLV_Bld_001.fcs~@~3670~@@~
+711987~@~Flow cytometry result~@~50609092~@~A2 VLA_Bld_005.711987.fcs~@~A2 VLA_Bld_005.fcs~@~3670~@@~
+711988~@~Flow cytometry result~@~38355988~@~A2 VLE_Bld_009.711988.fcs~@~A2 VLE_Bld_009.fcs~@~3670~@@~
+711989~@~Flow cytometry result~@~27728852~@~CD62L_Bld_017.711989.fcs~@~CD62L_Bld_017.fcs~@~3670~@@~
+711990~@~Flow cytometry result~@~13655740~@~no tet_Bld_013.711990.fcs~@~no tet_Bld_013.fcs~@~3670~@@~
+711991~@~Flow cytometry result~@~11216952~@~A2 NLV_Spl_003.711991.fcs~@~A2 NLV_Spl_003.fcs~@~3670~@@~
+711992~@~Flow cytometry result~@~35197560~@~A2 VLA_Spl_007.711992.fcs~@~A2 VLA_Spl_007.fcs~@~3670~@@~
+711993~@~Flow cytometry result~@~26956232~@~A2 VLE_Spl_011.711993.fcs~@~A2 VLE_Spl_011.fcs~@~3670~@@~
+711994~@~Flow cytometry result~@~26557484~@~CD62L_Spl_019.711994.fcs~@~CD62L_Spl_019.fcs~@~3670~@@~
+711995~@~Flow cytometry result~@~9229176~@~no tet_Spl_015.711995.fcs~@~no tet_Spl_015.fcs~@~3670~@@~
+711996~@~Flow cytometry result~@~61940730~@~D310_BM_008.711996.fcs~@~D310_BM_008.fcs~@~3670~@@~
+711997~@~Flow cytometry result~@~61940730~@~D310_BM_009.711997.fcs~@~D310_BM_009.fcs~@~3670~@@~
+711998~@~Flow cytometry result~@~58716499~@~D310_Bld_009.711998.fcs~@~D310_Bld_009.fcs~@~3670~@@~
+711999~@~Flow cytometry result~@~58716499~@~D310_Bld_010.711999.fcs~@~D310_Bld_010.fcs~@~3670~@@~
+712000~@~Flow cytometry result~@~891140~@~day 4_D326 BM CD4 unstim_006.712000.fcs~@~day 4_D326 BM CD4 unstim_006.fcs~@~3670~@@~
+712001~@~Flow cytometry result~@~2929468~@~day 4_D326 BM CD4_002.712001.fcs~@~day 4_D326 BM CD4_002.fcs~@~3670~@@~
+712002~@~Flow cytometry result~@~170951~@~day 4_D326 BM CD8 unstim_005.712002.fcs~@~day 4_D326 BM CD8 unstim_005.fcs~@~3670~@@~
+712003~@~Flow cytometry result~@~2477376~@~day 4_D326 BM CD8_001.712003.fcs~@~day 4_D326 BM CD8_001.fcs~@~3670~@@~
+712004~@~Flow cytometry result~@~1053767~@~day 5_D326 BM CD4 unstim_012.712004.fcs~@~day 5_D326 BM CD4 unstim_012.fcs~@~3670~@@~
+712005~@~Flow cytometry result~@~6351620~@~day 5_D326 BM CD4_009.712005.fcs~@~day 5_D326 BM CD4_009.fcs~@~3670~@@~
+712006~@~Flow cytometry result~@~3613572~@~day 5_D326 BM CD8_008.712006.fcs~@~day 5_D326 BM CD8_008.fcs~@~3670~@@~
+712007~@~Flow cytometry result~@~1606788~@~day 4_D326 LN CD4 unstim_007.712007.fcs~@~day 4_D326 LN CD4 unstim_007.fcs~@~3670~@@~
+712008~@~Flow cytometry result~@~4138686~@~day 4_D326 LN CD4_004.712008.fcs~@~day 4_D326 LN CD4_004.fcs~@~3670~@@~
+712009~@~Flow cytometry result~@~1520192~@~day 4_D326 LN CD8_003.712009.fcs~@~day 4_D326 LN CD8_003.fcs~@~3670~@@~
+712010~@~Flow cytometry result~@~1019463~@~day 5_D326 LN CD4 unstim_013.712010.fcs~@~day 5_D326 LN CD4 unstim_013.fcs~@~3670~@@~
+712011~@~Flow cytometry result~@~6016894~@~day 5_D326 LN CD4_011.712011.fcs~@~day 5_D326 LN CD4_011.fcs~@~3670~@@~
+712012~@~Flow cytometry result~@~3517933~@~day 5_D326 LN CD8_010.712012.fcs~@~day 5_D326 LN CD8_010.fcs~@~3670~@@~
+712013~@~Flow cytometry result~@~588910~@~day 4_D328 BM CD4 stim_005.712013.fcs~@~day 4_D328 BM CD4 stim_005.fcs~@~3670~@@~
+712014~@~Flow cytometry result~@~699760~@~day 4_D328 BM CD4 unstim_006.712014.fcs~@~day 4_D328 BM CD4 unstim_006.fcs~@~3670~@@~
+712015~@~Flow cytometry result~@~648494~@~day 4_D328 BM CD8 stim_008.712015.fcs~@~day 4_D328 BM CD8 stim_008.fcs~@~3670~@@~
+712016~@~Flow cytometry result~@~292976~@~day 4_D328 BM CD8 unstim_007.712016.fcs~@~day 4_D328 BM CD8 unstim_007.fcs~@~3670~@@~
+712017~@~Flow cytometry result~@~2419960~@~day 5_D328 BM CD4 stim_013.712017.fcs~@~day 5_D328 BM CD4 stim_013.fcs~@~3670~@@~
+712018~@~Flow cytometry result~@~2948728~@~day 5_D328 BM CD8 stim_015.712018.fcs~@~day 5_D328 BM CD8 stim_015.fcs~@~3670~@@~
+712019~@~Flow cytometry result~@~10139523~@~day 4_D328 LN CD4 stim_001.712019.fcs~@~day 4_D328 LN CD4 stim_001.fcs~@~3670~@@~
+712020~@~Flow cytometry result~@~2940080~@~day 4_D328 LN CD4 unstim_002.712020.fcs~@~day 4_D328 LN CD4 unstim_002.fcs~@~3670~@@~
+712021~@~Flow cytometry result~@~2612526~@~day 4_D328 LN CD8 stim_004.712021.fcs~@~day 4_D328 LN CD8 stim_004.fcs~@~3670~@@~
+712022~@~Flow cytometry result~@~2839864~@~day 4_D328 LN CD8 unstim_003.712022.fcs~@~day 4_D328 LN CD8 unstim_003.fcs~@~3670~@@~
+712023~@~Flow cytometry result~@~17313673~@~day 5_D328 LN CD4 stim_009.712023.fcs~@~day 5_D328 LN CD4 stim_009.fcs~@~3670~@@~
+712024~@~Flow cytometry result~@~1755826~@~day 5_D328 LN cd4 unstim no livedead_014.712024.fcs~@~day 5_D328 LN cd4 unstim no livedead_014.fcs~@~3670~@@~
+712025~@~Flow cytometry result~@~85297~@~day 5_D328 LN CD4 unstim_010.712025.fcs~@~day 5_D328 LN CD4 unstim_010.fcs~@~3670~@@~
+712026~@~Flow cytometry result~@~11677874~@~day 5_D328 LN CD8 stim_012.712026.fcs~@~day 5_D328 LN CD8 stim_012.fcs~@~3670~@@~
+712027~@~Flow cytometry result~@~2001783~@~day 5_D328 LN CD8 unstim_011.712027.fcs~@~day 5_D328 LN CD8 unstim_011.fcs~@~3670~@@~
+712028~@~Flow cytometry result~@~32428972~@~day 4 naive_D331  BM CD8 stim_016.712028.fcs~@~day 4 naive_D331  BM CD8 stim_016.fcs~@~3670~@@~
+712029~@~Flow cytometry result~@~36976399~@~day 4 naive_D331 BM CD4 stim_013.712029.fcs~@~day 4 naive_D331 BM CD4 stim_013.fcs~@~3670~@@~
+712030~@~Flow cytometry result~@~10199377~@~day 4 naive_D331 BM CD4 unstim_014.712030.fcs~@~day 4 naive_D331 BM CD4 unstim_014.fcs~@~3670~@@~
+712031~@~Flow cytometry result~@~15420881~@~day 4 naive_D331 BM CD8 unstim_015.712031.fcs~@~day 4 naive_D331 BM CD8 unstim_015.fcs~@~3670~@@~
+712032~@~Flow cytometry result~@~34029453~@~day 4_D331  BM CD8 stim_008.712032.fcs~@~day 4_D331  BM CD8 stim_008.fcs~@~3670~@@~
+712033~@~Flow cytometry result~@~35018897~@~day 4_D331 BM CD4 stim_005.712033.fcs~@~day 4_D331 BM CD4 stim_005.fcs~@~3670~@@~
+712034~@~Flow cytometry result~@~32961734~@~day 4_D331 BM CD4 unstim_006.712034.fcs~@~day 4_D331 BM CD4 unstim_006.fcs~@~3670~@@~
+712035~@~Flow cytometry result~@~34101007~@~day 4_D331 BM CD8 unstim_007.712035.fcs~@~day 4_D331 BM CD8 unstim_007.fcs~@~3670~@@~
+712036~@~Flow cytometry result~@~1623435~@~day 5_D331  BM CD8 stim_022.712036.fcs~@~day 5_D331  BM CD8 stim_022.fcs~@~3670~@@~
+712037~@~Flow cytometry result~@~1883019~@~day 5_D331 BM CD4 stim_021.712037.fcs~@~day 5_D331 BM CD4 stim_021.fcs~@~3670~@@~
+712038~@~Flow cytometry result~@~33544591~@~day 4 naive_D331 LN CD4 stim_009.712038.fcs~@~day 4 naive_D331 LN CD4 stim_009.fcs~@~3670~@@~
+712039~@~Flow cytometry result~@~15845841~@~day 4 naive_D331 LN CD4 unstim_010.712039.fcs~@~day 4 naive_D331 LN CD4 unstim_010.fcs~@~3670~@@~
+712040~@~Flow cytometry result~@~37026255~@~day 4 naive_D331 LN CD8 stim_012.712040.fcs~@~day 4 naive_D331 LN CD8 stim_012.fcs~@~3670~@@~
+712041~@~Flow cytometry result~@~15510033~@~day 4 naive_D331 LN CD8 unstim_011.712041.fcs~@~day 4 naive_D331 LN CD8 unstim_011.fcs~@~3670~@@~
+712042~@~Flow cytometry result~@~39786150~@~day 4_D331 LN CD4 stim_001.712042.fcs~@~day 4_D331 LN CD4 stim_001.fcs~@~3670~@@~
+712043~@~Flow cytometry result~@~38527243~@~day 4_D331 LN CD4 unstim_002.712043.fcs~@~day 4_D331 LN CD4 unstim_002.fcs~@~3670~@@~
+712044~@~Flow cytometry result~@~36094929~@~day 4_D331 LN CD8 stim_004.712044.fcs~@~day 4_D331 LN CD8 stim_004.fcs~@~3670~@@~
+712045~@~Flow cytometry result~@~30566155~@~day 4_D331 LN CD8 unstim_003.712045.fcs~@~day 4_D331 LN CD8 unstim_003.fcs~@~3670~@@~
+712046~@~Flow cytometry result~@~15813959~@~day 5_D331 LN CD4 stim_017.712046.fcs~@~day 5_D331 LN CD4 stim_017.fcs~@~3670~@@~
+712047~@~Flow cytometry result~@~10306057~@~day 5_D331 LN CD4 unstim_018.712047.fcs~@~day 5_D331 LN CD4 unstim_018.fcs~@~3670~@@~
+712048~@~Flow cytometry result~@~12335881~@~day 5_D331 LN CD8 stim_020.712048.fcs~@~day 5_D331 LN CD8 stim_020.fcs~@~3670~@@~
+712049~@~Flow cytometry result~@~4882188~@~day 5_D331 LN CD8 unstim_019.712049.fcs~@~day 5_D331 LN CD8 unstim_019.fcs~@~3670~@@~
+712050~@~Flow cytometry result~@~23208790~@~d334 fix buff ON_BM 488 down_004.712050.fcs~@~d334 fix buff ON_BM 488 down_004.fcs~@~3670~@@~
+712051~@~Flow cytometry compensation or control~@~342998~@~Intracellular_staining_version_2--Compensation Controls_BV711 Stained Control_029.712051.fcs~@~Intracellular_staining_version_2--Compensation Controls_BV711 Stained Control_029.fcs~@~3670~@@~
+712052~@~Flow cytometry compensation or control~@~346573~@~Intracellular_staining_version_2--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_025.712052.fcs~@~Intracellular_staining_version_2--Compensation Controls_CCR7 Alexa Fluor 488 Stained Control_025.fcs~@~3670~@@~
+712053~@~Flow cytometry compensation or control~@~343012~@~Intracellular_staining_version_2--Compensation Controls_cd3 BV510 Stained Control_022.712053.fcs~@~Intracellular_staining_version_2--Compensation Controls_cd3 BV510 Stained Control_022.fcs~@~3670~@@~
+712054~@~Flow cytometry compensation or control~@~343017~@~Intracellular_staining_version_2--Compensation Controls_cd4 APC-Cy7 Stained Control_023.712054.fcs~@~Intracellular_staining_version_2--Compensation Controls_cd4 APC-Cy7 Stained Control_023.fcs~@~3670~@@~
+712055~@~Flow cytometry compensation or control~@~343022~@~Intracellular_staining_version_2--Compensation Controls_CD45RA BV605 Stained Control_026.712055.fcs~@~Intracellular_staining_version_2--Compensation Controls_CD45RA BV605 Stained Control_026.fcs~@~3670~@@~
+712056~@~Flow cytometry compensation or control~@~346685~@~Intracellular_staining_version_2--Compensation Controls_CD69 APC Stained Control_030.712056.fcs~@~Intracellular_staining_version_2--Compensation Controls_CD69 APC Stained Control_030.fcs~@~3670~@@~
+712057~@~Flow cytometry compensation or control~@~343025~@~Intracellular_staining_version_2--Compensation Controls_CD8 PerCP-Cy5-5 Stained Control_024.712057.fcs~@~Intracellular_staining_version_2--Compensation Controls_CD8 PerCP-Cy5-5 Stained Control_024.fcs~@~3670~@@~
+712058~@~Flow cytometry compensation or control~@~343026~@~Intracellular_staining_version_2--Compensation Controls_CXCR5 0 BV421 Stained Control_027.712058.fcs~@~Intracellular_staining_version_2--Compensation Controls_CXCR5 0 BV421 Stained Control_027.fcs~@~3670~@@~
+712059~@~Flow cytometry compensation or control~@~342995~@~Intracellular_staining_version_2--Compensation Controls_PE Stained Control_028.712059.fcs~@~Intracellular_staining_version_2--Compensation Controls_PE Stained Control_028.fcs~@~3670~@@~
+712060~@~Flow cytometry compensation or control~@~349266~@~Intracellular_staining_version_2--Compensation Controls_Unstained Control_021.712060.fcs~@~Intracellular_staining_version_2--Compensation Controls_Unstained Control_021.fcs~@~3670~@@~
+712061~@~Flow cytometry result~@~33652019~@~d334 fix buff ON_BM_003.712061.fcs~@~d334 fix buff ON_BM_003.fcs~@~3670~@@~
+712062~@~Flow cytometry result~@~12681577~@~d334 fix buff ON_ILN 488 down_006.712062.fcs~@~d334 fix buff ON_ILN 488 down_006.fcs~@~3670~@@~
+712063~@~Flow cytometry result~@~61968794~@~d334 fix buff ON_LLN 488 down_005.712063.fcs~@~d334 fix buff ON_LLN 488 down_005.fcs~@~3670~@@~
+712064~@~Flow cytometry result~@~18133876~@~d334 fix buff ON_LLN_010.712064.fcs~@~d334 fix buff ON_LLN_010.fcs~@~3670~@@~
+712065~@~Flow cytometry result~@~20737190~@~d334 fix buff ON_PLN 488 down_008.712065.fcs~@~d334 fix buff ON_PLN 488 down_008.fcs~@~3670~@@~
+712066~@~Flow cytometry result~@~38936302~@~d334 fix buff ON_MLN 488 down_007.712066.fcs~@~d334 fix buff ON_MLN 488 down_007.fcs~@~3670~@@~
+712067~@~Flow cytometry result~@~3921815~@~d334 fix buff ON_Bld 488 down_002.712067.fcs~@~d334 fix buff ON_Bld 488 down_002.fcs~@~3670~@@~
+712068~@~Flow cytometry result~@~58992625~@~d334 fix buff ON_Bld_001.712068.fcs~@~d334 fix buff ON_Bld_001.fcs~@~3670~@@~
+712069~@~Flow cytometry result~@~48543686~@~d334 fix buff ON_Spl 488 down_009.712069.fcs~@~d334 fix buff ON_Spl 488 down_009.fcs~@~3670~@@~
+712070~@~Flow cytometry result~@~68004369~@~D335_BM_002.712070.fcs~@~D335_BM_002.fcs~@~3670~@@~
+712071~@~Flow cytometry result~@~22814624~@~D335_ILN_005.712071.fcs~@~D335_ILN_005.fcs~@~3670~@@~
+712072~@~Flow cytometry result~@~29787217~@~D335_LLN_004.712072.fcs~@~D335_LLN_004.fcs~@~3670~@@~
+712073~@~Flow cytometry result~@~16081955~@~D335_MLN_006.712073.fcs~@~D335_MLN_006.fcs~@~3670~@@~
+712074~@~Flow cytometry result~@~79486779~@~D335_Bld_001.712074.fcs~@~D335_Bld_001.fcs~@~3670~@@~
+712075~@~Flow cytometry result~@~62418300~@~D335_Spl_003.712075.fcs~@~D335_Spl_003.fcs~@~3670~@@~
+712076~@~Flow cytometry result~@~68004393~@~D336_BM_002.712076.fcs~@~D336_BM_002.fcs~@~3670~@@~
+712077~@~Flow cytometry result~@~6815811~@~D336_ILN_005.712077.fcs~@~D336_ILN_005.fcs~@~3670~@@~
+712078~@~Flow cytometry result~@~68004387~@~D336_LLN_004.712078.fcs~@~D336_LLN_004.fcs~@~3670~@@~
+712079~@~Flow cytometry result~@~36370311~@~D336_MLN_006.712079.fcs~@~D336_MLN_006.fcs~@~3670~@@~
+712080~@~Flow cytometry result~@~83094951~@~D336_Bld_001.712080.fcs~@~D336_Bld_001.fcs~@~3670~@@~
+712081~@~Flow cytometry result~@~68004393~@~D336_Spl_003.712081.fcs~@~D336_Spl_003.fcs~@~3670~@@~
+712082~@~Flow cytometry result~@~68004385~@~D337_BM_002.712082.fcs~@~D337_BM_002.fcs~@~3670~@@~
+712083~@~Flow cytometry result~@~42610671~@~D337_ILN_005.712083.fcs~@~D337_ILN_005.fcs~@~3670~@@~
+712084~@~Flow cytometry result~@~5595605~@~D337_Lung_007.712084.fcs~@~D337_Lung_007.fcs~@~3670~@@~
+712085~@~Flow cytometry result~@~68004396~@~D337_LLN_004.712085.fcs~@~D337_LLN_004.fcs~@~3670~@@~
+712086~@~Flow cytometry result~@~3395480~@~D337_MLN_006.712086.fcs~@~D337_MLN_006.fcs~@~3670~@@~
+712087~@~Flow cytometry result~@~148760376~@~D337_Bld_001.712087.fcs~@~D337_Bld_001.fcs~@~3670~@@~
+712088~@~Flow cytometry result~@~59506155~@~D337_Spl_003.712088.fcs~@~D337_Spl_003.fcs~@~3670~@@~
+712089~@~Flow cytometry result~@~16510254~@~Day 5 D377_BM stim_010.712089.fcs~@~Day 5 D377_BM stim_010.fcs~@~3670~@@~
+712090~@~Flow cytometry result~@~800303~@~20180314.712090.wsp~@~20180314.wsp~@~3670~@@~
+712091~@~Flow cytometry result~@~773636~@~Analysis.712091.fey~@~Analysis.fey~@~3670~@@~
+712092~@~Flow cytometry compensation or control~@~383886~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Alexa Fluor 488 Stained Control_002.712092.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Alexa Fluor 488 Stained Control_002.fcs~@~3670~@@~
+712093~@~Flow cytometry compensation or control~@~383864~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_APC Stained Control_005.712093.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_APC Stained Control_005.fcs~@~3670~@@~
+712094~@~Flow cytometry compensation or control~@~383869~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_BD V500 Stained Control_008.712094.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_BD V500 Stained Control_008.fcs~@~3670~@@~
+712095~@~Flow cytometry compensation or control~@~383881~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PE-Texas Red Stained Control_006.712095.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PE-Texas Red Stained Control_006.fcs~@~3670~@@~
+712096~@~Flow cytometry compensation or control~@~383860~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PE Stained Control_009.712096.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PE Stained Control_009.fcs~@~3670~@@~
+712097~@~Flow cytometry compensation or control~@~383880~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PerCP-Cy5-5 Stained Control_007.712097.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_PerCP-Cy5-5 Stained Control_007.fcs~@~3670~@@~
+712098~@~Flow cytometry compensation or control~@~383871~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Qdot 605 Stained Control_003.712098.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Qdot 605 Stained Control_003.fcs~@~3670~@@~
+712099~@~Flow cytometry compensation or control~@~383872~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_QDot 705 Stained Control_004.712099.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_QDot 705 Stained Control_004.fcs~@~3670~@@~
+712100~@~Flow cytometry compensation or control~@~383857~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Unstained Control_001.712100.fcs~@~Proliferation_assay_intracellular_staining_version_1--Compensation Controls_Unstained Control_001.fcs~@~3670~@@~
+712101~@~Flow cytometry result~@~6506072~@~Day 5 D377_BM unstim_011.712101.fcs~@~Day 5 D377_BM unstim_011.fcs~@~3670~@@~
+712102~@~Flow cytometry result~@~4779813~@~Day 5 D377_Lung stim_016.712102.fcs~@~Day 5 D377_Lung stim_016.fcs~@~3670~@@~
+712103~@~Flow cytometry result~@~1586673~@~Day 5 D377_Lung unstim_017.712103.fcs~@~Day 5 D377_Lung unstim_017.fcs~@~3670~@@~
+712104~@~Flow cytometry result~@~38101707~@~Day 5 D377_LLN stim_012.712104.fcs~@~Day 5 D377_LLN stim_012.fcs~@~3670~@@~
+712105~@~Flow cytometry result~@~8198061~@~Day 5 D377_LLN unstim_013.712105.fcs~@~Day 5 D377_LLN unstim_013.fcs~@~3670~@@~
+712106~@~Flow cytometry result~@~3638898~@~Day 5 D377_Spl stim_014.712106.fcs~@~Day 5 D377_Spl stim_014.fcs~@~3670~@@~
+712107~@~Flow cytometry result~@~2452311~@~Day 5 D377_Spl unstim_015.712107.fcs~@~Day 5 D377_Spl unstim_015.fcs~@~3670~@@~
+712483~@~CyTOF result~@~2111142~@~170814_DFA001_D332_BLD_D332_singlets_BLD.712483.fcs~@~170814_DFA001_D332_BLD_D332_singlets_BLD.fcs~@~3670~@@~
+712484~@~CyTOF result~@~80448390~@~170814_DFA001_D332_BOM_D332_singlets_BOM.712484.fcs~@~170814_DFA001_D332_BOM_D332_singlets_BOM.fcs~@~3670~@@~
+712485~@~CyTOF result~@~46353310~@~170814_DFA001_D332_LLN_D332_singlets_LLN.712485.fcs~@~170814_DFA001_D332_LLN_D332_singlets_LLN.fcs~@~3670~@@~
+712486~@~CyTOF result~@~46438320~@~170814_DFA001_D332_LUNG_D332_singlets_LUNG.712486.fcs~@~170814_DFA001_D332_LUNG_D332_singlets_LUNG.fcs~@~3670~@@~
+712487~@~CyTOF result~@~29197009~@~170814_DFA001_D332_SPL_D332_singlets_SPL.712487.fcs~@~170814_DFA001_D332_SPL_D332_singlets_SPL.fcs~@~3670~@@~
+712488~@~CyTOF result~@~876903~@~170814_DFA001_D333_BLD_D333_singlets_BLD.712488.fcs~@~170814_DFA001_D333_BLD_D333_singlets_BLD.fcs~@~3670~@@~
+712489~@~CyTOF result~@~575156~@~170814_DFA001_D333_BOM_D333_singlets_BOM.712489.fcs~@~170814_DFA001_D333_BOM_D333_singlets_BOM.fcs~@~3670~@@~
+712490~@~CyTOF result~@~30545238~@~170814_DFA001_D333_LLN_D333_singlets_LLN.712490.fcs~@~170814_DFA001_D333_LLN_D333_singlets_LLN.fcs~@~3670~@@~
+712491~@~CyTOF result~@~1685275~@~170814_DFA001_D333_LUNG_D333_singlets_LUNG.712491.fcs~@~170814_DFA001_D333_LUNG_D333_singlets_LUNG.fcs~@~3670~@@~
+712492~@~CyTOF result~@~2373000~@~170814_DFA001_D333_SPL_D333_singlets_SPL.712492.fcs~@~170814_DFA001_D333_SPL_D333_singlets_SPL.fcs~@~3670~@@~
+712493~@~CyTOF result~@~1739160~@~170814_DFA001_D335_BLD_D335_singlets_BLD.712493.fcs~@~170814_DFA001_D335_BLD_D335_singlets_BLD.fcs~@~3670~@@~
+712494~@~CyTOF result~@~10824715~@~170814_DFA001_D335_BOM_D335_singlets_BOM.712494.fcs~@~170814_DFA001_D335_BOM_D335_singlets_BOM.fcs~@~3670~@@~
+712495~@~CyTOF result~@~20244499~@~170814_DFA001_D335_LLN_D335_singlets_LLN.712495.fcs~@~170814_DFA001_D335_LLN_D335_singlets_LLN.fcs~@~3670~@@~
+712496~@~CyTOF result~@~6065317~@~170814_DFA001_D335_LUNG_D335_singlets_LUNG.712496.fcs~@~170814_DFA001_D335_LUNG_D335_singlets_LUNG.fcs~@~3670~@@~
+712497~@~CyTOF result~@~17192141~@~170814_DFA001_D335_SPL_D335_singlets_SPL.712497.fcs~@~170814_DFA001_D335_SPL_D335_singlets_SPL.fcs~@~3670~@@~

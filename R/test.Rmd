@@ -1,0 +1,311 @@
+---
+title: "Immdonor"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(flowWorkspace)
+library(flowCore)
+library(ImmPortR)
+library(dplyr)
+library(stringr)
+library(openCyto)
+library(MetaCyto)
+library(ggcyto)
+library(kableExtra)
+library(plotly)
+library(DBI)
+source("R/donor_search.r")
+source("R/panel_parser.R")
+
+SDY702<- donor_search(study = "SDY702")
+SDY1097<- donor_search(study = "SDY1097")
+immport<- rbind(SDY702,SDY1097)
+donormeta<- panel_parser(donorMeta = immport)
+panels<- donormeta %>% group_by(panel_id, parameters) %>% count(marker_id)
+df<-donormeta
+id<- unique(panels$panel_id)
+
+fcs<- df %>%
+  dplyr::filter(panel_id == "FCM-2"|panel_id == "FCM-3")
+
+fcs_files<- fcs$fcs_files
+cs<- load_cytoset_from_fcs(files = fcs_files)
+
+# link metadata
+p<- pData(cs)
+m<- cbind(p,fcs)
+pData(cs)<- m
+
+# link markers
+channels <- colnames(cs)
+markers <- as.vector(pData(parameters(cs[[1]]))$desc)
+names(markers)<- channels
+markernames(cs) <- markers
+
+# Compensate
+comps <- lapply(cs, function(cf) spillover(cf)$SPILL)
+cs_comp <- compensate(cs, comps)
+
+# FCStransTransform
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+chnls <- colnames(cs)[-channels_to_exclude]
+
+transListtransform <- transformList(chnls, FCSTransTransform(transformationId = "defaultFCSTransTransform", channelrange = 2^18, channeldecade = 4.5, range = 4096, cutoff = -111, w = 0.5, rescale = TRUE)
+)
+
+fcstrans<- FCSTransTransform(transformationId = "defaultFCSTransTransform", channelrange = 2^18, channeldecade = 4.5, range = 4096, cutoff = -111, w = 0.5, rescale = TRUE)
+transList <- transformList(chnls, fcstrans)
+
+cs_trans<- transform(cs_comp,transList)
+gs<- GatingSet(cs_trans)
+
+gs_add_gating_method(gs, alias = "nonDebris",
+                     pop = "+",
+                     parent = "root",
+                     dims = "FSC-A",
+                     gating_method = "mindensity",
+                     gating_args = "min = 20000, max=50000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "biosampleType") 
+
+gs_add_gating_method(gs, alias = "singlets",
+                     pop = "+",
+                     parent = "nonDebris",
+                     dims = "FSC-A,FSC-H",
+                     gating_method = "singletGate")
+
+gs_add_gating_method(gs,
+                     pop = "+/-+/-",
+                     parent = "singlets",
+                     dims = "CD3,CD4",
+                     gating_method = "mindensity",
+                     gating_args = "min= 1250, max=2500",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "biosampleType")
+
+
+```
+
+## Search for Immdonors
+Use `donor_search()` to search for organ donor data on immport.org. Here we search for donors from studies SDY702 and SDY1097
+```{r}
+SDY702<- donor_search(study = "SDY702")
+SDY1097<- donor_search(study = "SDY1097")
+SDY1039<- donor_search(study = "SDY1389")
+SDY1041<- donor_search(study = "SDY1041")
+```
+
+## View donors and panels
+Use `panel_parser()` to read the FCS headers and extract the number of paramaters, channel names, and marker names (if availble) 
+```{r}
+donormeta<- rbind(SDY702,SDY1097)
+donormeta<- panel_parser(donorMeta = donormeta) 
+```
+
+```{r, echo = FALSE}
+df<-donormeta
+plot_ly(data = df, x = df$maxSubjectAge,y = df$biosampleType,
+             color = ~biosampleType,
+             type = "scatter",
+             mode = "markers",
+             showlegend = F,
+             text = ~paste("Age:",maxSubjectAge,"Panel:", panel_id, "Study ID:", studyAccession, "Donor ID:", subjectAccession),
+             colors = "RdYlGn")
+panels<- donormeta %>% group_by(panel_id, parameters) %>% count(marker_id)
+panels %>% kable() %>%
+  kable_styling() %>%
+   scroll_box(width = "100%", height = "300px" )
+```
+
+##  Preprocesses 
+```{r, include=FALSE}
+
+donormeta$fcs_files<- donormeta$filePath
+donormeta$study_id <- donormeta$biosampleType
+
+fcs<- donormeta %>%
+  dplyr::filter(panel_id == "FCM-2" | panel_id == "FCM-3")
+
+fcs_info<- fcs %>% 
+  dplyr::select("fcs_files", "study_id")
+
+sample_info<- fcs %>% 
+  dplyr::select("fcs_files", "gender","maxSubjectAge")
+
+preprocessing.batch(inputMeta = fcs_info,
+                    assay = "FCM",
+                    outpath = "metacyto/preprocess_output",
+                    b = 1/150,
+                    excludeTransformParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time"))
+```
+
+
+```{r echo = FALSE}
+# collect preprocessing information
+files=list.files("metacyto",pattern="processed_sample",recursive=TRUE,full.names=TRUE)
+panel_info=collectData(files,longform=FALSE)
+
+# analyze the panels
+PS=panelSummary(panelInfo = panel_info,
+                folder = "metacyto",
+                cluster=FALSE,
+                width=40,
+                height=30)
+
+
+new<- markernames(cs)
+
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+old <- colnames(cs)[-channels_to_exclude]
+old<- toupper(old)
+oldplus<-paste0(old,"+")
+oldminus<-paste0(old,"-")
+
+nameUpdator(oldNames=old, newNames=new, files=files)
+nameUpdator(oldNames=oldplus, newNames=new, files=files)
+nameUpdator(oldNames=oldminus, newNames=new, files=files)
+
+```
+
+## Identify and Label clusters 
+```{r}
+#define parameters that we don't want to cluster
+excludeClusterParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time","CD19")
+
+cluster_label=autoCluster.batch(preprocessOutputFolder="metacyto/preprocess_output",
+                                excludeClusterParameters=excludeClusterParameters,
+                                labelQuantile=0.95,
+                                minPercent = 0.05,
+                                clusterFunction=flowSOM.MC)
+```
+
+## Search for clusters
+```{r}
+searchCluster.batch(preprocessOutputFolder="metacyto/preprocess_output",
+                    outpath="metacyto/search_output",
+                    clusterLabel=cluster_label)
+```
+
+## General Analysis
+```{r, fig.height = 30, fig.width= 7}
+# Collect Summary statistics generated in step 3
+files=list.files("metacyto/search_output",pattern="cluster_stats_in_each_sample",recursive=TRUE,full.names=TRUE)
+fcs_stats=collectData(files,longform=TRUE)
+
+# join the cluster summary statistics with sample information
+all_data=inner_join(fcs_stats,sample_info,by="fcs_files")
+
+# See the fraction of what clusters are affected by age (while controlling for Gender)
+GA=glmAnalysis(value="value",variableOfInterst="maxSubjectAge",parameter="fraction",
+               otherVariables=c("gender"),studyID="study_id",label="label",
+               data=all_data,CILevel=0.95,ifScale=c(TRUE,FALSE))
+
+GA=GA[order(GA$Effect_size),]
+
+GA$label=as.character(GA$label)
+w = which(nchar(GA$label)<30)
+GAl = GA[w,]
+
+
+# plot the results
+plotGA(GAl, size = 12)
+```
+
+
+# Autogate
+
+## Nondebris {.tabset}
+```{r, cache=TRUE, results= FALSE}
+gs<- GatingSet(cs)
+gs_add_gating_method(gs, alias = "nonDebris",
+                     pop = "+",
+                     parent = "root",
+                     dims = "FSC-A",
+                     gating_method = "mindensity",
+                     gating_args = "min = 20000, max=50000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "biosampleType") 
+```
+### Lung Lymph node
+```{r, echo = FALSE}
+lln<- subset(gs, biosampleType == "Lung lymph node")
+ggcyto(lln, aes(x = "FSC-A", y = "SSC-A")) + geom_gate("nonDebris") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+```
+
+### Lung
+```{r, echo = FALSE}
+lung<- subset(gs, biosampleType == "Lung")
+
+ggcyto(lung, aes(x = "FSC-A", y = "SSC-A")) + geom_gate("nonDebris") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+
+```
+
+### Blood 
+```{r, echo = FALSE}
+blood<- subset(gs, biosampleType == "Whole blood" )
+
+ggcyto(blood, aes(x = "FSC-A", y = "SSC-A")) + geom_gate("nonDebris") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+
+```
+
+
+
+## Singlets {.tabset}
+```{r, results= 'hide'}
+gs_add_gating_method(gs, alias = "singlets",
+                     pop = "+",
+                     parent = "nonDebris",
+                     dims = "FSC-A,FSC-H",
+                     gating_method = "singletGate")
+```
+### Lung Lymph node.
+```{r, echo = FALSE}
+ggcyto(lln, aes(x = "FSC-A", y = "FSC-H")) + geom_gate("singlets") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+
+```
+
+### Lung
+```{r, echo = FALSE}
+ggcyto(lung, aes(x = "FSC-A", y = "FSC-H")) + geom_gate("singlets") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+
+```
+
+### Blood 
+```{r, echo = FALSE}
+ggcyto(blood, aes(x = "FSC-A", y = "FSC-H")) + geom_gate("singlets") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+
+```
+
+## CD3+ CD19- {.tabset}
+```{r,results= 'hide'}
+gs_add_gating_method(gs,
+                     pop = "+/-+/-",
+                     parent = "singlets",
+                     dims = "CD3,CD19",
+                     gating_method = "mindensity",
+                     gating_args = "min= 1250, max=2500",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "biosampleType")
+```
+### Lung Lymph node
+```{r, echo = FALSE}
+ggcyto(lln, aes(x = "CD19", y = "CD3")) + geom_gate("CD3+CD19-") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+```
+
+### Lung
+```{r, echo = FALSE }
+ggcyto(lung, aes(x = "CD19", y = "CD3")) + geom_gate("CD3+CD19-") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+```
+
+### Blood 
+```{r, echo = FALSE }
+ggcyto(blood, aes(x = "CD19", y = "CD3")) + geom_gate("CD3+CD19-") + geom_hex(bins = 1024)+ ggcyto_par_set(limits = "instrument")
+```
+
+
+

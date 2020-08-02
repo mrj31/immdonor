@@ -24,10 +24,21 @@ panel_parser <- function (donorMeta= meta) {cat("Parsing Donor List ")
     par <- as.integer(header["$PAR"])
   })
 
+  marker2 <- sapply(headers, function(x) {
+    header <- x[[1]]
+    par <- as.integer(header["$PAR"])
+    PNN <- unname(header[paste0("$P", seq_len(par), "N")])
+    PNS <- unname(header[paste0("$P", seq_len(par), "S")])
+    markers = paste(PNN,PNS,sep = "-")
+    channels_to_exclude <- c(grep(markers, pattern="FSC"),
+                             grep(markers, pattern="SSC"),
+                             grep(markers, pattern="Time"))
+    return(paste(markers[-channels_to_exclude], collapse = "|"))
+  })
 
   names(panel) = NULL
 
-  inputMeta = data.frame(panel_id = panel, marker_id = markers, parameters = parameters)
+  inputMeta = data.frame(panel_id = panel, marker_id = markers, markers=marker2, parameters = parameters)
   inputMeta = cbind(donorMeta,inputMeta)
   inputMeta = subset(inputMeta, !grepl("DoesNotExist", inputMeta$panel_id))
   inputMeta$panel_id <- as.character(inputMeta$panel_id)

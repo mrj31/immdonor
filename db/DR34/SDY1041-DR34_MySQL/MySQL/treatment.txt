@@ -1,0 +1,5 @@
+TRT2725~@~Not Specified~@~Not Specified~@~\N~@~Not Specified~@~Not Specified~@~No Treatment~@~Not Specified~@~Not Specified~@~3670~@@~
+TRT2726~@~Not Specified~@~Not Specified~@~\N~@~Not Specified~@~Not Specified~@~Unstimulated~@~Not Specified~@~Not Specified~@~3670~@@~
+TRT2727~@~ng/ml~@~50~@~\N~@~Hours~@~3~@~T cell stimulation - phorbol-12-myristate-13-acetate~@~C~@~37~@~3670~@@~
+TRT2728~@~mg/ml~@~1~@~\N~@~Hours~@~3~@~T cell stimulation - ionomycin~@~C~@~37~@~3670~@@~
+TRT2729~@~Not Specified~@~1~@~\N~@~Hours~@~3~@~T cell stimulation - anti-Cd107A~@~C~@~37~@~3670~@@~

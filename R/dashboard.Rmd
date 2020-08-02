@@ -1,0 +1,145 @@
+---
+title: "immdonor"
+output: flexdashboard::flex_dashboard
+runtime: shiny
+
+---
+
+```{r global, include=FALSE}
+
+library(flowCore)
+library(flowWorkspace)
+library(ImmPortR)
+library(tidyverse)
+library(openCyto)
+library(MetaCyto)
+library(ggcyto)
+library(kableExtra)
+library(plotly)
+library(DBI)
+library(shiny)
+library(flexdashboard)
+library(cytoqc)
+source("R/donor_search.r")
+source("R/panel_parser.R")
+
+
+SDY702<- donor_search(study = "SDY702")
+SDY1097<- donor_search(study = "SDY1097")
+immport<- rbind(SDY702,SDY1097)
+donormeta<- panel_parser(donorMeta = immport)
+panels<- donormeta %>% group_by(panel_id) %>% count(markers)
+df<-donormeta
+id<- unique(panels$panel_id)
+files<- donormeta$fcs_files
+
+tmem<- df %>%
+  dplyr::filter(panel_id == "FCM-2"|panel_id == "FCM-3"|panel_id == "FCM-5"|panel_id == "FCM-6"|panel_id == "FCM-7"|panel_id == "FCM-29")
+
+treg<- df %>%
+  dplyr::filter(panel_id == "FCM-18"|panel_id == "FCM-19"|panel_id == "FCM-21"|panel_id == "FCM-22"|panel_id == "FCM-25"|panel_id == "FCM-26")
+
+
+```
+Home {data-orientation=rows}
+======================================
+Row 
+-------------------------------------
+```{r,echo = FALSE}
+library(plotly)
+plot_ly(data = df, x = df$maxSubjectAge,y = df$biosampleType,
+             color = ~biosampleType,
+             type = "scatter",
+             mode = "markers",
+             showlegend = F,
+             text = ~paste("Age:",maxSubjectAge,"Panel:", panel_id, "Study ID:", studyAccession, "Donor ID:", subjectAccession),
+             colors = "RdYlGn")
+```
+
+```{r}
+samples<-  df %>% group_by(biosampleType) %>% count(biosampleType)
+samples %>% kable() %>%
+  kable_styling() 
+```
+
+Row 
+---------------------------------------------------
+### Panels
+
+```{r}
+panels<- panels[order(panels$panel_id),]
+
+panels %>% kable() %>%
+  kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)
+```
+
+
+
+cytoqc {data-orientation=rows}
+=======================================
+Inputs {.sidebar}
+--------------------------------
+### Choose a cytoset
+```{r}
+selectInput("panel", label = "Panel ID", choices = id, multiple = TRUE) 
+            
+
+fcs<- df %>%
+  dplyr::filter(panel_id == "FCM-2"|panel_id == "FCM-3"|panel_id == "FCM-29")
+
+
+files<- fcs$fcs_files
+
+cqc_data <- cqc_load_fcs(files)
+cqc_data
+
+```
+
+```{r}
+check_results <- cqc_check(cqc_data, type = "marker")
+check_results
+
+res<- cqc_match(check_results, ref = 2)
+res
+
+cqc_fix(res)
+```
+
+
+Row
+--------------------------------
+### Metadata 
+
+```{r}
+
+```
+
+Row 
+-------------------------------------
+
+### Thymus 
+
+```{r}
+
+```   
+
+### Spleen 
+
+```{r}
+```
+
+
+Row
+-------------------------------------
+
+### Lung 
+
+```{r}
+
+```   
+
+### Lung Lymph node 
+
+```{r}
+```
+

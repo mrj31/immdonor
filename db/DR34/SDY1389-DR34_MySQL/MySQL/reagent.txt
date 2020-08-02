@@ -1,0 +1,89 @@
+ESR21415~@~ANA35~@~CCR5~@~CCR5~@~\N~@~359116~@~J418F1~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CCR5-AF700~@~AF700~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21416~@~ANA37~@~CCR7~@~CCR7~@~\N~@~353206~@~G043H7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CCR7-AF488~@~AF488~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21417~@~ANA37~@~CCR7~@~CCR7~@~\N~@~353235~@~G043H7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CCR7-PE-Texas Red~@~PE-Texas Red~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21418~@~ANA37~@~CCR7~@~CCR7~@~\N~@~353208~@~G043H7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CCR7-BV421~@~BV421~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21419~@~ANA809~@~CD3~@~CD3~@~\N~@~317332~@~OKT3~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD3-BV510~@~BV510~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21420~@~ANA41~@~CD4~@~CD4~@~\N~@~344611~@~sk3~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD4-PE/Cy7~@~PE/Cy7~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21421~@~ANA41~@~CD4~@~CD4~@~\N~@~300518~@~okt4~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD4-APC/Cy7~@~APC/Cy7~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21422~@~ANA41~@~CD4~@~CD4~@~\N~@~563875~@~sk3~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD4-BV650~@~BV650~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21423~@~ANA816~@~CD45RA~@~CD45RA~@~\N~@~304134~@~hi100~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD45RA-BV605~@~BV605~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21424~@~ANA822~@~CD45RO~@~CD45RO~@~\N~@~46-0457-42~@~UCHL1~@~\N~@~\N~@~N~@~\N~@~Ebiosciences~@~CD45RO-PerCP-eFluor710~@~PerCP-eFluor710~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21425~@~ANA823~@~CD57~@~CD57~@~\N~@~359620~@~hnk-1~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD57-PE-Dazzle-964~@~PE-Dazzle-964~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21426~@~ANA865~@~CD69~@~CD69~@~\N~@~310930~@~FN50~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD69-BV421~@~BV421~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21427~@~ANA865~@~CD69~@~CD69~@~\N~@~310909~@~FN50~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD69-APC~@~APC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21428~@~ANA810~@~CD8~@~CD8~@~\N~@~557834~@~SK1~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~CD8-APC/Cy7~@~APC/Cy7~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21429~@~ANA810~@~CD8~@~CD8~@~\N~@~300907~@~hit8a~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD8-PE~@~PE~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21430~@~ANA810~@~CD8~@~CD8~@~\N~@~564629~@~sk1~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~CD8-BUV737~@~BUV737~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21431~@~ANA810~@~CD8~@~CD8~@~\N~@~65-0088~@~RPA-T8~@~\N~@~\N~@~N~@~\N~@~Tonbo~@~CD8-PerCP/Cy5.5~@~PerCP/Cy5.5~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21432~@~ANA77~@~CXCR4~@~CXCR4~@~\N~@~306510~@~12G5~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CXCR4-APC~@~APC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21433~@~\N~@~\N~@~EOMES~@~\N~@~61-4877-42~@~WD1928~@~\N~@~\N~@~N~@~\N~@~Ebiosciences~@~EOMES~@~PE-eFluor 610~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21434~@~\N~@~\N~@~LEF1~@~\N~@~8490~@~C12A5~@~\N~@~\N~@~N~@~\N~@~Cell Signaling~@~LEF1-PE-eF610~@~FITC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21435~@~\N~@~\N~@~N/A~@~\N~@~L23105~@~N/A~@~\N~@~Live-dead~@~N~@~\N~@~ThermoFisher~@~Fixable Blue~@~Fixable Blue~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21436~@~\N~@~\N~@~N/A~@~\N~@~L34971~@~N/A~@~\N~@~Live-dead~@~N~@~\N~@~ThermoFisher~@~Fixable Red~@~Fixable Red~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21437~@~ANA818~@~PD1~@~PD1~@~\N~@~560838~@~EH12.1~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~PD1-AF647~@~AF647~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21438~@~ANA890~@~Perforin~@~Perforin~@~\N~@~563763~@~GG9~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~Perforin-PE-CF594~@~PE-CF594~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21439~@~\N~@~\N~@~TBET~@~\N~@~644813~@~4B10~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~TBET-APC~@~APC~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21440~@~\N~@~\N~@~TBET~@~\N~@~12-5825-82~@~eBio4B10~@~\N~@~\N~@~N~@~\N~@~Ebioscience~@~TBET-PE~@~PE~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21441~@~\N~@~\N~@~TCF1~@~\N~@~14456S~@~C63D9~@~\N~@~\N~@~N~@~\N~@~Cell Signaling~@~TCF1-PE~@~PE~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21442~@~\N~@~\N~@~N/A~@~\N~@~65-0842-85~@~N/A~@~\N~@~Cell Proliferation Dye eFluor 450~@~N~@~\N~@~EBioscience~@~Proliferation eFluor 450~@~eFluor 450~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21443~@~\N~@~\N~@~N/A~@~\N~@~420403~@~N/A~@~\N~@~7-AAD Viability Staining Solution~@~N~@~\N~@~Biolegend~@~Viability 7-AAD~@~7-AAD~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21444~@~\N~@~\N~@~N/A~@~\N~@~422801~@~N/A~@~\N~@~DAPI~@~N~@~\N~@~Biolegend~@~DAPI~@~DAPI~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21445~@~\N~@~\N~@~N/A~@~\N~@~65-0865-14~@~N/A~@~\N~@~Live Dead (Fixable Viability Dye eFluor 780)~@~N~@~\N~@~eBiosciences~@~Live Dead eFluor 780~@~eFluor 780~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21446~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 1~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 1~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21447~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 10~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 10~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21448~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 11~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 11~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21449~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 12~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 12~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21450~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 2~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 2~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21451~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 3~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 3~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21452~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 4~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 4~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21453~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 5~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 5~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21454~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 6~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 6~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21455~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 7~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 7~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21456~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 8~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 8~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21457~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 9~@~Y~@~\N~@~\N~@~lymphnode mem T Intracellular staining version 9~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21458~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Proliferation assay intracellular staining version 1~@~Y~@~\N~@~\N~@~lymphnode mem T Proliferation assay intracellular staining version 1~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21459~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Proliferation assay intracellular staining version 2~@~Y~@~\N~@~\N~@~lymphnode mem T Proliferation assay intracellular staining version 2~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21460~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T Surface staining chemokines~@~Y~@~\N~@~\N~@~lymphnode mem T Surface staining chemokines~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21461~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 1~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 1~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21462~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 2~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 2~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21463~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 3~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 3~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21464~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 4~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 4~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21465~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 5~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 5~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21466~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 6~@~Y~@~\N~@~\N~@~lymphnode mem T CD69 surface stain on T cells version 6~@~\N~@~Flow Cytometry~@~\N~@~3670~@@~
+ESR21531~@~\N~@~\N~@~\N~@~\N~@~80204~@~\N~@~\N~@~For simultaneous purification of DNA and RNA from cells and tissues~@~N~@~\N~@~Qiagen~@~AllPrep DNA/RNA Mini Kit~@~\N~@~Sequencing~@~\N~@~3670~@@~
+ESR21533~@~ANA823~@~CD57~@~CD57~@~\N~@~322302~@~HCD57~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD57_113_In~@~113 In~@~CyTOF~@~\N~@~3670~@@~
+ESR21534~@~ANA863~@~CD28~@~CD28~@~\N~@~302902~@~CD28.2~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD28_141_Pr~@~141 Pr~@~CyTOF~@~\N~@~3670~@@~
+ESR21535~@~ANA805~@~CD19~@~CD19~@~\N~@~302202~@~HIB19~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD19_142_Nd~@~142 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21536~@~ANA816~@~CD45RA~@~CD45RA~@~\N~@~304102~@~HI100~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD45RA_143_Nd~@~143 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21537~@~ANA877~@~CD103~@~CD103~@~\N~@~350202~@~Ber-Act8~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD103_144_Nd~@~144 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21538~@~ANA41~@~CD4~@~CD4~@~\N~@~300502~@~RPA-T4~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD4_145_Nd~@~145 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21539~@~ANA810~@~CD8~@~CD8~@~\N~@~301002~@~RPA-T8~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD8_146_Nd~@~146 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21540~@~ANA890~@~Perforin~@~Perforin~@~\N~@~308102~@~dG9~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~Perforin_147_Sm~@~147 Sm~@~CyTOF~@~\N~@~3670~@@~
+ESR21541~@~ANA811~@~CD16~@~CD16~@~\N~@~302014~@~3G8~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD16_148_Nd~@~148 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21542~@~ANA182~@~CD127~@~CD127~@~\N~@~351302~@~A019D5~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD127_149_Sm~@~149 Sm~@~CyTOF~@~\N~@~3670~@@~
+ESR21543~@~ANA895~@~BDCA1~@~BDCA1~@~\N~@~331502~@~L161~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~BDCA1_150_Nd~@~150 Nd~@~CyTOF~@~\N~@~3670~@@~
+ESR21544~@~ANA173~@~CD123~@~CD123~@~\N~@~306002~@~6H6~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD123_151_Eu~@~151 Eu~@~CyTOF~@~\N~@~3670~@@~
+ESR21545~@~ANA1091~@~CD66b~@~CD66b~@~\N~@~305102~@~G10F5~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD66b_152_Sm~@~152 Sm~@~CyTOF~@~\N~@~3670~@@~
+ESR21546~@~ANA818~@~PD1~@~PD1~@~\N~@~329912~@~EH12.2H7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~PD1_153_Eu~@~153 Eu~@~CyTOF~@~\N~@~3670~@@~
+ESR21547~@~ANA898~@~CD278~@~CD278~@~\N~@~313502~@~C398.4A~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD278_154_Sm~@~154 Sm~@~CyTOF~@~\N~@~3670~@@~
+ESR21548~@~ANA40~@~CD27~@~CD27~@~\N~@~302802~@~O323~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD27_155_Gd~@~155 Gd~@~CyTOF~@~\N~@~3670~@@~
+ESR21549~@~ANA35~@~CCR5~@~CCR5~@~\N~@~3156015A~@~NP-6G4~@~\N~@~\N~@~N~@~\N~@~Fluidigm~@~CCR5_156_Gd~@~156 Gd~@~CyTOF~@~\N~@~3670~@@~
+ESR21550~@~ANA1110~@~Bcl6~@~Bcl6~@~\N~@~648302~@~IG191E/A8~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~Bcl6_158_Gd~@~158 Gd~@~CyTOF~@~\N~@~3670~@@~
+ESR21551~@~\N~@~\N~@~Tcf1~@~\N~@~655202~@~7F11A10~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~Tcf1_159_Tb~@~159 Tb~@~CyTOF~@~\N~@~3670~@@~
+ESR21552~@~ANA804~@~CD14~@~CD14~@~\N~@~301810~@~M5E2~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD14_160_Gd~@~160 Gd~@~CyTOF~@~\N~@~3670~@@~
+ESR21553~@~ANA815~@~CD56~@~CD56~@~\N~@~555513~@~B159~@~\N~@~\N~@~N~@~\N~@~BD Biosciences~@~CD56_161_Dy~@~161 Dy~@~CyTOF~@~\N~@~3670~@@~
+ESR21554~@~ANA78~@~CXCR5~@~CXCR5~@~\N~@~356902~@~J252D4~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CXCR5_163_Dy~@~163 Dy~@~CyTOF~@~\N~@~3670~@@~
+ESR21555~@~ANA865~@~CD69~@~CD69~@~\N~@~310902~@~FN50~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD69_164_Dy~@~164 Dy~@~CyTOF~@~\N~@~3670~@@~
+ESR21556~@~ANA236~@~TNFRSF9~@~TNFRSF9~@~\N~@~309802~@~4B4-1~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~TNFRSF9_165_Ho~@~165 Ho~@~CyTOF~@~\N~@~3670~@@~
+ESR21557~@~ANA163~@~IL2RA~@~IL2RA~@~\N~@~356102~@~M-A251~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD25_166_Er~@~166 Er~@~CyTOF~@~\N~@~3670~@@~
+ESR21558~@~ANA37~@~CCR7~@~CCR7~@~\N~@~353222~@~G043H7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CCR7_167_Er~@~167 Er~@~CyTOF~@~\N~@~3670~@@~
+ESR21559~@~ANA809~@~CD3~@~CD3~@~\N~@~300402~@~UCHT1~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD3_168_Er~@~168 Er~@~CyTOF~@~\N~@~3670~@@~
+ESR21560~@~\N~@~\N~@~Tbet~@~\N~@~644802~@~4B10~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~Tbet_169_Tm~@~169 Tm~@~CyTOF~@~\N~@~3670~@@~
+ESR21561~@~ANA808~@~CD38~@~CD38~@~\N~@~356602~@~HB-7~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD38_170_Er~@~170 Er~@~CyTOF~@~\N~@~3670~@@~
+ESR21562~@~ANA85~@~CD95~@~CD95~@~\N~@~305602~@~DX2~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~CD95_171_Yb~@~171 Yb~@~CyTOF~@~\N~@~3670~@@~
+ESR21563~@~ANA1054~@~CD223~@~LAG3~@~\N~@~369302~@~11C3C65~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~LAG3_172_Yb~@~172 Yb~@~CyTOF~@~\N~@~3670~@@~
+ESR21564~@~ANA77~@~CXCR4~@~CXCR4~@~\N~@~3173001B~@~12G5~@~\N~@~\N~@~N~@~\N~@~Fluidigm~@~CXCR4_173_Yb~@~173 Yb~@~CyTOF~@~\N~@~3670~@@~
+ESR21565~@~ANA812~@~HLADR~@~HLADR~@~\N~@~307602~@~L243~@~\N~@~\N~@~N~@~\N~@~Biolegend~@~HLADR_174_Yb~@~174 Yb~@~CyTOF~@~\N~@~3670~@@~
+ESR21566~@~\N~@~\N~@~TIGIT~@~\N~@~16-9500-85~@~MBSA43~@~\N~@~\N~@~N~@~\N~@~eBioscience~@~TIGIT_175_Lu~@~175 Lu~@~CyTOF~@~\N~@~3670~@@~
+ESR21567~@~ANA897~@~GranB~@~GranB~@~\N~@~MA1-80734~@~GB11~@~\N~@~\N~@~N~@~\N~@~Invitrogen~@~GranB_176_Yb~@~176 Yb~@~CyTOF~@~\N~@~3670~@@~
+ESR21568~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~\N~@~Panel of 35 antibody-reporter reagents for CyTOF~@~Y~@~\N~@~\N~@~Miron et al. 2018 CyTOF 35 Panel~@~\N~@~CyTOF~@~\N~@~3670~@@~

@@ -1,0 +1,43 @@
+SUB179017~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179026~@~Other~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179028~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179035~@~Europe~@~\N~@~Not Hispanic or Latino~@~Female~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165877~@~North America~@~\N~@~Not Hispanic or Latino~@~Female~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165900~@~North America~@~\N~@~Hispanic or Latino~@~Female~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165901~@~North America~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165905~@~North America~@~\N~@~Hispanic or Latino~@~Female~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179031~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165899~@~North America~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179012~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179014~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179019~@~Other~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179020~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179024~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179025~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179027~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165876~@~North America~@~\N~@~Not Hispanic or Latino~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165893~@~North America~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165896~@~North America~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB177521~@~Sub-Saharan Africa~@~\N~@~Not Hispanic or Latino~@~Female~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179018~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Female~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179021~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179023~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179033~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165863~@~North America~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165906~@~North America~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB177530~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179009~@~Other~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179011~@~None of the Above~@~\N~@~Not Specified~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179015~@~Europe~@~\N~@~Not Hispanic or Latino~@~Female~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179016~@~Other~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179022~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179032~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165875~@~North America~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179034~@~Sub-Saharan Africa~@~\N~@~Not Specified~@~Male~@~Black or African American~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165907~@~North America~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB165909~@~North America~@~\N~@~Hispanic or Latino~@~Female~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179008~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179010~@~Europe~@~\N~@~Not Hispanic or Latino~@~Male~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179029~@~Europe~@~\N~@~Not Hispanic or Latino~@~Female~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179030~@~Europe~@~\N~@~Not Hispanic or Latino~@~Female~@~White~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~
+SUB179013~@~Other~@~\N~@~Hispanic or Latino~@~Male~@~Not Specified~@~\N~@~Homo sapiens~@~\N~@~\N~@~3670~@@~

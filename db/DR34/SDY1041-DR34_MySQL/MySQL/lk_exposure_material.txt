@@ -1,0 +1,49 @@
+BCG Vaccine~@~VO_0000771~@~BCG Vaccine is a Mycobacterium tuberculosis vaccine that is a live attenuated strain of Mycobacterium bovis (Bacillus Calmette Guerin; BCG).~@~http://purl.obolibrary.org/obo/VO_0000771~@@~
+Dengue virus~@~NCBI:12637~@~Dengue virus~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=12637~@@~
+Dengue virus 1~@~NCBI:11053~@~Dengue virus 1~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11053~@@~
+Dengue virus 2~@~NCBI:11060~@~Dengue virus 2~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11060~@@~
+Human alphaherpesvirus 3~@~NCBI:10335~@~Human alphaherpesvirus 3~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10335~@@~
+Influenza A H1N1 2009 Monovalent Vaccine Novartis~@~VO_0000081~@~Influenza A (H1N1) 2009 Monovalent Vaccine (Novartis)~@~http://purl.obolibrary.org/obo/VO_0000081~@@~
+Influenza A virus~@~NCBI:11320~@~Influenza A virus~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11320~@@~
+Mycobacterium tuberculosis~@~NCBI:1773~@~Mycobacterium tuberculosis~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1773~@@~
+Varicella-zoster virus vaccine~@~VO_0000669~@~a Herpesvirus vaccine that is used against Varicella-zoster virus infection.~@~http://purl.obolibrary.org/obo/VO_0000669~@@~
+West Nile virus~@~NCBI:11082~@~West Nile virus~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11082~@@~
+Borreliella burgdorferi~@~NCBI:139~@~Borreliella burgdorferi~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=139~@@~
+Chikungunya virus~@~NCBI:37124~@~Found from reported data using NCBI Taxomony Dump: 37124~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=37124~@@~
+Dengue virus 3~@~NCBI:11069~@~Found from reported data using NCBI Taxomony Dump: 11069~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11069~@@~
+Hepacivirus C~@~NCBI:11103~@~Found from reported data using NCBI Taxomony Dump: 11103~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11103~@@~
+Human rhinovirus A16~@~NCBI:31708~@~Found from reported data using NCBI Taxomony Dump: 31708~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=31708~@@~
+Plasmodium coatneyi~@~NCBI:208452~@~Found from reported data using NCBI Taxomony Dump: 208452~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=208452~@@~
+Plasmodium cynomolgi strain B~@~NCBI:1120755~@~Found from reported data using NCBI Taxomony Dump: 1120755~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1120755~@@~
+Plasmodium cynomolgi strain Ceylon~@~NCBI:5829~@~Found from reported data using NCBI Taxomony Dump: 5829~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=5829~@@~
+Plasmodium vivax~@~NCBI:5855~@~Found from reported data using NCBI Taxomony Dump: 5855~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=5855~@@~
+Schistosoma mansoni~@~NCBI:6183~@~Found from reported data using NCBI Taxomony Dump: 6183~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=6183~@@~
+unidentified~@~NCBI:32644~@~Found from reported data using NCBI Taxomony Dump: 32644~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=32644~@@~
+Zika virus~@~NCBI:64320~@~Found from reported data using NCBI Taxomony Dump: 64320~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=64320~@@~
+Influenza A virus (A/California/7/2009(H1N1))~@~NCBI:1316510~@~Found from reported data using NCBI Taxomony Dump: 1316510~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1316510~@@~
+Influenza A virus (A/reassortant/FluMist(California/07/2009 x Ann Arbor/6/1960)(H1N1))~@~NCBI:1701435~@~Found from reported data using NCBI Taxomony Dump: 1701435~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1701435~@@~
+Vaccinia virus LC16M8~@~NCBI:10248~@~Found from reported data using NCBI Taxomony Dump: 10248~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10248~@@~
+Plasmodium falciparum~@~NCBI:5833~@~malaria parasite P. falciparum~@~https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=5833~@@~
+Dryvax~@~VO_0000035~@~a vaccinia virus vaccine that is a freeze-dried calf lymph smallpox vaccine, specifically, Dryvax is a live-virus preparation of vaccinia prepared from calf lymph.~@~http://purl.obolibrary.org/obo/VO_0000035~@@~
+FluMist~@~VO_0000044~@~FluMist~@~http://purl.obolibrary.org/obo/VO_0000044~@@~
+Fluarix~@~VO_0000045~@~Fluarix~@~http://purl.obolibrary.org/obo/VO_0000045~@@~
+Fluvirin~@~VO_0000046~@~Fluvirin~@~http://purl.obolibrary.org/obo/VO_0000046~@@~
+Fluzone~@~VO_0000047~@~Fluzone~@~http://purl.obolibrary.org/obo/VO_0000047~@@~
+Menactra~@~VO_0000071~@~Menactra~@~http://purl.obolibrary.org/obo/VO_0000071~@@~
+Plasmodium falciparum vaccine~@~VO_0000087~@~a malaria vaccine that protects against malaria caused by Plasmodium falciparum.~@~http://purl.obolibrary.org/obo/VO_0000087~@@~
+Pneumovax 23~@~VO_0000088~@~Pneumovax 23~@~http://purl.obolibrary.org/obo/VO_0000088~@@~
+YF-Vax~@~VO_0000121~@~YF-Vax~@~http://purl.obolibrary.org/obo/VO_0000121~@@~
+Yellow fever 17D vaccine vector~@~VO_0000122~@~a viral vaccine vector that uses Yellow fever vaccine strain 17D as the vector.~@~http://purl.obolibrary.org/obo/VO_0000122~@@~
+Zostavax~@~VO_0000124~@~Zostavax~@~http://purl.obolibrary.org/obo/VO_0000124~@@~
+Influenza virus vaccine~@~VO_0000642~@~A viral vaccine that protects against infection with influenza virus.~@~http://purl.obolibrary.org/obo/VO_0000642~@@~
+Menveo~@~VO_0001246~@~Menveo~@~http://purl.obolibrary.org/obo/VO_0001246~@@~
+MVA85A~@~VO_0003120~@~MVA85A~@~http://purl.obolibrary.org/obo/VO_0003120~@@~
+MRKAd5 HIV-1 gag/pol/nef~@~VO_0003133~@~The MRK adenovirus type 5 human immunodeficiency virus type 1 clade B gag/pol/nef vaccine is a replication-incompetent adenovirus type 5-vectored vaccine that elicits cell-mediated immunity against conserved human immunodeficiency virus proteins.~@~http://purl.obolibrary.org/obo/VO_0003133~@@~
+ACWY Vax~@~VO_0003138~@~ACWY Vax~@~http://purl.obolibrary.org/obo/VO_0003138~@@~
+Stamaril~@~VO_0003139~@~It is live attenuated YFV vaccine strain 17D manufactured in China, France, Senegal, and the USA. In powder and solvent for suspension for injection in pre-filled syringe.~@~http://purl.obolibrary.org/obo/VO_0003139~@@~
+HEPLISAV-B~@~VO_0003152~@~A Hepatitis B surface antigen viral vaccine that utilizes a cytidine-phosphate-guanosine oligodeoxynucleotide (CpGODN) 1018, as an adjuvant.~@~http://purl.obolibrary.org/obo/VO_0003152~@@~
+LC16m8~@~VO_0004091~@~LC16m8~@~http://purl.obolibrary.org/obo/VO_0004091~@@~
+rVSV-EBOV~@~VO_0004660~@~An Ebola virus vaccine that uses a recombinant vesicular stomatitis virus (rVSV) vector expressing an Ebola filovirus glycoprotein~@~http://purl.obolibrary.org/obo/VO_0004660~@@~
+2008-2009 trivalent influenza vaccine~@~VO_0004809~@~2008-2009 trivalent influenza vaccine~@~http://purl.obolibrary.org/obo/VO_0004809~@@~
+Engerix-B~@~VO_0010711~@~Engerix-B~@~http://purl.obolibrary.org/obo/VO_0010711~@@~
+Meningococcal Polysaccharide Vaccine, Groups A &amp; C, Menomune A/C~@~VO_0010725~@~Meningococcal Polysaccharide Vaccine, Groups A &amp; C, Menomune A/C~@~http://purl.obolibrary.org/obo/VO_0010725~@@~

@@ -1,0 +1,66 @@
+version: '3.6'
+services:
+  
+  neo4j:
+    image: neo4j
+    restart: always
+    environment: 
+      - NEO4J_AUTH=neo4j/tcell
+    volumes: 
+      - .\neo4j\data:/data
+      - .\neo4j\logs:/logs
+    ports:
+      - 7474:7474
+      - 7687:7687  
+    
+  cyto:
+    build: cytoverse
+    restart: always
+    environment: 
+      - USER=rstudio
+      - PASSWORD=tcell
+    ports:
+      - 8787:8787
+    volumes: 
+      - C:\Users\mj\GitHub:/home/rstudio
+
+  postgres:
+    build: postgres-with-pgloader
+    container_name: postgres-db
+    ports:
+      - 5432:5432
+    restart: always
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_PASSWORD: root
+
+  mysql:
+    image: mysql:5.7
+    container_name: mysql-db
+    ports:
+      - 3306:3306
+    volumes:
+      - .\custom:/etc/mysql/conf.d
+      - .\migrations:/docker-entrypoint-initdb.d
+      - .\DR34:/immport
+    environment:
+      MYSQL_DATABASE: shared_data
+      MYSQL_USER: mj
+      MYSQL_PASSWORD: ilc
+      MYSQL_ROOT_PASSWORD: tcell
+ 
+  graphql-engine:
+    image: hasura/graphql-engine:v1.3.0
+    ports:
+      - "8080:8080"
+    depends_on:
+      - "postgres"
+    restart: always
+    environment:
+      HASURA_GRAPHQL_DATABASE_URL: postgres://postgres:root@docker.for.win.localhost:5432/postgres
+      HASURA_GRAPHQL_ENABLE_CONSOLE: "true" 
+      HASURA_GRAPHQL_ADMIN_SECRET: "tcell"
+volumes:
+  db_data:
+

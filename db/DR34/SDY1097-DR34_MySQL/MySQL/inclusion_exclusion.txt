@@ -1,0 +1,6 @@
+CRIT7818~@~Any chronic disease~@~Exclusion~@~SDY1097~@~3670~@@~
+CRIT7819~@~cancer~@~Exclusion~@~SDY1097~@~3670~@@~
+CRIT7817~@~previously healthy~@~Inclusion~@~SDY1097~@~3670~@@~
+CRIT7822~@~Hepatitis C positive~@~Exclusion~@~SDY1097~@~3670~@@~
+CRIT7820~@~HIV positive~@~Exclusion~@~SDY1097~@~3670~@@~
+CRIT7821~@~Hepatitis B positive~@~Exclusion~@~SDY1097~@~3670~@@~

@@ -1,0 +1,3 @@
+lincRNA~@~lincRNA~@~\N~@@~
+mRNA~@~mRNA~@~\N~@@~
+snRNA~@~snRNA~@~\N~@@~

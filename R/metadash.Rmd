@@ -1,0 +1,186 @@
+---
+title: "immdonor"
+output: flexdashboard::flex_dashboard
+runtime: shiny
+
+---
+
+```{r global, include=FALSE}
+
+library(flowCore)
+library(flowWorkspace)
+library(ImmPortR)
+library(tidyverse)
+library(openCyto)
+library(MetaCyto)
+library(ggcyto)
+library(kableExtra)
+library(plotly)
+library(DBI)
+library(shiny)
+library(flexdashboard)
+library(cytoqc)
+source("R/donor_search.r")
+source("R/panel_parser.R")
+
+
+SDY702<- donor_search(study = "SDY702")
+SDY1097<- donor_search(study = "SDY1097")
+immport<- rbind(SDY702,SDY1097)
+donormeta<- panel_parser(donorMeta = immport)
+panels<- donormeta %>% group_by(panel_id) %>% count(markers)
+df<-donormeta
+id<- unique(panels$panel_id)
+files<- donormeta$fcs_files
+```
+Home {data-orientation=rows}
+======================================
+Row 
+-------------------------------------
+```{r,echo = FALSE}
+library(plotly)
+plot_ly(data = df, x = df$maxSubjectAge,y = df$biosampleType,
+             color = ~biosampleType,
+             type = "scatter",
+             mode = "markers",
+             showlegend = F,
+             text = ~paste("Age:",maxSubjectAge,"Panel:", panel_id, "Study ID:", studyAccession, "Donor ID:", subjectAccession),
+             colors = "RdYlGn")
+```
+
+```{r}
+samples<-  df %>% group_by(biosampleType) %>% count(biosampleType)
+samples %>% kable() %>%
+  kable_styling() 
+```
+
+Row 
+---------------------------------------------------
+### Panels
+
+```{r}
+panels<- panels[order(panels$panel_id),]
+
+panels %>% kable() %>%
+  kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)
+```
+
+
+
+cytoqc {data-orientation=rows}
+=======================================
+Inputs {.sidebar}
+--------------------------------
+### Choose a cytoset
+```{r}
+selectInput("panel", label = "Panel ID", choices = id, multiple = TRUE) 
+```
+
+ 
+```{r}
+fcs<- df %>%
+  dplyr::filter(panel_id == "FCM-2"|panel_id == "FCM-3"|panel_id == "FCM-5"|panel_id == "FCM-6"|panel_id == "FCM-7"|panel_id == "FCM-29")
+
+fcs$study_id <- fcs$panel_id
+
+fcs_info<- fcs %>% 
+  dplyr::select("fcs_files", "study_id")
+
+sample_info<- fcs %>% 
+  dplyr::select("fcs_files", "gender","maxSubjectAge")
+
+preprocessing.batch(inputMeta = fcs_info,
+                    assay = "FCM",
+                    outpath = "metacyto/preprocess_output",
+                    b = 1/150,
+                    excludeTransformParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time"))
+cs<- load_cytoset(path = "R/cytosets/fcstrans/FCM2FCM3")
+new<- markernames(cs)
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+old <- colnames(cs)[-channels_to_exclude]
+old<- toupper(old)
+oldplus<-paste0(old,"+")
+oldminus<-paste0(old,"-")
+
+nameUpdator(oldNames=old, newNames=new, files=files)
+nameUpdator(oldNames=oldplus, newNames=new, files=files)
+nameUpdator(oldNames=oldminus, newNames=new, files=files)
+
+
+#define parameters that we don't want to cluster
+excludeClusterParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time","CD19")
+
+cluster_label=autoCluster.batch(preprocessOutputFolder="metacyto/preprocess_output",
+                                excludeClusterParameters=excludeClusterParameters,
+                                labelQuantile=0.95,
+                                minPercent = 0.05,
+                                clusterFunction=flowSOM.MC)
+
+searchCluster.batch(preprocessOutputFolder="metacyto/preprocess_output",
+                    outpath="metacyto/search_output",
+                    clusterLabel=cluster_label)
+```
+
+```{r}
+
+```
+
+
+Row
+--------------------------------
+### Metadata 
+
+```{r}
+files=list.files("metacyto/search_output",pattern="cluster_stats_in_each_sample",recursive=TRUE,full.names=TRUE)
+fcs_stats=collectData(files,longform=TRUE)
+
+# join the cluster summary statistics with sample information
+all_data=inner_join(fcs_stats,sample_info,by="fcs_files")
+
+# See the fraction of what clusters are affected by age (while controlling for Gender)
+GA=glmAnalysis(value="value",variableOfInterst="maxSubjectAge",parameter="fraction",
+               otherVariables=c("gender"),studyID="study_id",label="label",
+               data=all_data,CILevel=0.95,ifScale=c(TRUE,FALSE))
+
+GA=GA[order(GA$Effect_size),]
+
+GA$label=as.character(GA$label)
+w = which(nchar(GA$label)<30)
+GAl = GA[w,]
+
+
+# plot the results
+plotGA(GAl, size = 12)
+```
+
+Row 
+-------------------------------------
+
+### Thymus 
+
+```{r}
+
+```   
+
+### Spleen 
+
+```{r}
+```
+
+
+Row
+-------------------------------------
+
+### Lung 
+
+```{r}
+
+```   
+
+### Lung Lymph node 
+
+```{r}
+```
+
