@@ -13,6 +13,7 @@ R -e "install.packages('knitr')" && \
 R -e "install.packages('flexdashboard')" && \
 R -e "BiocManager::install('RImmPort')" && \
 R -e "BiocManager::install('MetaCyto')" && \
-R -e "remotes::install_github('RGLab/ImmPortR')" 
+R -e "remotes::install_github('RGLab/ImmPortR')" && \
+R -e "remotes::install_github('ropensci/ghql')"
 	
     

@@ -1,14 +1,13 @@
 version: '3.6'
 services:
-  
   neo4j:
     image: neo4j
     restart: always
     environment: 
       - NEO4J_AUTH=neo4j/tcell
     volumes: 
-      - .\neo4j\data:/data
-      - .\neo4j\logs:/logs
+      - db_data:/neo4j/data
+      - db_data:/neo4j/logs
     ports:
       - 7474:7474
       - 7687:7687  
@@ -34,6 +33,14 @@ services:
       - db_data:/var/lib/postgresql/data
     environment:
       POSTGRES_PASSWORD: root
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - 5050:5050
+    environment: 
+      - PGADMIN_DEFAULT_EMAIL=admin
+      - PGADMIN_DEFAULT_PASSWORD=admin
+      - PGADMIN_LISTEN_PORT=5050
 
   mysql:
     image: mysql:5.7
@@ -62,6 +69,7 @@ services:
       HASURA_GRAPHQL_DATABASE_URL: postgres://postgres:root@docker.for.win.localhost:5432/postgres
       HASURA_GRAPHQL_ENABLE_CONSOLE: "true" 
       HASURA_GRAPHQL_ADMIN_SECRET: "tcell"
+
 volumes:
   db_data:
 
