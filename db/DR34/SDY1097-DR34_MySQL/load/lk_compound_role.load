@@ -1,9 +1,0 @@
-LOAD DATA LOCAL INFILE "../MySQL/lk_compound_role.txt"
-    into table lk_compound_role
-    fields terminated by '~@~'
-    lines terminated by '~@@~\n'
-    (
-      name,
-      description,
-      link
-    );

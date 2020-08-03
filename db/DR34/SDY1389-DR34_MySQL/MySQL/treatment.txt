@@ -1,3 +1,0 @@
-TRT2725~@~Not Specified~@~Not Specified~@~\N~@~Not Specified~@~Not Specified~@~No Treatment~@~Not Specified~@~Not Specified~@~3670~@@~
-TRT3465~@~ul~@~25~@~25 ul/ml~@~Days~@~5~@~T cell stimulation with CD3/CD28~@~C~@~37~@~3670~@@~
-TRT3466~@~Not Specified~@~Not Specified~@~\N~@~Not Specified~@~Not Specified~@~unstimulated~@~Not Specified~@~Not Specified~@~3670~@@~

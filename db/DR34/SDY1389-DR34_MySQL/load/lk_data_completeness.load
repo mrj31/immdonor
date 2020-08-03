@@ -1,8 +1,0 @@
-LOAD DATA LOCAL INFILE "../MySQL/lk_data_completeness.txt"
-    into table lk_data_completeness
-    fields terminated by '~@~'
-    lines terminated by '~@@~\n'
-    (
-      id,
-      description
-    );

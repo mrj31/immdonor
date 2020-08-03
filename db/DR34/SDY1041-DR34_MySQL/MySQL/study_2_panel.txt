@@ -1,8 +1,0 @@
-SDY1041~@~arm or cohorts~@@~
-SDY1041~@~demographics~@@~
-SDY1041~@~documentation~@@~
-SDY1041~@~inclusionExclusion~@@~
-SDY1041~@~mechassays~@@~
-SDY1041~@~publications~@@~
-SDY1041~@~subject~@@~
-SDY1041~@~summary~@@~

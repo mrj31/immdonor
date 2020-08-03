@@ -1,6 +1,0 @@
-CRIT8912~@~Any chronic disease~@~Exclusion~@~SDY1389~@~3670~@@~
-CRIT8914~@~HIV positive~@~Exclusion~@~SDY1389~@~3670~@@~
-CRIT8913~@~cancer~@~Exclusion~@~SDY1389~@~3670~@@~
-CRIT8915~@~Hepatitis B positive~@~Exclusion~@~SDY1389~@~3670~@@~
-CRIT8911~@~previously healthy~@~Inclusion~@~SDY1389~@~3670~@@~
-CRIT8916~@~Hepatitis C positive~@~Exclusion~@~SDY1389~@~3670~@@~

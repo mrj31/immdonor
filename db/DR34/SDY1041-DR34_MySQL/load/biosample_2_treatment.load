@@ -1,8 +1,0 @@
-LOAD DATA LOCAL INFILE "../MySQL/biosample_2_treatment.txt"
-    into table biosample_2_treatment
-    fields terminated by '~@~'
-    lines terminated by '~@@~\n'
-    (
-        biosample_accession,
-        treatment_accession
-    );

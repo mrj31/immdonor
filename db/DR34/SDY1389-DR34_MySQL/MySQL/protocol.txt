@@ -1,7 +1,0 @@
-PTL9430~@~\N~@~Flow Cytometry.PTL9430.pdf~@~Flow Cytometry Protocol~@~Flow Cytometry.pdf~@~Experiment~@~3670~@@~
-PTL9431~@~\N~@~Processing of donor tissues to isolate lymphocytes.PTL9431.pdf~@~Processing of donor tissues to isolate lymphocytes~@~Processing of donor tissues to isolate lymphocytes.pdf~@~Bio Sample Preparation~@~3670~@@~
-PTL9432~@~\N~@~T cell proliferation.PTL9432.pdf~@~T cell proliferation protocol~@~T cell proliferation.pdf~@~Experimental Sample~@~3670~@@~
-PTL9456~@~Based on Qiagen AllPrep DNA/RNA Mini Handbook~@~Whole-transcriptome profiling by RNA sequencing.PTL9456.pdf~@~Whole-transcriptome profiling by RNA sequencing~@~Whole-transcriptome profiling by RNA sequencing.pdf~@~Bio Sample Preparation~@~3670~@@~
-PTL9457~@~RNA-Seq data analysis including links to R code and data~@~RNA-Seq data analysis.PTL9457.pdf~@~RNA-Seq data analysis~@~RNA-Seq data analysis.pdf~@~Data Processing~@~3670~@@~
-PTL9458~@~Cytometry by time of flight sample preparation and analysis~@~CyTOF protocols.PTL9458.pdf~@~CyTOF protocols~@~CyTOF protocols.pdf~@~Bio Sample Preparation~@~3670~@@~
-PTL9459~@~Detailed lab protocol for cytometry by time of flight sample preparation and analysis~@~CyTOF Detailed Lab Protocol.PTL9459.pdf~@~CyTOF Detailed Lab Protocol~@~CyTOF Detailed Lab Protocol.pdf~@~Bio Sample Preparation~@~3670~@@~

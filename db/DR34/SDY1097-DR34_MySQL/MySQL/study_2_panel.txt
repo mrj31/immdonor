@@ -1,8 +1,0 @@
-SDY1097~@~arm or cohorts~@@~
-SDY1097~@~demographics~@@~
-SDY1097~@~documentation~@@~
-SDY1097~@~inclusionExclusion~@@~
-SDY1097~@~mechassays~@@~
-SDY1097~@~publications~@@~
-SDY1097~@~subject~@@~
-SDY1097~@~summary~@@~

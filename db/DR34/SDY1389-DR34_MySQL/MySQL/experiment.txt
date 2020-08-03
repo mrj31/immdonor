@@ -1,3 +1,0 @@
-EXP20695~@~\N~@~RNA sequencing~@~Lymph node reservoirs for long-lived memory T cells - RNA-Seq~@~SDY1389~@~3670~@@~
-EXP20694~@~\N~@~CyTOF~@~Lymph node reservoirs for long-lived memory T cells - CyTOF~@~SDY1389~@~3670~@@~
-EXP20683~@~\N~@~Flow Cytometry~@~Lymph node reservoirs for long-lived memory T cells~@~SDY1389~@~3670~@@~

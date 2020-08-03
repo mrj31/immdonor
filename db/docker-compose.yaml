@@ -43,7 +43,7 @@ services:
     volumes:
       - .\custom:/etc/mysql/conf.d
       - .\migrations:/docker-entrypoint-initdb.d
-      - .\DR34:/immport
+      - .\mysql:/immport
       - db_data:/var/lib/postgresql/data
     environment:
       MYSQL_DATABASE: shared_data
