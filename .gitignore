@@ -4,6 +4,7 @@
 .Ruserdata
 appdata
 cytosets
-metacyto
 db/mysql
 db/neo4j
+R/gatingsets
+R/metacyto
