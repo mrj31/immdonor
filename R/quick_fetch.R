@@ -1,3 +1,6 @@
+### ORIGNALY CREATED BY JU YEONG KIM (https://github.com/juyeongkim) IN THE HIPCCYTO REPO https://github.com/RGLab/HIPCCyto
+### MODIFIED BY MOHAMMAD JAFFERY
+
 fetch_files <- function(study, output_dir = ".") {
   # assert study
   assert_study(study)
