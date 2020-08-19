@@ -1,3 +1,7 @@
+### ORGINAL CODE BY ZICHENG HU https://github.com/hzc363 IN THE METACYTO REPO https://github.com/hzc363/MetaCyto
+### CREDIT TO JU YEONG KIM https://github.com/juyeongkim
+### MODIFIED BY MOHAMMAD JAFFERY 
+
 panel_parser <- function (donorMeta= meta) {cat("Parsing Donor List ")
   filepath = donorMeta$filePath
   headers <- lapply(filepath, function(file) read.FCSheader(file))
