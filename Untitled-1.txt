@@ -1,0 +1,8 @@
+https://dev-h86sot0o.us.auth0.com/login?client=YidtgCinPawTTImKvAWEQLi5WRKgwXYz&protocol=oauth2&response_type=token%20id_token&redirect_uri=https://localhost:3000/callback&scope=openid%20profile
+
+
+
+
+
+
+pg_restore -d 'postgresql://doadmin:gm1yuzobn5da5027@db-postgresql-nyc1-04745-do-user-7847019-0.a.db.ondigitalocean.com:25060/defaultdb?sslmode=require' --jobs 4 dodump.pgsql
