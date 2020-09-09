@@ -14,12 +14,11 @@ library(knitr)
 library(plotly)
 library(kableExtra)
 library(gtools)
-
 ```
 
 Immdonor is a [GraphQL API](https://graphql.org/) of [Immport](https://www.immport.org/) Organ Donor metadata hosted on [Hasura Cloud](https://hasura.io/). This API lets you request exactly what data you need from the [Immport data model](https://www.immport.org/shared/dataModel) and returns a JSON output which can be converted to a R dataframe!
 
-🚩This is a fast and easy way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata for more robust analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R)
+🚩This is a fast and easy way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata for more robust analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R).
 
 ## Connect to Graphql API
 ```{r}
@@ -108,11 +107,15 @@ top10panels<- panels[1:10,]
 top10panels %>% kable(col.names = gsub("data.resultFiles.", "", names(panels)))
 ```
 
+* Please contact me with ANY questions, comments or suggestions!!!
+  + Slack: Join the [immunespace slack!](https://immunespace.slack.com/archives/DFU59KGUD)
+  + Discord: MRJ#0408
+  + email: mrjaffery at gmail dot com
 
-Coming soon:
--Metacyto analysis
--opencyto gating 
--CyTOF data support
+* Coming soon:
+  + Metacyto analysis
+  + opencyto gating 
+  + CyTOF data support
 
 
 
