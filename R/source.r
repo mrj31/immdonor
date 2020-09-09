@@ -21,14 +21,6 @@ immport<- rbind(SDY702,SDY1097,SDY1041,SDY1389)
 donormeta<- panel_parser(donorMeta = immport)
 df<-donormeta
 
-pcon<- dbConnect(RPostgres::Postgres(),dbname = 'defaultdb', 
-                        host = 'db-postgresql-nyc1-18064-do-user-7454067-0.a.db.ondigitalocean.com', # i.e. 'ec2-54-83-201-96.compute-1.amazonaws.com'
-                        port = 25060, # or any other port specified by your DBA
-                        user = 'doadmin',
-                        password = 'f1oyf5dr8keymfym')
-
-dbListTables(pcon)
-
 
 panels<- donormeta %>% group_by(panel_id, parameters) %>% count(marker_id)
 panelid<- unique(panels$panel_id)
