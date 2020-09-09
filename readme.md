@@ -2,16 +2,16 @@ immdonor
 ================
 
 Immdonor is a [GraphQL API](https://graphql.org/) of
-[Immport](https://www.immport.org/) metadata hosted by [Hasura
-Cloud](https://hasura.io/). This API lets you request exactly what
+[Immport](https://www.immport.org/) metadata hosted on [Hasura
+Cloud](https://hasura.io/). This API lets you request exactly what study
 information you need from the [Immport data
 model](https://www.immport.org/shared/dataModel) and returns a JSON
-output which can be converted to a R dataframe.
+output which can be converted to a R dataframe\!
 
-🚩This is a fast and easy way to link FCS files to their metadata and
-compliments the excellent [ImmportR](https://github.com/RGLab/ImmPortR)
-package. You still need to have the FCS files saved locally (see
-quick\_fetch.R)
+🚩This is a fast and easy way to link [Flow Cytometry Standard
+(.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to
+their metadata for analysis with [Cytoverse](https://cytoverse.org/).
+You will need to have the FCS files saved locally (see quick\_fetch.R)
 
 ## Connect to Graphql API
 
@@ -24,7 +24,7 @@ con <- GraphqlClient$new(url = "https://resolved-lab-57.hasura.app/v1/graphql")
 
 -----
 
-### POST
+#### POST
 
 ``` r
 qry <- Query$new()
@@ -37,12 +37,12 @@ studies<- qry$query('studies','{
     maximum_age
   }
 }')
+x <- con$exec(qry$queries$studies)
 ```
 
-### Answer
+#### ANSWER
 
 ``` r
-x <- con$exec(qry$queries$studies)
 studies<- as.data.frame (jsonlite::fromJSON(x))
 ```
 
@@ -246,13 +246,13 @@ files<- as.data.frame (jsonlite::fromJSON(x))
 
 <th style="text-align:left;">
 
-biosampleType
+Primary Lymphoid Organs
 
 </th>
 
-<th style="text-align:left;">
+<th style="text-align:right;">
 
-n
+Count
 
 </th>
 
@@ -270,7 +270,7 @@ Bone Marrow
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 150
 
@@ -286,7 +286,7 @@ Thymus
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 31
 
@@ -310,13 +310,13 @@ Thymus
 
 <th style="text-align:left;">
 
-biosampleType
+Secondary Lymphoid Organs
 
 </th>
 
-<th style="text-align:left;">
+<th style="text-align:right;">
 
-n
+Count
 
 </th>
 
@@ -334,7 +334,7 @@ Inguinal lymph node
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 102
 
@@ -350,7 +350,7 @@ Lung lymph node
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 246
 
@@ -366,7 +366,7 @@ Mesenteric lymph node
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 120
 
@@ -382,7 +382,7 @@ Spleen
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 182
 
@@ -398,7 +398,7 @@ Tonsil
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 12
 
@@ -422,13 +422,13 @@ Tonsil
 
 <th style="text-align:left;">
 
-biosampleType
+Mucosal Organs
 
 </th>
 
-<th style="text-align:left;">
+<th style="text-align:right;">
 
-n
+Count
 
 </th>
 
@@ -446,7 +446,7 @@ Colon
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 76
 
@@ -462,7 +462,7 @@ Ileum
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 61
 
@@ -478,7 +478,7 @@ Jejunum
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 58
 
@@ -494,7 +494,7 @@ Lung
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 130
 
@@ -510,7 +510,7 @@ PBMC
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 136
 
@@ -526,7 +526,7 @@ Whole blood
 
 </td>
 
-<td style="text-align:left;">
+<td style="text-align:right;">
 
 31
 
@@ -893,4 +893,4 @@ Red-A-CD57|PE-Cy7-A-PD1|Indo-1 (Blue)-A-DEAD|Qdot 605-A-CD45RA
 
 </table>
 
-Coming soon: -Metacyto analysis -opencyto gating -ui
+Coming soon: -Metacyto analysis -opencyto gating -CyTOF data support

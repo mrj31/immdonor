@@ -17,9 +17,9 @@ library(gtools)
 
 ```
 
-Immdonor is a [GraphQL API](https://graphql.org/) of [Immport](https://www.immport.org/) metadata hosted by [Hasura Cloud](https://hasura.io/). This API lets you request exactly what information you need from the [Immport data model](https://www.immport.org/shared/dataModel) and returns a JSON output which can be converted to a R dataframe. 
+Immdonor is a [GraphQL API](https://graphql.org/) of [Immport](https://www.immport.org/) metadata hosted on [Hasura Cloud](https://hasura.io/). This API lets you request exactly what study information you need from the [Immport data model](https://www.immport.org/shared/dataModel) and returns a JSON output which can be converted to a R dataframe!
 
-🚩This is a fast and easy way to link FCS files to their metadata and compliments the excellent [ImmportR](https://github.com/RGLab/ImmPortR) package. You still need to have the FCS files saved locally (see quick_fetch.R)
+🚩This is a fast and easy way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata for analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R)
 
 ## Connect to Graphql API
 ```{r}
@@ -28,11 +28,8 @@ library(ghql)
 #By connecting to this API you agree to the Immport.org Terms of Service
 con <- GraphqlClient$new(url = "https://resolved-lab-57.hasura.app/v1/graphql")
 ```
-
-
 ***
-
-### POST
+#### POST
 ```{r}
 qry <- Query$new()
 
@@ -44,14 +41,12 @@ studies<- qry$query('studies','{
     maximum_age
   }
 }')
-
-```
-### Answer 
-```{r, collapse= TRUE, warning=FALSE, message=FALSE}
 x <- con$exec(qry$queries$studies)
+```
+#### ANSWER 
+```{r, collapse= TRUE, warning=FALSE, message=FALSE}
 studies<- as.data.frame (jsonlite::fromJSON(x))
 ```
-
 ```{r,echo=FALSE, warning=FALSE}
 studies=studies[mixedorder(studies$data.shared_data_study.study_accession),]
 studies=studies %>% select(data.shared_data_study.study_accession,data.shared_data_study.actual_enrollment,data.shared_data_study.minimum_age,data.shared_data_study.maximum_age)
@@ -95,12 +90,13 @@ slo<- files %>% filter(data.resultFiles.biosampleType == "Spleen"|data.resultFil
 
 mucosal<- files %>% filter(data.resultFiles.biosampleType == "Lung"|data.resultFiles.biosampleType == "Colon"|data.resultFiles.biosampleType == "Ileum"|data.resultFiles.biosampleType == "Jejunum"|data.resultFiles.biosampleType == "PBMC"|data.resultFiles.biosampleType == "Whole blood") %>% group_by(data.resultFiles.biosampleType) %>% count(data.resultFiles.biosampleType)
 
+knitr::kables(
+  list(
+    knitr::kable(plo, col.names = c('Primary Lymphoid Organs', 'Count'), valign = 't' ),
+    knitr::kable(slo, col.names = c('Secondary Lymphoid Organs', 'Count'), valign = 't'),
+    knitr::kable(mucosal, col.names = c('Mucosal Organs', 'Count'), valign = 't')
+    ))
 
-knitr::kable(
-  list(plo, slo, mucosal),
-  booktabs = TRUE ,align = "l" ,
-  col.names = gsub("data.resultFiles.", "", names(samples))
-)
 
 ```
 ### Panels
