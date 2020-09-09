@@ -25,7 +25,7 @@ con <- GraphqlClient$new(url = "https://resolved-lab-57.hasura.app/v1/graphql")
 
 -----
 
-#### POST
+#### GET
 
 ``` r
 qry <- Query$new()
