@@ -106,7 +106,7 @@ knitr::kable(
 ### Panels
 Here are the top 10 staining panels with the most biosamples 
 ```{r,echo=FALSE}
-panels<- files %>% group_by(data.resultFiles.panel_id) %>% count(data.resultFiles.markers)
+panels<- files %>% group_by(data.resultFiles.panel_id,data.resultFiles.parameters) %>% count(data.resultFiles.markers)
 panels=panels[order(panels$n, decreasing = TRUE),]
 top10panels<- panels[1:10,]
 top10panels %>% kable(col.names = gsub("data.resultFiles.", "", names(panels)))
@@ -116,7 +116,7 @@ top10panels %>% kable(col.names = gsub("data.resultFiles.", "", names(panels)))
 Coming soon:
 -Metacyto analysis
 -opencyto gating 
--ui
+-CyTOF data support
 
 
 

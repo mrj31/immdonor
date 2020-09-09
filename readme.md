@@ -562,6 +562,12 @@ panel\_id
 
 </th>
 
+<th style="text-align:right;">
+
+parameters
+
+</th>
+
 <th style="text-align:left;">
 
 markers
@@ -588,6 +594,12 @@ FCM-19
 
 </td>
 
+<td style="text-align:right;">
+
+14
+
+</td>
+
 <td style="text-align:left;">
 
 FITC-A-CD25|Qdot 605-A-CD45RA|Qdot 655-A-CD3|QDot
@@ -608,6 +620,12 @@ FITC-A-CD25|Qdot 605-A-CD45RA|Qdot 655-A-CD3|QDot
 <td style="text-align:left;">
 
 FCM-56
+
+</td>
+
+<td style="text-align:right;">
+
+20
 
 </td>
 
@@ -635,6 +653,12 @@ FCM-21
 
 </td>
 
+<td style="text-align:right;">
+
+18
+
+</td>
+
 <td style="text-align:left;">
 
 FITC-A-CD25|PE-Cy5-A-CTLA-4|BV421-A-CD69|Qdot 605-A-CD45RA|Qdot
@@ -656,6 +680,12 @@ FITC-A-CD25|PE-Cy5-A-CTLA-4|BV421-A-CD69|Qdot 605-A-CD45RA|Qdot
 <td style="text-align:left;">
 
 FCM-1
+
+</td>
+
+<td style="text-align:right;">
+
+14
 
 </td>
 
@@ -684,6 +714,12 @@ FCM-2
 
 </td>
 
+<td style="text-align:right;">
+
+18
+
+</td>
+
 <td style="text-align:left;">
 
 Alexa Fluor 488-A-CCR7|PerCP-Cy5-5-A-CD45RO|BV421-A-CD69|Qdot
@@ -708,6 +744,12 @@ FCM-26
 
 </td>
 
+<td style="text-align:right;">
+
+18
+
+</td>
+
 <td style="text-align:left;">
 
 FITC-A-CD25|PE-Cy5-A-CTLA-4|BV421-A-CD69|Qdot 605-A-CD45RA|Qdot
@@ -729,6 +771,12 @@ FITC-A-CD25|PE-Cy5-A-CTLA-4|BV421-A-CD69|Qdot 605-A-CD45RA|Qdot
 <td style="text-align:left;">
 
 FCM-54
+
+</td>
+
+<td style="text-align:right;">
+
+20
 
 </td>
 
@@ -757,6 +805,12 @@ FCM-101
 
 </td>
 
+<td style="text-align:right;">
+
+16
+
+</td>
+
 <td style="text-align:left;">
 
 BV510-A-NA|APC-Cy7-A-NA|Alexa Fluor 488-A-NA|BV605-A-NA|Pacific
@@ -778,6 +832,12 @@ dye|PerCP-Cy5-5-A-NA|APC-A-TCF-1|PE-A-T-bet|PE-Texas Red-A-Fix Red
 <td style="text-align:left;">
 
 FCM-4
+
+</td>
+
+<td style="text-align:right;">
+
+18
 
 </td>
 
@@ -803,6 +863,12 @@ Red-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
 <td style="text-align:left;">
 
 FCM-44
+
+</td>
+
+<td style="text-align:right;">
+
+21
 
 </td>
 
