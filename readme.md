@@ -2,16 +2,17 @@ immdonor
 ================
 
 Immdonor is a [GraphQL API](https://graphql.org/) of
-[Immport](https://www.immport.org/) metadata hosted on [Hasura
-Cloud](https://hasura.io/). This API lets you request exactly what study
-information you need from the [Immport data
+[Immport](https://www.immport.org/) Organ Donor metadata hosted on
+[Hasura Cloud](https://hasura.io/). This API lets you request exactly
+what data you need from the [Immport data
 model](https://www.immport.org/shared/dataModel) and returns a JSON
 output which can be converted to a R dataframe\!
 
 🚩This is a fast and easy way to link [Flow Cytometry Standard
 (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to
-their metadata for analysis with [Cytoverse](https://cytoverse.org/).
-You will need to have the FCS files saved locally (see quick\_fetch.R)
+their metadata for more robust analysis with
+[Cytoverse](https://cytoverse.org/). You will need to have the FCS files
+saved locally (see quick\_fetch.R)
 
 ## Connect to Graphql API
 
@@ -422,7 +423,7 @@ Tonsil
 
 <th style="text-align:left;">
 
-Mucosal Organs
+Mucosal
 
 </th>
 
