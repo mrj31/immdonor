@@ -894,12 +894,12 @@ Red-A-CD57|PE-Cy7-A-PD1|Indo-1 (Blue)-A-DEAD|Qdot 605-A-CD45RA
 
 </table>
 
+  - Coming soon:
+      - Metacyto analysis
+      - opencyto gating
+      - CyTOF data support
   - Please contact me with ANY questions, comments or suggestions\!\!\!
       - Slack: Join the [immunespace
         slack\!](https://immunespace.slack.com/archives/DFU59KGUD)
       - Discord: MRJ\#0408
       - email: mrjaffery at gmail dot com
-  - Coming soon:
-      - Metacyto analysis
-      - opencyto gating
-      - CyTOF data support
