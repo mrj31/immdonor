@@ -14,7 +14,7 @@ their metadata for more robust analysis with
 [Cytoverse](https://cytoverse.org/). You will need to have the FCS files
 saved locally (see quick\_fetch.R).
 
-## Connect to Graphql API
+## Connect to API
 
 ``` r
 library(ghql)
@@ -549,7 +549,7 @@ Whole blood
 
 ### Panels
 
-Here are the top 10 staining panels with the most biosamples
+Here are the top 5 staining panels with the most biosamples
 
 <table>
 
@@ -737,102 +737,55 @@ Alexa Fluor 610-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
 
 </tr>
 
+</tbody>
+
+</table>
+
+-----
+
+## T Cell Analysis
+
+<table>
+
+<thead>
+
 <tr>
 
-<td style="text-align:left;">
+<th style="text-align:left;">
 
-FCM-26
+panel\_id
 
-</td>
+</th>
 
-<td style="text-align:right;">
+<th style="text-align:right;">
 
-18
+parameters
 
-</td>
+</th>
 
-<td style="text-align:left;">
+<th style="text-align:left;">
 
-FITC-A-CD25|PE-Cy5-A-CTLA-4|BV421-A-CD69|Qdot 605-A-CD45RA|Qdot
-655-A-CD3|QDot 705-A-CD127|APC-A-CD31|Alexa Fluor
-700-A-KI67|APC-Cy7-A-CD8|PE-Cy7-A-CD4|PE-A-FOX-p3
+markers
 
-</td>
+</th>
 
-<td style="text-align:right;">
+<th style="text-align:right;">
 
-51
+n
 
-</td>
+</th>
 
 </tr>
 
-<tr>
+</thead>
 
-<td style="text-align:left;">
-
-FCM-54
-
-</td>
-
-<td style="text-align:right;">
-
-20
-
-</td>
-
-<td style="text-align:left;">
-
-Alexa Fluor 488-A-CCR7|PerCP-Cy5-5-A-Eomes|BV421-A-Ki67|BV570-A-CD3|Qdot
-605-A-CD45RA|Qdot 655-A-CD4|QDot 705-A-CD95|APC-A-CMV|Alexa Fluor
-700-A-CD45RO|DAPI-A-DEAD|Qdot 605 UV-A-CD8|PE-A-T-bet|PE-Texas
-Red-A-Perforin
-
-</td>
-
-<td style="text-align:right;">
-
-47
-
-</td>
-
-</tr>
+<tbody>
 
 <tr>
 
 <td style="text-align:left;">
 
-FCM-101
-
-</td>
-
-<td style="text-align:right;">
-
-16
-
-</td>
-
-<td style="text-align:left;">
-
-BV510-A-NA|APC-Cy7-A-NA|Alexa Fluor 488-A-NA|BV605-A-NA|Pacific
-Blue-A-efluor450 prol
-dye|PerCP-Cy5-5-A-NA|APC-A-TCF-1|PE-A-T-bet|PE-Texas Red-A-Fix Red
-
-</td>
-
-<td style="text-align:right;">
-
-42
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-FCM-4
+FCM-2
 
 </td>
 
@@ -845,15 +798,14 @@ FCM-4
 <td style="text-align:left;">
 
 Alexa Fluor 488-A-CCR7|PerCP-Cy5-5-A-CD45RO|BV421-A-CD69|Qdot
-605-A-CD45RA|Qdot 655-A-CD3|QDot
-705-A-CD127|APC-A-CD31|APC-Cy7-A-CD8|PE-Texas
-Red-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
+605-A-CD45RA|Qdot 655-A-CD3|QDot 705-A-CD127|APC-A-CD31|APC-Cy7-A-CD8|PE
+Alexa Fluor 610-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
 
 </td>
 
 <td style="text-align:right;">
 
-39
+52
 
 </td>
 
@@ -863,28 +815,27 @@ Red-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
 
 <td style="text-align:left;">
 
-FCM-44
+FCM-3
 
 </td>
 
 <td style="text-align:right;">
 
-21
+18
 
 </td>
 
 <td style="text-align:left;">
 
-APC-A-CMV|BV570-A-CD3|APC-Cy7-A-CD4|Qdot 605 UV-A-CD8|BV421-A-CD95|Alexa
-Fluor 488-A-CCR7|PE-A-CD28|QDot
-705-A-CD127|PerCP-Cy5-5-A-CD69|DAPI-A-CD19|PE-Texas
-Red-A-CD57|PE-Cy7-A-PD1|Indo-1 (Blue)-A-DEAD|Qdot 605-A-CD45RA
+Alexa Fluor 488-A-NA|PerCP-Cy5-5-A-NA|BV421-A-NA|Qdot 605-A-NA|Qdot
+655-A-NA|QDot 705-A-NA|APC-A-NA|APC-Cy7-A-NA|PE Alexa Fluor
+610-A-NA|PE-Cy7-A-NA|PE-A-NA
 
 </td>
 
 <td style="text-align:right;">
 
-33
+27
 
 </td>
 
@@ -893,6 +844,96 @@ Red-A-CD57|PE-Cy7-A-PD1|Indo-1 (Blue)-A-DEAD|Qdot 605-A-CD45RA
 </tbody>
 
 </table>
+
+### Link cytoset to metadata
+
+``` r
+# Load cytoset 
+fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
+fn<- fcs$data.resultFiles.filePath
+cs<- load_cytoset_from_fcs(files = fn)
+
+#link immdonor metadata to pData
+p<- pData(cs)
+m<- cbind(p,fcs)
+pData(cs)<- m
+
+# Harmonize marker names
+channels <- colnames(cs)
+markers <- as.vector(pData(parameters(cs[[1]]))$desc)
+names(markers)<- channels
+markernames(cs) <- markers
+```
+
+### Compensate and Transform
+
+``` r
+# Apply file internal compensation
+comps <- lapply(cs, function(cf) spillover(cf)$SPILL)
+cs_comp <- compensate(cs, comps)
+
+# Transform fluorescent channels with FCSTrans
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+chnls <- colnames(cs)[-channels_to_exclude]
+
+fcstrans<- FCSTransTransform(transformationId = "defaultFCSTransTransform", channelrange = 2^18, channeldecade = 4.5, range = 4096, cutoff = -111, w = 0.5, rescale = TRUE)
+transList <- transformList(chnls, fcstrans)
+
+cs_trans<- transform(cs_comp,transList)
+
+cs<- save_cytoset(cs_trans, "cytosets/tcell)
+```
+
+### Build Autogating strategy
+
+``` r
+cs<- load_cytoset(path = "cytosets/tcell")
+gs<- GatingSet(cs)
+
+gs_add_gating_method(gs, alias = "nonDebris",
+                     pop = "+",
+                     parent = "root",
+                     dims = "FSC-A",
+                     gating_method = "mindensity",
+                     gating_args = "min = 20000, max=50000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType") 
+## ...
+## Warning in .gating_gtMethod(x, y, ...): NAs introduced by coercion
+## done
+
+gs_add_gating_method(gs, alias = "singlets",
+                     pop = "+",
+                     parent = "nonDebris",
+                     dims = "FSC-A,FSC-H",
+                     gating_method = "singletGate")
+## ...
+## done
+
+gs_add_gating_method(gs, alias = "CD19",
+                     pop = "+/-",
+                     parent = "singlets",
+                     dims = "CD19",
+                     gating_method = "mindensity",
+                     gating_args = "min = 1700, max=3000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType")
+## ...
+## Warning in .gating_gtMethod(x, y, ...): NAs introduced by coercion
+## done
+
+
+lln<- subset(gs, data.resultFiles.biosampleType == "Lung lymph node")
+lung<- subset(gs, data.resultFiles.biosampleType == "Lung")
+spleen<- subset(gs, data.resultFiles.biosampleType == "Spleen")
+
+
+ggcyto(gs_pop_get_data(lln ,"CD19-"), aes(x = "CD4", y = "CD8")) + geom_hex(bins = 128)
+```
+
+![](readme_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
   - Coming soon:
       - Metacyto analysis

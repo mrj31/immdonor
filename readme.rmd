@@ -20,7 +20,7 @@ Immdonor is a [GraphQL API](https://graphql.org/) of [Immport](https://www.immpo
 
 🚩This is a fast and easy way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata for more robust analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R).
 
-## Connect to Graphql API
+## Connect to API
 ```{r}
 library(ghql)
 
@@ -99,12 +99,100 @@ knitr::kables(
 
 ```
 ### Panels
-Here are the top 10 staining panels with the most biosamples 
+Here are the top 5 staining panels with the most biosamples 
 ```{r,echo=FALSE}
 panels<- files %>% group_by(data.resultFiles.panel_id,data.resultFiles.parameters) %>% count(data.resultFiles.markers)
 panels=panels[order(panels$n, decreasing = TRUE),]
-top10panels<- panels[1:10,]
+top10panels<- panels[1:5,]
 top10panels %>% kable(col.names = gsub("data.resultFiles.", "", names(panels)))
+```
+***
+## T Cell Analysis
+```{r, echo=FALSE}
+fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
+
+tpanels<- fcs %>% group_by(data.resultFiles.panel_id,data.resultFiles.parameters) %>% count(data.resultFiles.markers)
+tpanels %>% kable(col.names = gsub("data.resultFiles.", "", names(tpanels)))
+
+```
+
+### Link cytoset to metadata
+```{r, echo= TRUE, collapse= TRUE, message= FALSE, error= FALSE, eval=FALSE}
+# Load cytoset 
+fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
+fn<- fcs$data.resultFiles.filePath
+cs<- load_cytoset_from_fcs(files = fn)
+
+#link immdonor metadata to pData
+p<- pData(cs)
+m<- cbind(p,fcs)
+pData(cs)<- m
+
+# Harmonize marker names
+channels <- colnames(cs)
+markers <- as.vector(pData(parameters(cs[[1]]))$desc)
+names(markers)<- channels
+markernames(cs) <- markers
+
+```
+
+### Compensate and Transform
+```{r, echo= TRUE, collapse= TRUE, message= FALSE, error= FALSE, eval=FALSE}
+# Apply file internal compensation
+comps <- lapply(cs, function(cf) spillover(cf)$SPILL)
+cs_comp <- compensate(cs, comps)
+
+# Transform fluorescent channels with FCSTrans
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+chnls <- colnames(cs)[-channels_to_exclude]
+
+fcstrans<- FCSTransTransform(transformationId = "defaultFCSTransTransform", channelrange = 2^18, channeldecade = 4.5, range = 4096, cutoff = -111, w = 0.5, rescale = TRUE)
+transList <- transformList(chnls, fcstrans)
+
+cs_trans<- transform(cs_comp,transList)
+
+cs<- save_cytoset(cs_trans, "cytosets/tcell)
+```
+
+### Build Autogating strategy 
+```{r, collapse= TRUE}
+cs<- load_cytoset(path = "cytosets/tcell")
+gs<- GatingSet(cs)
+
+gs_add_gating_method(gs, alias = "nonDebris",
+                     pop = "+",
+                     parent = "root",
+                     dims = "FSC-A",
+                     gating_method = "mindensity",
+                     gating_args = "min = 20000, max=50000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType") 
+
+gs_add_gating_method(gs, alias = "singlets",
+                     pop = "+",
+                     parent = "nonDebris",
+                     dims = "FSC-A,FSC-H",
+                     gating_method = "singletGate")
+
+gs_add_gating_method(gs, alias = "CD19",
+                     pop = "+/-",
+                     parent = "singlets",
+                     dims = "CD19",
+                     gating_method = "mindensity",
+                     gating_args = "min = 1700, max=3000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType")
+
+
+lln<- subset(gs, data.resultFiles.biosampleType == "Lung lymph node")
+lung<- subset(gs, data.resultFiles.biosampleType == "Lung")
+spleen<- subset(gs, data.resultFiles.biosampleType == "Spleen")
+
+
+ggcyto(gs_pop_get_data(lln ,"CD19-"), aes(x = "CD4", y = "CD8")) + geom_hex(bins = 128)
+
 ```
 
 * Coming soon:
