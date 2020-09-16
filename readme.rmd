@@ -107,7 +107,7 @@ top10panels<- panels[1:5,]
 top10panels %>% kable(col.names = gsub("data.resultFiles.", "", names(panels)))
 ```
 ***
-## T Cell Analysis
+## T Cell Surface Panel Analysis
 ```{r, echo=FALSE}
 fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
 
@@ -116,7 +116,7 @@ tpanels %>% kable(col.names = gsub("data.resultFiles.", "", names(tpanels)))
 
 ```
 
-### Link cytoset to metadata
+#### Link cytoset to metadata
 ```{r, echo= TRUE, collapse= TRUE, message= FALSE, error= FALSE, eval=FALSE}
 # Load cytoset 
 fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
@@ -136,7 +136,7 @@ markernames(cs) <- markers
 
 ```
 
-### Compensate and Transform
+#### Compensate and Transform
 ```{r, echo= TRUE, collapse= TRUE, message= FALSE, error= FALSE, eval=FALSE}
 # Apply file internal compensation
 comps <- lapply(cs, function(cf) spillover(cf)$SPILL)
@@ -156,7 +156,7 @@ cs_trans<- transform(cs_comp,transList)
 cs<- save_cytoset(cs_trans, "cytosets/tcell)
 ```
 
-### Build Autogating strategy 
+#### Build Autogating strategy 
 ```{r, collapse= TRUE}
 cs<- load_cytoset(path = "cytosets/tcell")
 gs<- GatingSet(cs)
@@ -176,12 +176,12 @@ gs_add_gating_method(gs, alias = "singlets",
                      dims = "FSC-A,FSC-H",
                      gating_method = "singletGate")
 
-gs_add_gating_method(gs, alias = "CD19",
-                     pop = "+/-",
+gs_add_gating_method(gs, alias = "tcells",
+                     pop = "+/-+/-",
                      parent = "singlets",
-                     dims = "CD19",
+                     dims = "CD3,CD19",
                      gating_method = "mindensity",
-                     gating_args = "min = 1700, max=3000",
+                     gating_args = "min = 1200, max = 3000",
                      collapseDataForGating = "TRUE",
                      groupBy = "data.resultFiles.biosampleType")
 
@@ -190,8 +190,8 @@ lln<- subset(gs, data.resultFiles.biosampleType == "Lung lymph node")
 lung<- subset(gs, data.resultFiles.biosampleType == "Lung")
 spleen<- subset(gs, data.resultFiles.biosampleType == "Spleen")
 
+ggcyto(lln, aes(x = "CD3", y = "CD19")) + geom_gate("CD3+CD19-") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
 
-ggcyto(gs_pop_get_data(lln ,"CD19-"), aes(x = "CD4", y = "CD8")) + geom_hex(bins = 128)
 
 ```
 

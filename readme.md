@@ -743,7 +743,7 @@ Alexa Fluor 610-A-CD19|PE-Cy7-A-CD4|PE-A-CD28
 
 -----
 
-## T Cell Analysis
+## T Cell Surface Panel Analysis
 
 <table>
 
@@ -845,7 +845,7 @@ Alexa Fluor 488-A-NA|PerCP-Cy5-5-A-NA|BV421-A-NA|Qdot 605-A-NA|Qdot
 
 </table>
 
-### Link cytoset to metadata
+#### Link cytoset to metadata
 
 ``` r
 # Load cytoset 
@@ -865,7 +865,7 @@ names(markers)<- channels
 markernames(cs) <- markers
 ```
 
-### Compensate and Transform
+#### Compensate and Transform
 
 ``` r
 # Apply file internal compensation
@@ -886,7 +886,7 @@ cs_trans<- transform(cs_comp,transList)
 cs<- save_cytoset(cs_trans, "cytosets/tcell)
 ```
 
-### Build Autogating strategy
+#### Build Autogating strategy
 
 ``` r
 cs<- load_cytoset(path = "cytosets/tcell")
@@ -912,15 +912,17 @@ gs_add_gating_method(gs, alias = "singlets",
 ## ...
 ## done
 
-gs_add_gating_method(gs, alias = "CD19",
-                     pop = "+/-",
+gs_add_gating_method(gs, alias = "tcells",
+                     pop = "+/-+/-",
                      parent = "singlets",
-                     dims = "CD19",
+                     dims = "CD3,CD19",
                      gating_method = "mindensity",
-                     gating_args = "min = 1700, max=3000",
+                     gating_args = "min = 1200, max = 3000",
                      collapseDataForGating = "TRUE",
                      groupBy = "data.resultFiles.biosampleType")
 ## ...
+## Warning in .gating_gtMethod(x, y, ...): NAs introduced by coercion
+
 ## Warning in .gating_gtMethod(x, y, ...): NAs introduced by coercion
 ## done
 
@@ -929,8 +931,8 @@ lln<- subset(gs, data.resultFiles.biosampleType == "Lung lymph node")
 lung<- subset(gs, data.resultFiles.biosampleType == "Lung")
 spleen<- subset(gs, data.resultFiles.biosampleType == "Spleen")
 
-
-ggcyto(gs_pop_get_data(lln ,"CD19-"), aes(x = "CD4", y = "CD8")) + geom_hex(bins = 128)
+ggcyto(lln, aes(x = "CD3", y = "CD19")) + geom_gate("CD3+CD19-") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
+## Coordinate system already present. Adding new coordinate system, which will replace the existing one.
 ```
 
 ![](readme_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
