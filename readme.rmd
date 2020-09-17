@@ -18,9 +18,10 @@ library(gtools)
 
 Immdonor is a [GraphQL API](https://graphql.org/) of [Immport](https://www.immport.org/) Organ Donor metadata hosted on [Hasura Cloud](https://hasura.io/). This API lets you request exactly what data you need from the [Immport data model](https://www.immport.org/shared/dataModel) and returns a JSON output which can be converted to a R dataframe!
 
-🚩This is a fast and easy way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata for more robust analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R).
+🔥This is a fast way to link [Flow Cytometry Standard (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to their metadata and enables more robust analysis with [Cytoverse](https://cytoverse.org/). You will need to have the FCS files saved locally (see quick_fetch.R).
 
 ## Connect to API
+You can connect using your preferred GraphQL R client. Here we use [rOpenSci's ghql package](https://github.com/ropensci/ghql)
 ```{r}
 library(ghql)
 
@@ -55,7 +56,7 @@ studies %>% kable(col.names = gsub("data.shared_data_study.", "", names(studies)
 ```
 ***
 ## Organ Donor Metadata
-The studies listed above feature cytometry data generously donated by organ donors. We can build queries to return exactly what metadata we would like to know about these organ donors.
+The studies listed above feature cytometry data generously donated by organ donors. We can build queries to return exactly what metadata we would like to know about these organ donors. 
 
 ```{r, collapse=TRUE, warning=FALSE, message=FALSE}
 qry <- Query$new()
@@ -117,13 +118,14 @@ tpanels %>% kable(col.names = gsub("data.resultFiles.", "", names(tpanels)))
 ```
 
 #### Link cytoset to metadata
+In order to use all of OpenCyto's features like `collapseDataForGating` we need to annotate the donor metadata into the cytoset's pData. 
 ```{r, echo= TRUE, collapse= TRUE, message= FALSE, error= FALSE, eval=FALSE}
 # Load cytoset 
 fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
 fn<- fcs$data.resultFiles.filePath
 cs<- load_cytoset_from_fcs(files = fn)
 
-#link immdonor metadata to pData
+#Annotate immdonor metadata to pData
 p<- pData(cs)
 m<- cbind(p,fcs)
 pData(cs)<- m
@@ -157,6 +159,7 @@ cs<- save_cytoset(cs_trans, "cytosets/tcell)
 ```
 
 #### Build Autogating strategy 
+Since we annotated the cytoset with each file's age, gender and biosample type we can use the `collapseDataForGating` feature and `groupby` biosampleType to improve our autogating. 
 ```{r, collapse= TRUE}
 cs<- load_cytoset(path = "cytosets/tcell")
 gs<- GatingSet(cs)
@@ -176,12 +179,30 @@ gs_add_gating_method(gs, alias = "singlets",
                      dims = "FSC-A,FSC-H",
                      gating_method = "singletGate")
 
-gs_add_gating_method(gs, alias = "tcells",
-                     pop = "+/-+/-",
+
+gs_add_gating_method(gs, alias = "bcells",
+                     pop = "+/-",
                      parent = "singlets",
-                     dims = "CD3,CD19",
+                     dims = "CD19",
                      gating_method = "mindensity",
-                     gating_args = "min = 1200, max = 3000",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType")
+
+gs_add_gating_method(gs, alias = "CD4",
+                     pop = "+/-+/-",
+                     parent = "CD19-",
+                     dims = "CD3,CD4",
+                     gating_method = "mindensity",
+                     gating_args = "min = 1500, max=2500",
+                     collapseDataForGating = "TRUE",
+                     groupBy = "data.resultFiles.biosampleType")
+
+gs_add_gating_method(gs, alias = "Tmem",
+                     pop = "+/-+/-",
+                     parent = "CD4+",
+                     dims = "CCR7,CD45RA",
+                     gating_method = "mindensity",
+                     gating_args = "min = 1750, max=2500",
                      collapseDataForGating = "TRUE",
                      groupBy = "data.resultFiles.biosampleType")
 
@@ -189,21 +210,136 @@ gs_add_gating_method(gs, alias = "tcells",
 lln<- subset(gs, data.resultFiles.biosampleType == "Lung lymph node")
 lung<- subset(gs, data.resultFiles.biosampleType == "Lung")
 spleen<- subset(gs, data.resultFiles.biosampleType == "Spleen")
-
-ggcyto(lln, aes(x = "CD3", y = "CD19")) + geom_gate("CD3+CD19-") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
-
+blood<- subset(gs, data.resultFiles.biosampleType == "Whole blood")
 
 ```
 
-* Coming soon:
-  + Metacyto analysis
-  + opencyto gating 
-  + CyTOF data support
+### CD3+CD4 T cells
+Lung Lymph node 
+```{r, collapse= TRUE}
+ggcyto(lln, aes(x = "CD4", y = "CD3")) + geom_gate("CD4+") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
+```
 
+Lung
+```{r,collapse= TRUE}
+ggcyto(lung, aes(x = "CD4", y = "CD3")) + geom_gate("CD4+") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
+```
+
+Spleen
+```{r,collapse= TRUE}
+ggcyto(spleen, aes(x = "CD4", y = "CD3")) + geom_gate("CD4+") + geom_hex(bins = 128)+ ggcyto_par_set(limits = "instrument")
+```
+
+### CD4 memory subsets
+![](SDY702/tmem.jpg)
+
+Lung Lymph Node
+```{r,collapse= TRUE}
+ggcyto(gs_pop_get_data(lln ,"CD4+"), aes(x = "CCR7", y = "CD45RA")) + geom_hex(bins = 128)
+```
+
+Lung
+```{r,collapse= TRUE}
+ggcyto(gs_pop_get_data(lung ,"CD4+"), aes(x = "CCR7", y = "CD45RA")) + geom_hex(bins = 128)
+```
+
+Spleen
+```{r,collapse= TRUE}
+ggcyto(gs_pop_get_data(spleen ,"CD4+"), aes(x = "CCR7", y = "CD45RA")) + geom_hex(bins = 128)
+```
+
+***
+## Metacyto analysis 
+work in progress...
+```{r, error= FALSE, collapse= TRUE}
+fcs<- files %>% filter(data.resultFiles.panel_id == "FCM-2"|data.resultFiles.panel_id == "FCM-3")
+
+fcs<- fcs %>%
+  dplyr::filter(data.resultFiles.biosampleType == "Lung lymph node"|data.resultFiles.biosampleType == "Lung"|data.resultFiles.biosampleType == "Spleen"|data.resultFiles.biosampleType == "PBMC"|data.resultFiles.biosampleType == "Whole blood"|data.resultFiles.biosampleType == "Inguinal lymph node"|data.resultFiles.biosampleType == "Colon"|data.resultFiles.biosampleType == "Ileum"|data.resultFiles.biosampleType == "Jejunum")
+
+fcs$fcs_files<- fcs$data.resultFiles.filePath
+fcs$study_id <- fcs$data.resultFiles.biosampleType
+
+fcs_info<- fcs %>% 
+  dplyr::select(fcs_files, study_id)
+
+sample_info <- fcs %>%
+  dplyr::select(fcs_files, data.resultFiles.maxSubjectAge,data.resultFiles.biosampleType, data.resultFiles.gender)
+
+preprocessing.batch(inputMeta = fcs_info,
+                    assay = "FCM",
+                    outpath = "metacyto/panel/preprocess_output",
+                    b = 1/150,
+                    excludeTransformParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time"))
+
+files=list.files("metacyto/panel",pattern="processed_sample",recursive=TRUE,full.names=TRUE)
+
+cs<- load_cytoset(path = "cytosets/tcell")
+new<- markernames(cs)
+channels_to_exclude <- c(grep(colnames(cs), pattern="FSC"),
+                         grep(colnames(cs), pattern="SSC"),
+                         grep(colnames(cs), pattern="Time"))
+old <- colnames(cs)[-channels_to_exclude]
+old<- toupper(old)
+oldplus<-paste0(old,"+")
+oldminus<-paste0(old,"-")
+
+nameUpdator(oldNames=old, newNames=new, files=files)
+nameUpdator(oldNames=oldplus, newNames=new, files=files)
+nameUpdator(oldNames=oldminus, newNames=new, files=files)
+
+
+#define parameters that we don't want to cluster
+excludeClusterParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time")
+
+cluster_label=autoCluster.batch(preprocessOutputFolder="metacyto/panel/preprocess_output",
+                                excludeClusterParameters=excludeClusterParameters,
+                                labelQuantile=0.95,
+                                minPercent = 0.05,
+                                clusterFunction=flowSOM.MC)
+
+searchCluster.batch(preprocessOutputFolder="metacyto/panel/preprocess_output",
+                    outpath="metacyto/panel/search_output",
+                    clusterLabel=cluster_label)
+
+files=list.files("metacyto/panel/search_output",pattern="cluster_stats_in_each_sample",recursive=TRUE,full.names=TRUE)
+fcs_stats=collectData(files,longform=TRUE)
+
+
+# join the cluster summary statistics with sample information
+all_data=inner_join(fcs_stats,sample_info,by="fcs_files")
+
+# See the fraction of what clusters are affected by Gender (while controlling for age)
+GA=glmAnalysis(value="value",
+               variableOfInterst="data.resultFiles.gender",
+               parameter="fraction", 
+               otherVariables=c("data.resultFiles.maxSubjectAge"),
+               studyID="study_id",label="label",
+               data=all_data,CILevel=0.95,ifScale=c(TRUE,FALSE))
+
+GA=GA[order(GA$`Effect_size`),]
+
+GA$`label`=as.character(GA$`label`)
+w = which((GA$`label`)>15)
+```
+
+
+```{r,fig.height = 45, fig.width= 7, echo= FALSE}
+plotGA(GA, size = 12)
+```
+
+Top 20 largest effect size 
+```{r,echo= FALSE}
+sig<-GA[order(GA$Effect_size, decreasing = TRUE),]
+top20<- sig[1:20,]
+top20 %>% kable()
+```
+* Coming soon:
+  + CyTOF data support
 
 * Please contact me with ANY questions, comments or suggestions!!!
   + Slack: Join the [immunespace slack!](https://immunespace.slack.com/archives/DFU59KGUD)
-  + Discord: MRJ#0408
+  + iMessage: mrjaffery at icloud dot com
   + email: mrjaffery at gmail dot com
 
 
