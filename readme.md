@@ -1052,8 +1052,6 @@ preprocessing.batch(inputMeta = fcs_info,
                     outpath = "metacyto/panel/preprocess_output",
                     b = 1/150,
                     excludeTransformParameters=c("FSC-A","FSC-W","FSC-H","SSC-A","SSC-W","SSC-H","Time"))
-## Warning in dir.create(outpath, recursive = TRUE): 'metacyto/panel/
-## preprocess_output' already exists
 ## Study ID =  Colon  Preprocessing 
 ## Study ID =  Ileum  Preprocessing 
 ## Study ID =  Jejunum  Preprocessing 
@@ -1130,35 +1128,15 @@ cluster_label=autoCluster.batch(preprocessOutputFolder="metacyto/panel/preproces
 searchCluster.batch(preprocessOutputFolder="metacyto/panel/preprocess_output",
                     outpath="metacyto/panel/search_output",
                     clusterLabel=cluster_label)
-## Warning in dir.create(file.path(outpath), recursive = TRUE): 'metacyto/panel/
-## search_output' already exists
 ## Searching , study ID =  Colon
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Colon' already exists
 ## Searching , study ID =  Ileum
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Ileum' already exists
 ## Searching , study ID =  Jejunum
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Jejunum' already exists
 ## Searching , study ID =  Whole blood
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Whole blood' already exists
 ## Searching , study ID =  Lung lymph node
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Lung lymph node' already exists
 ## Searching , study ID =  Inguinal lymph node
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Inguinal lymph node' already exists
 ## Searching , study ID =  Lung
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Lung' already exists
 ## Searching , study ID =  Spleen
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## Spleen' already exists
 ## Searching , study ID =  PBMC
-## Warning in dir.create(file.path(outpath, std)): 'metacyto/panel/search_output/
-## PBMC' already exists
 
 files=list.files("metacyto/panel/search_output",pattern="cluster_stats_in_each_sample",recursive=TRUE,full.names=TRUE)
 fcs_stats=collectData(files,longform=TRUE)
@@ -1257,55 +1235,55 @@ N
 
 <td style="text-align:left;">
 
-67
+47
 
 </td>
 
 <td style="text-align:left;">
 
-CCR7+|CD31+|CD4+|CD45RO+|CD8+
+CD28+|CD3+|CD4+|CD45RO+
 
 </td>
 
 <td style="text-align:right;">
 
-0.8158715
+0.8031651
 
 </td>
 
 <td style="text-align:right;">
 
-0.2421359
+0.2278789
 
 </td>
 
 <td style="text-align:right;">
 
-3.369478
+3.524526
 
 </td>
 
 <td style="text-align:right;">
 
-0.0014412
+0.0008629
 
 </td>
 
 <td style="text-align:right;">
 
-0.3297635
+0.3464856
 
 </td>
 
 <td style="text-align:right;">
 
-1.3019796
+1.2598446
 
 </td>
 
 <td style="text-align:right;">
 
-61
+66
 
 </td>
 
@@ -1315,65 +1293,7 @@ CCR7+|CD31+|CD4+|CD45RO+|CD8+
 
 <td style="text-align:left;">
 
-185
-
-</td>
-
-<td style="text-align:left;">
-
-CD4+|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.7900383
-
-</td>
-
-<td style="text-align:right;">
-
-0.2411074
-
-</td>
-
-<td style="text-align:right;">
-
-3.276707
-
-</td>
-
-<td style="text-align:right;">
-
-0.0018933
-
-</td>
-
-<td style="text-align:right;">
-
-0.3059950
-
-</td>
-
-<td style="text-align:right;">
-
-1.2740816
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-60
+184
 
 </td>
 
@@ -1385,327 +1305,37 @@ CD28+|CD4+|CD45RO+
 
 <td style="text-align:right;">
 
-0.7750619
+0.7426466
 
 </td>
 
 <td style="text-align:right;">
 
-0.2346350
+0.2428331
 
 </td>
 
 <td style="text-align:right;">
 
-3.303267
+3.058260
 
 </td>
 
 <td style="text-align:right;">
 
-0.0016843
+0.0034352
 
 </td>
 
 <td style="text-align:right;">
 
-0.3048429
+0.2559982
 
 </td>
 
 <td style="text-align:right;">
 
-1.2452809
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-79
-
-</td>
-
-<td style="text-align:left;">
-
-CD28+|CD45RA+|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.7359716
-
-</td>
-
-<td style="text-align:right;">
-
-0.2590835
-
-</td>
-
-<td style="text-align:right;">
-
-2.840674
-
-</td>
-
-<td style="text-align:right;">
-
-0.0064535
-
-</td>
-
-<td style="text-align:right;">
-
-0.2158399
-
-</td>
-
-<td style="text-align:right;">
-
-1.2561033
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-139
-
-</td>
-
-<td style="text-align:left;">
-
-CD4+|CD45RO+
-
-</td>
-
-<td style="text-align:right;">
-
-0.7225872
-
-</td>
-
-<td style="text-align:right;">
-
-0.2341137
-
-</td>
-
-<td style="text-align:right;">
-
-3.086479
-
-</td>
-
-<td style="text-align:right;">
-
-0.0031694
-
-</td>
-
-<td style="text-align:right;">
-
-0.2534128
-
-</td>
-
-<td style="text-align:right;">
-
-1.1917615
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-81
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD31+|CD4+|CD45RO+
-
-</td>
-
-<td style="text-align:right;">
-
-0.6679176
-
-</td>
-
-<td style="text-align:right;">
-
-0.2530027
-
-</td>
-
-<td style="text-align:right;">
-
-2.639962
-
-</td>
-
-<td style="text-align:right;">
-
-0.0107685
-
-</td>
-
-<td style="text-align:right;">
-
-0.1608888
-
-</td>
-
-<td style="text-align:right;">
-
-1.1749463
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-87
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD28+|CD45RO+
-
-</td>
-
-<td style="text-align:right;">
-
-0.6081179
-
-</td>
-
-<td style="text-align:right;">
-
-0.2698959
-
-</td>
-
-<td style="text-align:right;">
-
-2.253157
-
-</td>
-
-<td style="text-align:right;">
-
-0.0282575
-
-</td>
-
-<td style="text-align:right;">
-
-0.0672344
-
-</td>
-
-<td style="text-align:right;">
-
-1.1490013
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-57
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD28+|CD45RA+|CD45RO+
-
-</td>
-
-<td style="text-align:right;">
-
-0.6072493
-
-</td>
-
-<td style="text-align:right;">
-
-0.2557593
-
-</td>
-
-<td style="text-align:right;">
-
-2.374300
-
-</td>
-
-<td style="text-align:right;">
-
-0.0210993
-
-</td>
-
-<td style="text-align:right;">
-
-0.0946963
-
-</td>
-
-<td style="text-align:right;">
-
-1.1198024
+1.2292949
 
 </td>
 
@@ -1727,49 +1357,571 @@ CCR7+|CD28+|CD45RA+|CD45RO+
 
 <td style="text-align:left;">
 
-CCR7+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
+CCR7+|CD19+|CD31+|CD4+|CD45RO+|CD8+
 
 </td>
 
 <td style="text-align:right;">
 
-0.6066387
+0.7358015
 
 </td>
 
 <td style="text-align:right;">
 
-0.2300426
+0.2545410
 
 </td>
 
 <td style="text-align:right;">
 
-2.637071
+2.890700
 
 </td>
 
 <td style="text-align:right;">
 
-0.0110564
+0.0056343
 
 </td>
 
 <td style="text-align:right;">
 
-0.1448088
+0.2247892
 
 </td>
 
 <td style="text-align:right;">
 
-1.0684685
+1.2468138
 
 </td>
 
 <td style="text-align:right;">
 
 61
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+128
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD3+|CD31+|CD4+|CD45RO+|CD8+
+
+</td>
+
+<td style="text-align:right;">
+
+0.7305022
+
+</td>
+
+<td style="text-align:right;">
+
+0.2551306
+
+</td>
+
+<td style="text-align:right;">
+
+2.863248
+
+</td>
+
+<td style="text-align:right;">
+
+0.0060710
+
+</td>
+
+<td style="text-align:right;">
+
+0.2183061
+
+</td>
+
+<td style="text-align:right;">
+
+1.2426982
+
+</td>
+
+<td style="text-align:right;">
+
+61
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+205
+
+</td>
+
+<td style="text-align:left;">
+
+CD4+|CD45RO+
+
+</td>
+
+<td style="text-align:right;">
+
+0.7237409
+
+</td>
+
+<td style="text-align:right;">
+
+0.2444161
+
+</td>
+
+<td style="text-align:right;">
+
+2.961102
+
+</td>
+
+<td style="text-align:right;">
+
+0.0045181
+
+</td>
+
+<td style="text-align:right;">
+
+0.2339201
+
+</td>
+
+<td style="text-align:right;">
+
+1.2135616
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+203
+
+</td>
+
+<td style="text-align:left;">
+
+CD28+|CD3+|CD4+|CD45RO+|CD8+
+
+</td>
+
+<td style="text-align:right;">
+
+0.7039717
+
+</td>
+
+<td style="text-align:right;">
+
+0.2343360
+
+</td>
+
+<td style="text-align:right;">
+
+3.004113
+
+</td>
+
+<td style="text-align:right;">
+
+0.0041215
+
+</td>
+
+<td style="text-align:right;">
+
+0.2335226
+
+</td>
+
+<td style="text-align:right;">
+
+1.1744207
+
+</td>
+
+<td style="text-align:right;">
+
+61
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+30
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+
+
+</td>
+
+<td style="text-align:right;">
+
+0.6178449
+
+</td>
+
+<td style="text-align:right;">
+
+0.2168472
+
+</td>
+
+<td style="text-align:right;">
+
+2.849217
+
+</td>
+
+<td style="text-align:right;">
+
+0.0061552
+
+</td>
+
+<td style="text-align:right;">
+
+0.1832733
+
+</td>
+
+<td style="text-align:right;">
+
+1.0524165
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+78
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD45RO+
+
+</td>
+
+<td style="text-align:right;">
+
+0.6075617
+
+</td>
+
+<td style="text-align:right;">
+
+0.2304315
+
+</td>
+
+<td style="text-align:right;">
+
+2.636626
+
+</td>
+
+<td style="text-align:right;">
+
+0.0108627
+
+</td>
+
+<td style="text-align:right;">
+
+0.1457666
+
+</td>
+
+<td style="text-align:right;">
+
+1.0693569
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+103
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD31+|CD4+|CD45RO+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5967158
+
+</td>
+
+<td style="text-align:right;">
+
+0.2418360
+
+</td>
+
+<td style="text-align:right;">
+
+2.467439
+
+</td>
+
+<td style="text-align:right;">
+
+0.0167492
+
+</td>
+
+<td style="text-align:right;">
+
+0.1120655
+
+</td>
+
+<td style="text-align:right;">
+
+1.0813660
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+11
+
+</td>
+
+<td style="text-align:left;">
+
+CD127-|CD19+|CD4+|CD45RO+|CD8+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5930820
+
+</td>
+
+<td style="text-align:right;">
+
+0.2192813
+
+</td>
+
+<td style="text-align:right;">
+
+2.704663
+
+</td>
+
+<td style="text-align:right;">
+
+0.0095541
+
+</td>
+
+<td style="text-align:right;">
+
+0.1516916
+
+</td>
+
+<td style="text-align:right;">
+
+1.0344725
+
+</td>
+
+<td style="text-align:right;">
+
+55
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+104
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD31+|CD4+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5903663
+
+</td>
+
+<td style="text-align:right;">
+
+0.2410285
+
+</td>
+
+<td style="text-align:right;">
+
+2.449363
+
+</td>
+
+<td style="text-align:right;">
+
+0.0175242
+
+</td>
+
+<td style="text-align:right;">
+
+0.1073343
+
+</td>
+
+<td style="text-align:right;">
+
+1.0733983
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+132
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD3+|CD45RO+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5903451
+
+</td>
+
+<td style="text-align:right;">
+
+0.2647291
+
+</td>
+
+<td style="text-align:right;">
+
+2.229997
+
+</td>
+
+<td style="text-align:right;">
+
+0.0298485
+
+</td>
+
+<td style="text-align:right;">
+
+0.0598160
+
+</td>
+
+<td style="text-align:right;">
+
+1.1208741
+
+</td>
+
+<td style="text-align:right;">
+
+66
 
 </td>
 
@@ -1785,101 +1937,43 @@ CCR7+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
 
 <td style="text-align:left;">
 
-CCR7+|CD28+|CD4+|CD45RA+|CD45RO+|CD8+
+CCR7+|CD19+|CD28+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
 
 </td>
 
 <td style="text-align:right;">
 
-0.5991044
+0.5826280
 
 </td>
 
 <td style="text-align:right;">
 
-0.2186773
+0.2760517
 
 </td>
 
 <td style="text-align:right;">
 
-2.739674
+2.110576
 
 </td>
 
 <td style="text-align:right;">
 
-0.0084535
+0.0397328
 
 </td>
 
 <td style="text-align:right;">
 
-0.1600914
+0.0284311
 
 </td>
 
 <td style="text-align:right;">
 
-1.0381173
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-80
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD28+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5934773
-
-</td>
-
-<td style="text-align:right;">
-
-0.2254257
-
-</td>
-
-<td style="text-align:right;">
-
-2.632696
-
-</td>
-
-<td style="text-align:right;">
-
-0.0111822
-
-</td>
-
-<td style="text-align:right;">
-
-0.1409164
-
-</td>
-
-<td style="text-align:right;">
-
-1.0460382
+1.1368248
 
 </td>
 
@@ -1895,49 +1989,49 @@ CCR7+|CD28+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
 
 <td style="text-align:left;">
 
-239
+213
 
 </td>
 
 <td style="text-align:left;">
 
-CCR7+|CD45RO+
+CD19+|CD3+|CD45RA+|CD45RO+
 
 </td>
 
 <td style="text-align:right;">
 
-0.5932446
+0.5573624
 
 </td>
 
 <td style="text-align:right;">
 
-0.2751229
+0.2245925
 
 </td>
 
 <td style="text-align:right;">
 
-2.156290
+2.481660
 
 </td>
 
 <td style="text-align:right;">
 
-0.0354503
+0.0161614
 
 </td>
 
 <td style="text-align:right;">
 
-0.0418861
+0.1072689
 
 </td>
 
 <td style="text-align:right;">
 
-1.1446032
+1.0074559
 
 </td>
 
@@ -1953,65 +2047,7 @@ CCR7+|CD45RO+
 
 <td style="text-align:left;">
 
-38
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD127-|CD4+|CD45RO+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5702634
-
-</td>
-
-<td style="text-align:right;">
-
-0.2308466
-
-</td>
-
-<td style="text-align:right;">
-
-2.470313
-
-</td>
-
-<td style="text-align:right;">
-
-0.0166289
-
-</td>
-
-<td style="text-align:right;">
-
-0.1076365
-
-</td>
-
-<td style="text-align:right;">
-
-1.0328904
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-144
+151
 
 </td>
 
@@ -2023,37 +2059,37 @@ CD4+
 
 <td style="text-align:right;">
 
-0.5509302
+0.5528965
 
 </td>
 
 <td style="text-align:right;">
 
-0.2408984
+0.2464158
 
 </td>
 
 <td style="text-align:right;">
 
-2.286982
+2.243754
 
 </td>
 
 <td style="text-align:right;">
 
-0.0260688
+0.0288942
 
 </td>
 
 <td style="text-align:right;">
 
-0.0681591
+0.0590682
 
 </td>
 
 <td style="text-align:right;">
 
-1.0337014
+1.0467248
 
 </td>
 
@@ -2069,7 +2105,181 @@ CD4+
 
 <td style="text-align:left;">
 
-126
+17
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD28+|CD45RO+|CD8+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5446699
+
+</td>
+
+<td style="text-align:right;">
+
+0.2295150
+
+</td>
+
+<td style="text-align:right;">
+
+2.373134
+
+</td>
+
+<td style="text-align:right;">
+
+0.0214444
+
+</td>
+
+<td style="text-align:right;">
+
+0.0838993
+
+</td>
+
+<td style="text-align:right;">
+
+1.0054405
+
+</td>
+
+<td style="text-align:right;">
+
+61
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+95
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD28+|CD31+|CD4+|CD45RA+|CD8+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5394233
+
+</td>
+
+<td style="text-align:right;">
+
+0.2465378
+
+</td>
+
+<td style="text-align:right;">
+
+2.187994
+
+</td>
+
+<td style="text-align:right;">
+
+0.0329366
+
+</td>
+
+<td style="text-align:right;">
+
+0.0453505
+
+</td>
+
+<td style="text-align:right;">
+
+1.0334961
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+120
+
+</td>
+
+<td style="text-align:left;">
+
+CCR7+|CD19+|CD28+|CD3+|CD4+|CD45RA+
+
+</td>
+
+<td style="text-align:right;">
+
+0.5315369
+
+</td>
+
+<td style="text-align:right;">
+
+0.2320631
+
+</td>
+
+<td style="text-align:right;">
+
+2.290484
+
+</td>
+
+<td style="text-align:right;">
+
+0.0258510
+
+</td>
+
+<td style="text-align:right;">
+
+0.0664721
+
+</td>
+
+<td style="text-align:right;">
+
+0.9966016
+
+</td>
+
+<td style="text-align:right;">
+
+66
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+136
 
 </td>
 
@@ -2081,269 +2291,37 @@ CD19+|CD45RA+
 
 <td style="text-align:right;">
 
-0.5498642
+0.5297685
 
 </td>
 
 <td style="text-align:right;">
 
-0.2275057
+0.2182681
 
 </td>
 
 <td style="text-align:right;">
 
-2.416925
+2.427146
 
 </td>
 
 <td style="text-align:right;">
 
-0.0189963
+0.0185209
 
 </td>
 
 <td style="text-align:right;">
 
-0.0939326
+0.0923495
 
 </td>
 
 <td style="text-align:right;">
 
-1.0057957
-
-</td>
-
-<td style="text-align:right;">
-
-66
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-261
-
-</td>
-
-<td style="text-align:left;">
-
-CCR7+|CD19+|CD28+|CD3+|CD31+|CD4+|CD45RA+|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5353016
-
-</td>
-
-<td style="text-align:right;">
-
-0.2141589
-
-</td>
-
-<td style="text-align:right;">
-
-2.499553
-
-</td>
-
-<td style="text-align:right;">
-
-0.0156946
-
-</td>
-
-<td style="text-align:right;">
-
-0.1053596
-
-</td>
-
-<td style="text-align:right;">
-
-0.9652435
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-119
-
-</td>
-
-<td style="text-align:left;">
-
-CD127-|CD28+|CD3+|CD4+|CD45RA-|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5211966
-
-</td>
-
-<td style="text-align:right;">
-
-0.2560612
-
-</td>
-
-<td style="text-align:right;">
-
-2.035438
-
-</td>
-
-<td style="text-align:right;">
-
-0.0470189
-
-</td>
-
-<td style="text-align:right;">
-
-0.0071323
-
-</td>
-
-<td style="text-align:right;">
-
-1.0352610
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-56
-
-</td>
-
-<td style="text-align:left;">
-
-CD28+|CD45RO+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5149750
-
-</td>
-
-<td style="text-align:right;">
-
-0.2751269
-
-</td>
-
-<td style="text-align:right;">
-
-1.871773
-
-</td>
-
-<td style="text-align:right;">
-
-0.0669783
-
-</td>
-
-<td style="text-align:right;">
-
-\-0.0373653
-
-</td>
-
-<td style="text-align:right;">
-
-1.0673153
-
-</td>
-
-<td style="text-align:right;">
-
-61
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
-96
-
-</td>
-
-<td style="text-align:left;">
-
-CD28+|CD31+|CD4+|CD45RA+|CD8+
-
-</td>
-
-<td style="text-align:right;">
-
-0.5148991
-
-</td>
-
-<td style="text-align:right;">
-
-0.2277581
-
-</td>
-
-<td style="text-align:right;">
-
-2.260728
-
-</td>
-
-<td style="text-align:right;">
-
-0.0277540
-
-</td>
-
-<td style="text-align:right;">
-
-0.0584617
-
-</td>
-
-<td style="text-align:right;">
-
-0.9713366
+0.9671875
 
 </td>
 
@@ -2359,55 +2337,55 @@ CD28+|CD31+|CD4+|CD45RA+|CD8+
 
 <td style="text-align:left;">
 
-64
+226
 
 </td>
 
 <td style="text-align:left;">
 
-CCR7+|CD127-|CD4+
+CCR7+|CD19+|CD28+|CD3+|CD31+|CD4+|CD45RA+|CD45RO+|CD69+|CD8+
 
 </td>
 
 <td style="text-align:right;">
 
-0.5107749
+0.5258602
 
 </td>
 
 <td style="text-align:right;">
 
-0.2189908
+0.2900366
 
 </td>
 
 <td style="text-align:right;">
 
-2.332403
+1.813083
 
 </td>
 
 <td style="text-align:right;">
 
-0.0233670
+0.0763471
 
 </td>
 
 <td style="text-align:right;">
 
-0.0719075
+\-0.0579531
 
 </td>
 
 <td style="text-align:right;">
 
-0.9496424
+1.1096735
 
 </td>
 
 <td style="text-align:right;">
 
-66
+55
 
 </td>
 
