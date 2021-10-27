@@ -8,7 +8,7 @@ what data you need from the [Immport data
 model](https://www.immport.org/shared/dataModel) and returns a JSON
 output which can be converted to a R dataframe\!
 
-🔥This is a fast way to link [Flow Cytometry Standard
+This is a fast way to link [Flow Cytometry Standard
 (.FCS)](https://en.wikipedia.org/wiki/Flow_Cytometry_Standard) files to
 their metadata and enables more robust analysis with
 [Cytoverse](https://cytoverse.org/). You will need to have the FCS files
